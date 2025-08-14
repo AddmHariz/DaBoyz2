@@ -1,0 +1,30 @@
+[21:09:48] [INFO] [FabricLoader/GameProvider]: Loading Minecraft 1.21.8 with Fabric Loader 0.17.2
+[21:09:48] [INFO] [FabricLoader/GameRemap]: Fabric is preparing JARs on first launch, this may take a few seconds...
+[21:09:49] [ERROR] [FabricLoader/]: Uncaught exception in thread "main"
+java.lang.RuntimeException: An exception occurred when launching the server!
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:71)
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69)
+Caused by: java.lang.RuntimeException: error remapping game jars [C:\Users\adamh\Downloads\versions\1.21.8\server-1.21.8.jar]
+	at net.fabricmc.loader.impl.game.GameProviderHelper.deobfuscate(GameProviderHelper.java:298)
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.initialize(MinecraftGameProvider.java:356)
+	at net.fabricmc.loader.impl.launch.knot.Knot.init(Knot.java:141)
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:66)
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23)
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69)
+	... 1 more
+Caused by: java.nio.file.NoSuchFileException: C:\Users\adamh\Downloads\.\.fabric\remappedJars\minecraft-1.21.8-0.17.2\server-intermediary.jar.tmp
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.implDelete(WindowsFileSystemProvider.java:273)
+	at java.base/sun.nio.fs.AbstractFileSystemProvider.delete(AbstractFileSystemProvider.java:104)
+	at java.base/java.nio.file.Files.delete(Files.java:1152)
+	at jdk.zipfs/jdk.nio.zipfs.ZipFileSystem.sync(ZipFileSystem.java:1864)
+	at jdk.zipfs/jdk.nio.zipfs.ZipFileSystem.lambda$close$9(ZipFileSystem.java:484)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:571)
+	at jdk.zipfs/jdk.nio.zipfs.ZipFileSystem.close(ZipFileSystem.java:483)
+	at net.fabricmc.loader.impl.lib.tinyremapper.FileSystemReference.close(FileSystemReference.java:131)
+	at net.fabricmc.loader.impl.lib.tinyremapper.OutputConsumerPath.close(OutputConsumerPath.java:213)
+	at net.fabricmc.loader.impl.game.GameProviderHelper.deobfuscate0(GameProviderHelper.java:369)
+	at net.fabricmc.loader.impl.game.GameProviderHelper.deobfuscate(GameProviderHelper.java:296)
+	... 6 more
