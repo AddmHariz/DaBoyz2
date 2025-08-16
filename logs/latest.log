@@ -1,32 +1,25 @@
-[22:21:45] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.17.2
-[22:21:45] [main/INFO]: Loading 4 mods:
-	- fabricloader 0.17.2
-	   \-- mixinextras 0.5.0
-	- java 21
-	- minecraft 1.21.8
-[22:21:45] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/adamh/Downloads/DaBoyz2/DaBoyz2/libraries/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[22:21:51] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:21:53] [main/INFO]: Loaded 1407 recipes
-[22:21:53] [main/INFO]: Loaded 1520 advancements
-[22:21:54] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[22:21:54] [Server thread/INFO]: Loading properties
-[22:21:54] [Server thread/INFO]: Default game type: SURVIVAL
-[22:21:54] [Server thread/INFO]: Generating keypair
-[22:21:54] [Server thread/INFO]: Starting Minecraft server on 100.121.112.67:25565
-[22:21:54] [Server thread/INFO]: Using default channel type
-[22:21:54] [Server thread/INFO]: Preparing level "world"
-[22:21:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:21:55] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[22:21:55] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[22:21:56] [Server thread/INFO]: Time elapsed: 1050 ms
-[22:21:56] [Server thread/INFO]: Done (1.638s)! For help, type "help"
-[22:21:58] [Server thread/INFO]: Stopping server
-[22:21:58] [Server thread/INFO]: Saving players
-[22:21:58] [Server thread/INFO]: Saving worlds
-[22:21:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:21:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:21:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:21:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:21:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:21:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:21:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:13:31] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.17.2
+[14:13:32] [main/WARN]: Mod resolution failed
+[14:13:32] [main/INFO]: Immediate reason: [HARD_DEP_NO_CANDIDATE biomesoplenty 21.8.0.8 {depends glitchcore @ [>=21.8.0.0]}, ROOT_FORCELOAD_SINGLE biomesoplenty 21.8.0.8]
+[14:13:32] [main/INFO]: Reason: [HARD_DEP biomesoplenty 21.8.0.8 {depends glitchcore @ [>=21.8.0.0]}, HARD_DEP biomesoplenty 21.8.0.8 {depends terrablender @ [>=6.0.0.3]}, HARD_DEP carpet-tis-addition 1.67.4 {depends carpet @ [>=1.4.176]}, HARD_DEP tectonic 3.0.8 {depends lithostitched @ [>=1.4.11]}]
+[14:13:32] [main/INFO]: SERVER environment disabled: [fabric-renderer-api-v1, fabric-model-loading-api-v1, fabric-sound-api-v1, fabric-screen-api-v1, fabric-key-binding-api-v1, fabric-rendering-v1, fabric-renderer-indigo]
+[14:13:32] [main/INFO]: Fix: add [add:glitchcore 21.8.0.0 ([[21.8.0.0,∞)]), add:terrablender 6.0.0.3 ([[6.0.0.3,∞)]), add:carpet 1.4.176 ([[1.4.176,∞)]), add:lithostitched 1.4.11 ([[1.4.11,∞)])], remove [], replace []
+[14:13:32] [main/ERROR]: Incompatible mods found!
+net.fabricmc.loader.impl.FormattedException: Some of your mods are incompatible with the game or each other!
+A potential solution has been determined, this may resolve your problem:
+	 - Install glitchcore, version 21.8.0.0 or later.
+	 - Install terrablender, version 6.0.0.3 or later.
+	 - Install carpet, version 1.4.176 or later.
+	 - Install lithostitched, version 1.4.11 or later.
+More details:
+	 - Mod 'BiomesOPlenty' (biomesoplenty) 21.8.0.8 requires version 21.8.0.0 or later of glitchcore, which is missing!
+	 - Mod 'BiomesOPlenty' (biomesoplenty) 21.8.0.8 requires version 6.0.0.3 or later of terrablender, which is missing!
+	 - Mod 'Carpet TIS Addition' (carpet-tis-addition) 1.67.4 requires version 1.4.176 or later of carpet, which is missing!
+	 - Mod 'Tectonic' (tectonic) 3.0.8 requires version 1.4.11 or later of lithostitched, which is missing!
+	at net.fabricmc.loader.impl.FormattedException.ofLocalized(FormattedException.java:51) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.FabricLoaderImpl.load(FabricLoaderImpl.java:202) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.init(Knot.java:142) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:66) [fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-mc.1.21.8-loader.0.17.2-launcher.1.1.0.jar:1.1.0]
