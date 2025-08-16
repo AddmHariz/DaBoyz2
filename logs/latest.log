@@ -2,6 +2,7 @@
 [22:21:45] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.17.2
 	   \-- mixinextras 0.5.0
+lol
 	- java 21
 	- minecraft 1.21.8
 [22:21:45] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/adamh/Downloads/DaBoyz2/DaBoyz2/libraries/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
