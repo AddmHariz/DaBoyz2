@@ -1,0 +1,255 @@
+[21:08:37] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.17.2
+[21:08:38] [main/WARN]: Warnings were found!
+ - Mod 'Forge Config API Port' (forgeconfigapiport) 21.8.0 recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+[21:08:38] [main/INFO]: Loading 91 mods:
+	- armor_3d 0.9.0
+	- biomesoplenty 21.8.0.8
+	   \-- net_jodah_typetools 0.6.3
+	- cardinal-components 7.0.0-beta.1
+	   |-- cardinal-components-base 7.0.0-beta.1
+	   |-- cardinal-components-block 7.0.0-beta.1
+	   |-- cardinal-components-chunk 7.0.0-beta.1
+	   |-- cardinal-components-entity 7.0.0-beta.1
+	   |-- cardinal-components-item 7.0.0-beta.1
+	   |-- cardinal-components-level 7.0.0-beta.1
+	   |-- cardinal-components-scoreboard 7.0.0-beta.1
+	   \-- cardinal-components-world 7.0.0-beta.1
+	- carpet 1.4.177+v250630
+	- carpet-tis-addition 1.67.4
+	   \-- conditional-mixin 0.6.4
+	- cloth-config 19.0.147
+	   \-- cloth-basic-math 0.6.1
+	- continents 1.1.10
+	- cristellib 2.0.3
+	   \-- blue_endless_jankson 1.2.3
+	- eternalnether 21.8.1
+	- fabric-api 0.131.0+1.21.8
+	   |-- fabric-api-base 0.5.0+cd8c0daa2c
+	   |-- fabric-api-lookup-api-v1 1.6.101+946bf4c32c
+	   |-- fabric-biome-api-v1 16.0.11+946bf4c32c
+	   |-- fabric-block-api-v1 1.1.3+946bf4c32c
+	   |-- fabric-block-view-api-v2 1.0.31+946bf4c32c
+	   |-- fabric-command-api-v2 2.3.1+52fff9ec2c
+	   |-- fabric-content-registries-v0 10.0.19+946bf4c32c
+	   |-- fabric-convention-tags-v1 2.1.41+7f945d5b2c
+	   |-- fabric-convention-tags-v2 2.15.6+eb5df52f2c
+	   |-- fabric-crash-report-info-v1 0.3.15+946bf4c32c
+	   |-- fabric-data-attachment-api-v1 1.8.11+946bf4c32c
+	   |-- fabric-data-generation-api-v1 23.2.6+0b1ef9762c
+	   |-- fabric-dimensions-v1 4.0.19+946bf4c32c
+	   |-- fabric-entity-events-v1 2.1.2+c9e472732c
+	   |-- fabric-events-interaction-v0 4.0.24+946bf4c32c
+	   |-- fabric-game-rule-api-v1 1.0.73+c64c9c5b2c
+	   |-- fabric-item-api-v1 11.5.0+02ce13f42c
+	   |-- fabric-item-group-api-v1 4.2.14+c5f9bbc12c
+	   |-- fabric-key-binding-api-v1 1.0.65+946bf4c32c
+	   |-- fabric-lifecycle-events-v1 2.6.4+db4dfd852c
+	   |-- fabric-loot-api-v2 3.0.56+3f89f5a52c
+	   |-- fabric-loot-api-v3 2.0.3+946bf4c32c
+	   |-- fabric-message-api-v1 6.1.2+946bf4c32c
+	   |-- fabric-model-loading-api-v1 5.2.6+946bf4c32c
+	   |-- fabric-networking-api-v1 5.0.2+946bf4c32c
+	   |-- fabric-object-builder-api-v1 21.1.8+946bf4c32c
+	   |-- fabric-particles-v1 4.1.8+946bf4c32c
+	   |-- fabric-recipe-api-v1 8.1.15+946bf4c32c
+	   |-- fabric-registry-sync-v0 6.1.28+946bf4c32c
+	   |-- fabric-renderer-api-v1 7.0.3+208eed172c
+	   |-- fabric-renderer-indigo 4.0.3+946bf4c32c
+	   |-- fabric-rendering-fluids-v1 3.1.31+fa6cb72b2c
+	   |-- fabric-rendering-v1 12.5.0+fbe231d52c
+	   |-- fabric-resource-conditions-api-v1 5.0.25+98e6d6db2c
+	   |-- fabric-resource-loader-v0 3.1.12+020423442c
+	   |-- fabric-screen-api-v1 2.1.1+277ecf7d2c
+	   |-- fabric-screen-handler-api-v1 1.3.137+946bf4c32c
+	   |-- fabric-sound-api-v1 1.0.42+946bf4c32c
+	   |-- fabric-tag-api-v1 1.2.2+946bf4c32c
+	   |-- fabric-transfer-api-v1 6.0.6+946bf4c32c
+	   \-- fabric-transitive-access-wideners-v1 6.4.1+ac3e15d12c
+	- fabricloader 0.17.2
+	   \-- mixinextras 0.5.0
+	- forgeconfigapiport 21.8.0
+	   |-- com_electronwill_night-config_core 3.8.2
+	   \-- com_electronwill_night-config_toml 3.8.2
+	- glitchcore 21.8.0.0
+	   \-- net_jodah_typetools 0.6.3
+	- java 21
+	- journeymap 1.21.7-6.0.0-beta.53
+	   |-- ar_com_hjg_pngj 2.1.0
+	   |-- commonnetworking 1.0.21-1.21.7
+	   \-- journeymap-api-fabric 2.0.0-1.21.7-SNAPSHOT
+	- lithium 0.18.0+mc1.21.8
+	- lithostitched 1.4.11
+	- mes 1.4.6-1.21.8-fabric
+	- minecraft 1.21.8
+	- mns 1.1.4-1.21.8-fabric
+	- mr_dungeons_andtaverns 1-v4.7.3
+	- mr_lithosphere 1.7
+	- mr_still_life 0.2
+	- mr_vanilla_structureupdate 1-v2.5
+	- mr_warfare_expanded 1.7.0.1
+	- mss 1.3.6-1.21.8-fabric
+	- mvs 4.4.6-1.21.8-fabric
+	- nullscape 1.2.13
+	- puzzleslib 21.8.6
+	- sereneseasons 21.8.0.0
+	   \-- net_jodah_typetools 0.6.3
+	- skinlayers3d 1.9.0
+	   |-- transition 1.0.4
+	   \-- trender 1.0.6
+	- t_and_t 1.13.5
+	- tectonic 3.0.8
+	- terrablender 6.0.0.3
+	- timberfabric 1.0.2
+	- toughasnails 21.8.0.0
+	   \-- net_jodah_typetools 0.6.3
+	- travelersbackpack 10.8.1
+[21:08:40] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/Firda/Documents/Minecraft%20Servers/DaBoyz2/libraries/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[21:08:41] [main/INFO]: Compatibility level set to JAVA_17
+[21:08:41] [main/INFO]: Compatibility level set to JAVA_21
+[21:08:42] [main/WARN]: Reference map 'cristellib-common-common-refmap.json' for cristellib-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:08:42] [main/WARN]: Reference map 'eternalnether.fabric.refmap.json' for eternalnether.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:08:42] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:08:42] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:08:42] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:08:42] [main/INFO]: Loaded configuration file for Lithium: 160 options available, 0 override(s) found.
+[21:08:44] [main/WARN]: Error loading class: net/minecraft/class_938 (java.lang.ClassNotFoundException: net/minecraft/class_938)
+[21:08:44] [main/WARN]: @Mixin target net.minecraft.class_938 was not found journeymap.mixins.json:client.SalmonRendererInvoker from mod journeymap
+[21:08:45] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[21:08:45] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[21:09:06] [main/INFO]: Constructing components for eternalnether:common
+[21:09:06] [TISCM Mapping/INFO]: Yarn mapping file yarn-1.21.8+build.1-v2.tiny loaded
+[21:09:07] [main/INFO]: Registered synced config with path sereneseasons/fertility.toml
+[21:09:07] [main/INFO]: Registered synced config with path sereneseasons/seasons.toml
+[21:09:07] [main/INFO]: Registered synced config with path toughasnails/thirst.toml
+[21:09:07] [main/INFO]: Registered synced config with path toughasnails/temperature.toml
+[21:09:07] [main/INFO]: Serene Seasons detected. Enabling season modifier.
+[21:09:08] [main/INFO]: Initializing ServerSide Packet Registries
+[21:09:09] [main/INFO]: Constructing components for puzzleslib:common
+[21:09:09] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[21:09:09] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[21:09:09] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[21:09:09] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[21:09:09] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[21:09:09] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[21:09:09] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[21:09:10] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[21:09:10] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[21:09:10] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[21:09:10] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
+[21:09:10] [main/INFO]: Registered the FluidEffect with Unique ID of toughasnails:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 4
+[21:09:10] [main/INFO]: Registered the FluidEffect with Unique ID of toughasnails:water_canteen for Water (Fluid Amount Required: 200) with the ID 5
+[21:09:10] [main/INFO]: Registered the FluidEffect with Unique ID of toughasnails:water for Water (Fluid Amount Required: 81000) with the ID 6
+[21:09:11] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:09:12] [main/INFO]: Found new data pack biomesoplenty, loading it automatically
+[21:09:12] [main/INFO]: Found new data pack continents, loading it automatically
+[21:09:12] [main/INFO]: Found new data pack eternalnether, loading it automatically
+[21:09:12] [main/INFO]: Found new data pack fabric, loading it automatically
+[21:09:12] [main/INFO]: Found new data pack fabric-convention-tags-v2, loading it automatically
+[21:09:12] [main/INFO]: Found new data pack lithostitched, loading it automatically
+[21:09:12] [main/INFO]: Found new data pack mes, loading it automatically
+[21:09:12] [main/INFO]: Found new data pack mns, loading it automatically
+[21:09:12] [main/INFO]: Found new data pack mr_dungeons_andtaverns, loading it automatically
+[21:09:12] [main/INFO]: Found new data pack mr_lithosphere, loading it automatically
+[21:09:12] [main/INFO]: Found new data pack mr_still_life, loading it automatically
+[21:09:12] [main/INFO]: Found new data pack mr_vanilla_structureupdate, loading it automatically
+[21:09:12] [main/INFO]: Found new data pack mr_warfare_expanded, loading it automatically
+[21:09:12] [main/INFO]: Found new data pack mss, loading it automatically
+[21:09:12] [main/INFO]: Found new data pack mvs, loading it automatically
+[21:09:12] [main/INFO]: Found new data pack nullscape, loading it automatically
+[21:09:12] [main/INFO]: Found new data pack sereneseasons, loading it automatically
+[21:09:12] [main/INFO]: Found new data pack t_and_t, loading it automatically
+[21:09:12] [main/INFO]: Found new data pack tectonic:tectonic, loading it automatically
+[21:09:12] [main/INFO]: Found new data pack terrablender, loading it automatically
+[21:09:12] [main/INFO]: Found new data pack toughasnails, loading it automatically
+[21:09:12] [main/INFO]: Found new data pack travelersbackpack, loading it automatically
+[21:09:14] [main/INFO]: No existing world data, creating new world
+[21:09:15] [Worker-Main-2/ERROR]: Couldn't parse data file 'wep:debug_trait_application/removal' from 'wep:item_modifier/debug_trait_application/removal.json'
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 4 column 11 path $.components.
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
+	at knot/com.google.gson.internal.Streams.parse(Streams.java:58) ~[gson-2.11.0.jar:?]
+	at knot/com.google.gson.JsonParser.parseReader(JsonParser.java:146) ~[gson-2.11.0.jar:?]
+	at knot/net.minecraft.class_11341.method_71359(class_11341.java:31) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4309.method_51148(class_4309.java:61) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4309.method_65310(class_4309.java:52) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_9383.method_61240(class_9383.java:64) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 4 column 11 path $.components.
+See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
+	at knot/com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1754) ~[gson-2.11.0.jar:?]
+	at knot/com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1550) ~[gson-2.11.0.jar:?]
+	at knot/com.google.gson.stream.JsonReader.doPeek(JsonReader.java:591) ~[gson-2.11.0.jar:?]
+	at knot/com.google.gson.stream.JsonReader.hasNext(JsonReader.java:498) ~[gson-2.11.0.jar:?]
+	at knot/com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:875) ~[gson-2.11.0.jar:?]
+	at knot/com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:820) ~[gson-2.11.0.jar:?]
+	at knot/com.google.gson.internal.Streams.parse(Streams.java:46) ~[gson-2.11.0.jar:?]
+	... 12 more
+[21:09:18] [main/INFO]: Loaded 1944 recipes
+[21:09:18] [main/INFO]: Loaded 2175 advancements
+[21:09:20] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[21:09:20] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[21:09:20] [main/INFO]: Applied 1 biome modifications to 1 of 245 new biomes in 29.76 ms
+[21:09:21] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[21:09:21] [Server thread/INFO]: Loading properties
+[21:09:21] [Server thread/INFO]: Default game type: SURVIVAL
+[21:09:21] [Server thread/INFO]: Generating keypair
+[21:09:21] [Server thread/INFO]: Starting Minecraft server on 100.99.48.98:25565
+[21:09:21] [Server thread/INFO]: Using default channel type
+[21:09:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:09:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:09:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:09:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:09:21] [Server thread/INFO]: Preparing level "world"
+[21:09:29] [Server thread/ERROR]: Error executing task on Chunk source main thread executor for minecraft:overworld
+net.minecraft.class_148: Exception generating new chunk
+	at knot/net.minecraft.class_3898.method_60445(class_3898.java:676) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3215$class_4212.method_18859(class_3215.java:623) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3215$class_4212.method_16075(class_3215.java:632) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3215$class_4212.method_18857(class_3215.java:596) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3215.getChunkBlocking(class_3215.java:4815) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3215.method_12121(class_3215.java:4736) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1937.method_8402(class_1937.java:213) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1937.method_8497(class_1937.java:14596) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_5322.method_29194(class_5322.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_5322.method_29196(class_5322.java:64) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_27901(MinecraftServer.java:466) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_3786(MinecraftServer.java:399) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_3735(MinecraftServer.java:355) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3176.method_3823(class_3176.java:184) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:672) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.IllegalStateException: Feature order cycle found, involved sources: [Reference{ResourceKey[minecraft:worldgen/biome / still_life:savanna_river]=net.minecraft.class_1959@691c2c62}, Reference{ResourceKey[minecraft:worldgen/biome / biomesoplenty:mystic_grove]=net.minecraft.class_1959@3deeda13}]
+	at knot/net.minecraft.class_7510.method_44210(class_7510.java:99) ~[server-intermediary.jar:?]
+	at knot/dev.worldgen.lithostitched.worldgen.modifier.Modifier.lambda$applyModifiers$4(Modifier.java:73) ~[lithostitched-fabric-1.21.6-1.4.11.jar:?]
+	at knot/com.google.common.base.Suppliers$NonSerializableMemoizingSupplier.get(Suppliers.java:200) ~[guava-33.3.1-jre.jar:?]
+	at knot/net.minecraft.class_2794.method_12102(class_2794.java:293) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_9310.method_57610(class_9310.java:106) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_9770.method_60560(class_9770.java:33) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3898.method_60442(class_3898.java:661) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_9761.method_60461(class_9761.java:101) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_9759.method_60428(class_9759.java:148) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_9759.method_60427(class_9759.java:125) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_9759.method_60432(class_9759.java:76) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_9759.method_60424(class_9759.java:61) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3898.method_60446(class_3898.java:695) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_10171.method_63554(class_10171.java:88) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_10178.method_63604(class_10178.java:21) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_64122(class_156.java:297) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_10174.method_63592(class_10174.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_10174.run(class_10174.java:62) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1423) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
