@@ -1,144 +1,283 @@
-[22:06:50] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:06:56] [ServerMain/INFO]: Loaded 1407 recipes
-[22:06:56] [ServerMain/INFO]: Loaded 1520 advancements
-[22:06:57] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[22:06:57] [Server thread/INFO]: Loading properties
-[22:06:57] [Server thread/INFO]: Default game type: SURVIVAL
-[22:06:57] [Server thread/INFO]: Generating keypair
-[22:06:57] [Server thread/INFO]: Starting Minecraft server on 100.121.112.67:25565
-[22:06:57] [Server thread/INFO]: Using default channel type
-[22:06:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:06:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:06:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:06:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:06:58] [Server thread/INFO]: Preparing level "world"
-[22:06:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:07:00] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[22:07:00] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[22:07:00] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[22:07:00] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[22:07:00] [Server thread/INFO]: Time elapsed: 1984 ms
-[22:07:00] [Server thread/INFO]: Done (2.735s)! For help, type "help"
-[22:07:00] [Server thread/INFO]: Starting remote control listener
-[22:07:00] [Server thread/INFO]: Thread RCON Listener started
-[22:07:00] [Server thread/INFO]: RCON running on 100.121.112.67:25575
-[22:08:00] [Server thread/INFO]: Storyseek3r[/100.121.112.67:60605] logged in with entity id 41 at (230.02169718037138, 63.0, 213.94549780906124)
-[22:08:00] [Server thread/INFO]: Storyseek3r joined the game
-[22:09:03] [Server thread/INFO]: [Storyseek3r: Set own game mode to Survival Mode]
-[22:09:04] [Server thread/INFO]: Storyseek3r fell from a high place
-[22:09:43] [Server thread/INFO]: Afaz07[/100.99.48.98:56412] logged in with entity id 512 at (227.25065233671646, 63.0, 214.63127665212176)
-[22:09:43] [Server thread/INFO]: Afaz07 joined the game
-[22:10:48] [Server thread/INFO]: Storyseek3r was shot by Skeleton
-[22:11:19] [Server thread/INFO]: Storyseek3r was shot by Skeleton
-[22:12:24] [Server thread/INFO]: ViceIsTrash[/100.90.148.25:2531] logged in with entity id 1078 at (217.5, 63.0, 199.5)
-[22:12:24] [Server thread/INFO]: ViceIsTrash joined the game
-[22:12:29] [Server thread/INFO]: Storyseek3r was slain by Zombie
-[22:12:57] [Server thread/INFO]: Storyseek3r has made the advancement [Monster Hunter]
-[22:13:05] [Server thread/INFO]: ViceIsTrash has made the advancement [Monster Hunter]
-[22:13:15] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=221, y=62, z=210}
-[22:13:24] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=217, y=62, z=200}
-[22:13:25] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=217, y=62, z=201}
-[22:13:27] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=211, y=62, z=197}
-[22:13:27] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=212, y=62, z=197}
-[22:13:37] [Server thread/INFO]: OumaKazuya[/100.75.132.49:53837] logged in with entity id 1287 at (218.5, 63.0, 201.5)
-[22:13:37] [Server thread/INFO]: OumaKazuya joined the game
-[22:13:45] [Server thread/INFO]: Storyseek3r was slain by ViceIsTrash
-[22:14:21] [Server thread/INFO]: ViceIsTrash was slain by OumaKazuya
-[22:14:37] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=212, y=65, z=207}
-[22:14:39] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=212, y=64, z=207}
-[22:15:48] [Server thread/INFO]: Afaz07 has made the advancement [Getting an Upgrade]
-[22:16:24] [Server thread/INFO]: ViceIsTrash has made the advancement [Stone Age]
-[22:16:37] [Server thread/INFO]: Storyseek3r has made the advancement [Stone Age]
-[22:18:18] [Server thread/INFO]: ViceIsTrash has made the advancement [Getting an Upgrade]
-[22:18:20] [Server thread/INFO]: umaaaaaq[/100.124.143.21:55378] logged in with entity id 2561 at (226.5, 63.0, 197.5)
-[22:18:20] [Server thread/INFO]: umaaaaaq joined the game
-[22:19:11] [Server thread/INFO]: OumaKazuya has made the advancement [Monster Hunter]
-[22:19:23] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=233, y=68, z=226} jb{x=212, y=63, z=207}
-[22:19:24] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=233, y=68, z=226} jb{x=212, y=64, z=207}
-[22:19:24] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=233, y=68, z=226} jb{x=212, y=64, z=207}
-[22:19:24] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=233, y=68, z=226} jb{x=212, y=64, z=207}
-[22:19:24] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=233, y=68, z=226} jb{x=212, y=62, z=204}
-[22:21:09] [Server thread/INFO]: Storyseek3r lost connection: Disconnected
-[22:21:09] [Server thread/INFO]: Storyseek3r left the game
-[22:21:13] [Server thread/INFO]: umaaaaaq has made the advancement [Stone Age]
-[22:21:24] [Server thread/INFO]: umaaaaaq has made the advancement [Getting an Upgrade]
-[22:22:02] [Server thread/INFO]: OumaKazuya has made the advancement [Stone Age]
-[22:23:08] [Server thread/INFO]: OumaKazuya has made the advancement [Getting an Upgrade]
-[22:26:04] [Server thread/INFO]: ViceIsTrash has made the advancement [Ice Bucket Challenge]
-[22:29:26] [Server thread/INFO]: ViceIsTrash has made the advancement [Sweet Dreams]
-[22:29:55] [Server thread/INFO]: umaaaaaq has made the advancement [Sweet Dreams]
-[22:30:52] [Server thread/INFO]: OumaKazuya has made the advancement [Sweet Dreams]
-[22:31:29] [Server thread/INFO]: umaaaaaq has made the advancement [Acquire Hardware]
-[22:32:20] [Server thread/INFO]: umaaaaaq has made the advancement [Isn't It Iron Pick]
-[22:32:31] [Server thread/INFO]: ViceIsTrash lost connection: Disconnected
-[22:32:31] [Server thread/INFO]: ViceIsTrash left the game
-[22:32:37] [Server thread/INFO]: ViceIsTrash[/100.90.148.25:2754] logged in with entity id 12467 at (-6.300000011920929, 64.0, 1185.4474090113542)
-[22:32:37] [Server thread/INFO]: ViceIsTrash joined the game
-[22:33:04] [Server thread/INFO]: ViceIsTrash lost connection: Disconnected
-[22:33:04] [Server thread/INFO]: ViceIsTrash left the game
-[22:33:11] [Server thread/INFO]: umaaaaaq has made the advancement [Monster Hunter]
-[22:33:13] [Server thread/INFO]: ViceIsTrash[/100.90.148.25:2762] logged in with entity id 12617 at (-12.016079842869717, 63.0, 1191.158574497469)
-[22:33:13] [Server thread/INFO]: ViceIsTrash joined the game
-[22:33:45] [Server thread/INFO]: ViceIsTrash lost connection: Disconnected
-[22:33:45] [Server thread/INFO]: ViceIsTrash left the game
-[22:34:07] [Server thread/INFO]: ViceIsTrash[/100.90.148.25:2822] logged in with entity id 13009 at (-12.617227442819301, 64.0, 1234.6436250512659)
-[22:34:07] [Server thread/INFO]: ViceIsTrash joined the game
-[22:35:54] [Server thread/INFO]: [Afaz07: Teleported Afaz07 to 1117.000000, 64.000000, 97.000000]
-[22:36:02] [Server thread/INFO]: [Afaz07: Teleported Afaz07 to 1217.000000, 64.000000, 167.000000]
-[22:36:05] [Server thread/INFO]: [Afaz07: Teleported Afaz07 to 1230.000000, 113.000000, 20.000000]
-[22:37:20] [Server thread/INFO]: ViceIsTrash lost connection: Disconnected
-[22:37:20] [Server thread/INFO]: ViceIsTrash left the game
-[22:37:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[22:37:29] [Server thread/INFO]: ViceIsTrash[/100.90.148.25:3080] logged in with entity id 17544 at (36.62883444849099, 69.0, 1639.5055381044192)
-[22:37:29] [Server thread/INFO]: ViceIsTrash joined the game
-[22:38:17] [Server thread/INFO]: ViceIsTrash lost connection: Disconnected
-[22:38:17] [Server thread/INFO]: ViceIsTrash left the game
-[22:38:31] [Server thread/INFO]: ViceIsTrash[/100.90.148.25:3145] logged in with entity id 18148 at (52.391368568924726, 64.0, 1748.2349501249969)
-[22:38:31] [Server thread/INFO]: ViceIsTrash joined the game
-[22:39:16] [Server thread/INFO]: ViceIsTrash lost connection: Timed out
-[22:39:16] [Server thread/INFO]: ViceIsTrash left the game
-[22:39:35] [Server thread/INFO]: ViceIsTrash (/100.90.148.25:3384) lost connection: Disconnected
-[22:39:46] [Server thread/INFO]: ViceIsTrash[/100.90.148.25:3429] logged in with entity id 18981 at (37.09132239960198, 62.31989441206047, 1787.8842326256001)
-[22:39:46] [Server thread/INFO]: ViceIsTrash joined the game
-[22:41:30] [Server thread/INFO]: Afaz07 has made the advancement [Acquire Hardware]
-[22:41:49] [Server thread/INFO]: Afaz07 has made the advancement [Isn't It Iron Pick]
-[22:42:03] [Server thread/INFO]: Storyseek3r[/100.121.112.67:54183] logged in with entity id 21610 at (218.33462246306507, 65.0, 250.75751287092976)
-[22:42:03] [Server thread/INFO]: Storyseek3r joined the game
-[22:46:02] [Server thread/INFO]: OumaKazuya has made the advancement [Diamonds!]
-[22:46:03] [Server thread/INFO]: OumaKazuya has made the advancement [Suit Up]
-[22:46:06] [Server thread/INFO]: OumaKazuya has made the advancement [Acquire Hardware]
-[22:46:17] [Server thread/INFO]: Villager cuf['Villager'/28241, l='ServerLevel[world]', x=380.85, y=63.00, z=3082.70] died, message: 'Villager was slain by Zombie'
-[22:46:50] [Server thread/INFO]: umaaaaaq has made the advancement [Not Today, Thank You]
-[22:57:25] [Server thread/WARN]: Acacia Boat (vehicle of OumaKazuya) moved wrongly! 0.2599246146569385
-[22:57:25] [Server thread/WARN]: Acacia Boat (vehicle of OumaKazuya) moved wrongly! 0.2567123289045412
-[22:57:25] [Server thread/WARN]: Acacia Boat (vehicle of OumaKazuya) moved wrongly! 0.2533510358603053
-[22:57:25] [Server thread/WARN]: Acacia Boat (vehicle of Storyseek3r) moved wrongly! 0.2898370984430585
-[22:57:25] [Server thread/WARN]: Acacia Boat (vehicle of Storyseek3r) moved wrongly! 0.3412851530038097
-[22:58:47] [Server thread/INFO]: umaaaaaq fell from a high place
-[23:00:13] [Server thread/INFO]: Storyseek3r lost connection: Disconnected
-[23:00:13] [Server thread/INFO]: Storyseek3r left the game
-[23:00:55] [Server thread/INFO]: umaaaaaq tried to swim in lava
-[23:01:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[23:01:35] [Server thread/INFO]: ViceIsTrash lost connection: Disconnected
-[23:01:35] [Server thread/INFO]: ViceIsTrash left the game
-[23:01:44] [Server thread/INFO]: ViceIsTrash[/100.90.148.25:3507] logged in with entity id 58445 at (681.8545339639892, 63.0, 1180.810731000538)
-[23:01:44] [Server thread/INFO]: ViceIsTrash joined the game
-[23:01:57] [Server thread/INFO]: Afaz07 lost connection: Disconnected
-[23:01:57] [Server thread/INFO]: Afaz07 left the game
-[23:02:24] [Server thread/INFO]: OumaKazuya lost connection: Disconnected
-[23:02:24] [Server thread/INFO]: OumaKazuya left the game
-[23:02:26] [Server thread/INFO]: umaaaaaq lost connection: Disconnected
-[23:02:26] [Server thread/INFO]: umaaaaaq left the game
-[23:02:36] [Server thread/INFO]: ViceIsTrash lost connection: Disconnected
-[23:02:36] [Server thread/INFO]: ViceIsTrash left the game
-[23:02:39] [Server thread/INFO]: Stopping server
-[23:02:39] [Server thread/INFO]: Saving players
-[23:02:39] [Server thread/INFO]: Saving worlds
-[23:02:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:02:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:02:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:02:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:02:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:02:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:02:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[23:02:40] [Server thread/INFO]: Thread RCON Listener stopped
+[23:25:15] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.17.2
+[23:25:15] [main/WARN]: Warnings were found!
+ - Mod 'Forge Config API Port' (forgeconfigapiport) 21.8.0 recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+[23:25:15] [main/INFO]: Loading 92 mods:
+	- armor_3d 0.9.0
+	- biomesoplenty 21.8.0.8
+	   \-- net_jodah_typetools 0.6.3
+	- cardinal-components 7.0.0-beta.1
+	   |-- cardinal-components-base 7.0.0-beta.1
+	   |-- cardinal-components-block 7.0.0-beta.1
+	   |-- cardinal-components-chunk 7.0.0-beta.1
+	   |-- cardinal-components-entity 7.0.0-beta.1
+	   |-- cardinal-components-item 7.0.0-beta.1
+	   |-- cardinal-components-level 7.0.0-beta.1
+	   |-- cardinal-components-scoreboard 7.0.0-beta.1
+	   \-- cardinal-components-world 7.0.0-beta.1
+	- carpet 1.4.177+v250630
+	- carpet-tis-addition 1.67.4
+	   \-- conditional-mixin 0.6.4
+	- chunky 1.4.40
+	- cloth-config 19.0.147
+	   \-- cloth-basic-math 0.6.1
+	- continents 1.1.10
+	- cristellib 2.0.3
+	   \-- blue_endless_jankson 1.2.3
+	- distanthorizons 2.3.4-b
+	   |-- fabric-key-binding-api-v1 1.0.65+946bf4c3f3
+	   |-- fabric-rendering-v1 12.4.0+e8d43c76f3
+	   \-- fabric-screen-api-v1 2.1.0+277ecf7df3
+	- eternalnether 21.8.1
+	- fabric-api 0.131.0+1.21.8
+	   |-- fabric-api-base 0.5.0+cd8c0daa2c
+	   |-- fabric-api-lookup-api-v1 1.6.101+946bf4c32c
+	   |-- fabric-biome-api-v1 16.0.11+946bf4c32c
+	   |-- fabric-block-api-v1 1.1.3+946bf4c32c
+	   |-- fabric-block-view-api-v2 1.0.31+946bf4c32c
+	   |-- fabric-command-api-v2 2.3.1+52fff9ec2c
+	   |-- fabric-content-registries-v0 10.0.19+946bf4c32c
+	   |-- fabric-convention-tags-v1 2.1.41+7f945d5b2c
+	   |-- fabric-convention-tags-v2 2.15.6+eb5df52f2c
+	   |-- fabric-crash-report-info-v1 0.3.15+946bf4c32c
+	   |-- fabric-data-attachment-api-v1 1.8.11+946bf4c32c
+	   |-- fabric-data-generation-api-v1 23.2.6+0b1ef9762c
+	   |-- fabric-dimensions-v1 4.0.19+946bf4c32c
+	   |-- fabric-entity-events-v1 2.1.2+c9e472732c
+	   |-- fabric-events-interaction-v0 4.0.24+946bf4c32c
+	   |-- fabric-game-rule-api-v1 1.0.73+c64c9c5b2c
+	   |-- fabric-item-api-v1 11.5.0+02ce13f42c
+	   |-- fabric-item-group-api-v1 4.2.14+c5f9bbc12c
+	   |-- fabric-key-binding-api-v1 1.0.65+946bf4c32c
+	   |-- fabric-lifecycle-events-v1 2.6.4+db4dfd852c
+	   |-- fabric-loot-api-v2 3.0.56+3f89f5a52c
+	   |-- fabric-loot-api-v3 2.0.3+946bf4c32c
+	   |-- fabric-message-api-v1 6.1.2+946bf4c32c
+	   |-- fabric-model-loading-api-v1 5.2.6+946bf4c32c
+	   |-- fabric-networking-api-v1 5.0.2+946bf4c32c
+	   |-- fabric-object-builder-api-v1 21.1.8+946bf4c32c
+	   |-- fabric-particles-v1 4.1.8+946bf4c32c
+	   |-- fabric-recipe-api-v1 8.1.15+946bf4c32c
+	   |-- fabric-registry-sync-v0 6.1.28+946bf4c32c
+	   |-- fabric-renderer-api-v1 7.0.3+208eed172c
+	   |-- fabric-renderer-indigo 4.0.3+946bf4c32c
+	   |-- fabric-rendering-fluids-v1 3.1.31+fa6cb72b2c
+	   |-- fabric-rendering-v1 12.5.0+fbe231d52c
+	   |-- fabric-resource-conditions-api-v1 5.0.25+98e6d6db2c
+	   |-- fabric-resource-loader-v0 3.1.12+020423442c
+	   |-- fabric-screen-api-v1 2.1.1+277ecf7d2c
+	   |-- fabric-screen-handler-api-v1 1.3.137+946bf4c32c
+	   |-- fabric-sound-api-v1 1.0.42+946bf4c32c
+	   |-- fabric-tag-api-v1 1.2.2+946bf4c32c
+	   |-- fabric-transfer-api-v1 6.0.6+946bf4c32c
+	   \-- fabric-transitive-access-wideners-v1 6.4.1+ac3e15d12c
+	- fabricloader 0.17.2
+	   \-- mixinextras 0.5.0
+	- forgeconfigapiport 21.8.0
+	   |-- com_electronwill_night-config_core 3.8.2
+	   \-- com_electronwill_night-config_toml 3.8.2
+	- glitchcore 21.8.0.0
+	   \-- net_jodah_typetools 0.6.3
+	- java 21
+	- journeymap 1.21.7-6.0.0-beta.53
+	   |-- ar_com_hjg_pngj 2.1.0
+	   |-- commonnetworking 1.0.21-1.21.7
+	   \-- journeymap-api-fabric 2.0.0-1.21.7-SNAPSHOT
+	- lithium 0.18.0+mc1.21.8
+	- lithostitched 1.4.11
+	- mes 1.4.6-1.21.8-fabric
+	- minecraft 1.21.8
+	- mns 1.1.4-1.21.8-fabric
+	- mr_dungeons_andtaverns 1-v4.7.3
+	- mr_lithosphere 1.7
+	- mr_still_life 0.2
+	- mr_vanilla_structureupdate 1-v2.5
+	- mss 1.3.6-1.21.8-fabric
+	- mvs 4.4.6-1.21.8-fabric
+	- nullscape 1.2.13
+	- puzzleslib 21.8.6
+	- sereneseasons 21.8.0.0
+	   \-- net_jodah_typetools 0.6.3
+	- skinlayers3d 1.9.0
+	   |-- transition 1.0.4
+	   \-- trender 1.0.6
+	- t_and_t 1.13.5
+	- tectonic 3.0.8
+	- terrablender 6.0.0.3
+	- timberfabric 1.0.2
+	- toughasnails 21.8.0.0
+	   \-- net_jodah_typetools 0.6.3
+	- travelersbackpack 10.8.1
+[23:25:15] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/Firda/Documents/Minecraft%20Servers/DaBoyz2/libraries/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[23:25:15] [main/INFO]: Compatibility level set to JAVA_17
+[23:25:15] [main/INFO]: Compatibility level set to JAVA_21
+[23:25:15] [main/WARN]: Reference map 'cristellib-common-common-refmap.json' for cristellib-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:25:15] [main/WARN]: Reference map 'eternalnether.fabric.refmap.json' for eternalnether.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:25:15] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:25:15] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:25:15] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[23:25:15] [main/INFO]: Loaded configuration file for Lithium: 160 options available, 0 override(s) found.
+[23:25:16] [main/WARN]: Error loading class: net/minecraft/class_938 (java.lang.ClassNotFoundException: net/minecraft/class_938)
+[23:25:16] [main/WARN]: @Mixin target net.minecraft.class_938 was not found journeymap.mixins.json:client.SalmonRendererInvoker from mod journeymap
+[23:25:16] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[23:25:16] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[23:25:35] [main/INFO]: Constructing components for eternalnether:common
+[23:25:35] [TISCM Mapping/INFO]: Yarn mapping file yarn-1.21.8+build.1-v2.tiny loaded
+[23:25:36] [main/INFO]: Registered synced config with path sereneseasons/fertility.toml
+[23:25:36] [main/INFO]: Registered synced config with path sereneseasons/seasons.toml
+[23:25:36] [main/INFO]: Registered synced config with path toughasnails/thirst.toml
+[23:25:36] [main/INFO]: Registered synced config with path toughasnails/temperature.toml
+[23:25:36] [main/INFO]: Serene Seasons detected. Enabling season modifier.
+[23:25:37] [main/INFO]: Initializing ServerSide Packet Registries
+[23:25:38] [main/INFO]: Constructing components for puzzleslib:common
+[23:25:38] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[23:25:38] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[23:25:38] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[23:25:38] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[23:25:38] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[23:25:38] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[23:25:38] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[23:25:39] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[23:25:39] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[23:25:39] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[23:25:39] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
+[23:25:39] [main/INFO]: Registered the FluidEffect with Unique ID of toughasnails:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 4
+[23:25:39] [main/INFO]: Registered the FluidEffect with Unique ID of toughasnails:water_canteen for Water (Fluid Amount Required: 200) with the ID 5
+[23:25:39] [main/INFO]: Registered the FluidEffect with Unique ID of toughasnails:water for Water (Fluid Amount Required: 81000) with the ID 6
+[23:25:40] [main/INFO]: Initializing Distant Horizons server, firing DhApiBeforeDhInitEvent event...
+[23:25:40] [main/INFO]: Distant Horizons, Version: 2.3.4-b
+[23:25:40] [main/INFO]: Registering Fabric Server Events
+[23:25:40] [main/INFO]: Distant Horizons server Initialized, adding event subscribers...
+[23:25:41] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:25:47] [main/INFO]: Loaded 1943 recipes
+[23:25:47] [main/INFO]: Loaded 2106 advancements
+[23:25:48] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[23:25:49] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[23:25:49] [main/INFO]: Applied 1 biome modifications to 1 of 245 new biomes in 35.94 ms
+[23:25:50] [Server thread/INFO]: Initialising config for DistantHorizons
+[23:25:50] [Server thread/INFO]: Config for DistantHorizons initialised
+[23:25:50] [Server thread/INFO]: Running Delayed setup...
+[23:25:50] [Server thread/INFO]: Delayed setup complete, firing DhApiAfterDhInitEvent event...
+[23:25:50] [Server thread/INFO]: Checking for Distant Horizons update
+[23:25:51] [Server thread/INFO]: Distant Horizons already up to date.
+[23:25:51] [Server thread/INFO]: Distant Horizons server Initialized at 
+[23:25:51] [Server thread/INFO]: Started [DhServerWorld] of type [SERVER_ONLY].
+[23:25:51] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[23:25:51] [Server thread/INFO]: Loading properties
+[23:25:51] [Server thread/INFO]: Default game type: SURVIVAL
+[23:25:51] [Server thread/INFO]: Generating keypair
+[23:25:51] [Server thread/INFO]: Starting Minecraft server on 100.99.48.98:25565
+[23:25:51] [Server thread/INFO]: Using default channel type
+[23:25:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:25:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:25:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:25:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:25:51] [Server thread/INFO]: Preparing level "world"
+[23:25:52] [DH-Full Data Migration Thread[0]/INFO]: Attempting to migrate data sources for: [minecraft:overworld]-[.\world\data]...
+[23:25:52] [DH-Full Data Migration Thread[0]/INFO]: Found [0] data sources that need migration.
+[23:25:52] [Server thread/INFO]: Started DhServerLevel for [Wrapped{ServerLevel[world]@minecraft:overworld}] at [[LocalSaveStructure@(.\world\data)]].
+[23:25:52] [DH-Full Data Migration Thread[0]/INFO]: No migration necessary.
+[23:25:52] [DH-Full Data Migration Thread[0]/INFO]: Attempting to migrate data sources for: [minecraft:the_nether]-[.\world\DIM-1\data]...
+[23:25:52] [DH-Full Data Migration Thread[0]/INFO]: Found [0] data sources that need migration.
+[23:25:52] [DH-Full Data Migration Thread[0]/INFO]: No migration necessary.
+[23:25:52] [Server thread/INFO]: Started DhServerLevel for [Wrapped{ServerLevel[world]@minecraft:the_nether}] at [[LocalSaveStructure@(.\world\data;.\world\DIM-1\data)]].
+[23:25:52] [DH-Full Data Migration Thread[0]/INFO]: Attempting to migrate data sources for: [minecraft:the_end]-[.\world\DIM1\data]...
+[23:25:52] [DH-Full Data Migration Thread[0]/INFO]: Found [0] data sources that need migration.
+[23:25:52] [DH-Full Data Migration Thread[0]/INFO]: No migration necessary.
+[23:25:52] [Server thread/INFO]: Started DhServerLevel for [Wrapped{ServerLevel[world]@minecraft:the_end}] at [[LocalSaveStructure@(.\world\DIM1\data;.\world\data;.\world\DIM-1\data)]].
+[23:25:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:25:53] [DH-ApplyConfigPresetTimer/INFO]: changing preset to: BALANCED
+[23:25:53] [DH-ApplyConfigPresetTimer/INFO]: changing preset to: MEDIUM
+[23:25:53] [DH-ApplyConfigPresetTimer/INFO]: preset active: BALANCED
+[23:25:53] [DH-ApplyConfigPresetTimer/INFO]: preset active: MEDIUM
+[23:26:02] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[23:26:02] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[23:26:02] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[23:26:02] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[23:26:02] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[23:26:02] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[23:26:02] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[23:26:02] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[23:26:02] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[23:26:02] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[23:26:02] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[23:26:02] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[23:26:02] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[23:26:02] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[23:26:02] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[23:26:02] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[23:26:02] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[23:26:02] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[23:26:02] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[23:26:03] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[23:26:03] [Worker-Main-25/INFO]: Preparing spawn area: 0%
+[23:26:03] [Server thread/INFO]: Time elapsed: 10694 ms
+[23:26:03] [Server thread/INFO]: Done (11.869s)! For help, type "help"
+[23:26:03] [Server thread/INFO]: Starting remote control listener
+[23:26:03] [Server thread/INFO]: Thread RCON Listener started
+[23:26:03] [Server thread/INFO]: RCON running on 100.99.48.98:25575
+[23:26:03] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
+[23:26:03] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@41ce980e for service interface journeymap.api.services.ClientPlatformService
+[23:26:03] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@2df33d6b for service interface journeymap.api.services.CommonPlatformService
+[23:26:03] [Server thread/INFO]: DH TerraFirmaCraft detection: false
+[23:26:03] [Server thread/INFO]: ================WORLD_GEN_STEP_INITING=============
+[23:26:03] [Server thread/INFO]: Batch Chunk Generator initialized
+[23:26:03] [Server thread/INFO]: Creating world gen queue
+[23:26:03] [Server thread/INFO]: Created world gen queue
+[23:26:03] [Server thread/INFO]: Set world gen queue for level [minecraft:the_end].
+[23:26:03] [Server thread/INFO]: ================WORLD_GEN_STEP_INITING=============
+[23:26:03] [Server thread/INFO]: Batch Chunk Generator initialized
+[23:26:03] [Server thread/INFO]: Creating world gen queue
+[23:26:03] [Server thread/INFO]: Created world gen queue
+[23:26:03] [Server thread/INFO]: Set world gen queue for level [minecraft:overworld].
+[23:26:03] [Server thread/INFO]: ================WORLD_GEN_STEP_INITING=============
+[23:26:03] [Server thread/INFO]: Batch Chunk Generator initialized
+[23:26:03] [Server thread/INFO]: Creating world gen queue
+[23:26:03] [Server thread/INFO]: Created world gen queue
+[23:26:03] [Server thread/INFO]: Set world gen queue for level [minecraft:the_nether].
+[23:26:46] [Server thread/INFO]: Afaz07[/100.99.48.98:45639] logged in with entity id 13 at (-166.5, 66.0, 328.5)
+[23:26:46] [Server thread/INFO]: Loading config from file...
+[23:26:46] [Server thread/INFO]: Player [Afaz07] joined.
+[23:26:46] [Server thread/INFO]: Afaz07 joined the game
+[23:26:46] [Server thread/INFO]: Player Afaz07 joined with a matching carpet client
+[23:26:48] [Server thread/ERROR]: Error executing task on Chunk source main thread executor for minecraft:overworld
+net.minecraft.class_148: Exception generating new chunk
+	at knot/net.minecraft.class_3898.method_60445(class_3898.java:676) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3215$class_4212.method_18859(class_3215.java:623) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_16075(class_1255.java:138) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3215$class_4212.method_16075(class_3215.java:632) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3215.method_19492(class_3215.java:282) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_20415(MinecraftServer.java:871) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16075(MinecraftServer.java:859) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1255.method_18857(class_1255.java:147) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_18857(MinecraftServer.java:823) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_16208(MinecraftServer.java:830) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:713) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.IllegalStateException: Feature order cycle found, involved sources: [Reference{ResourceKey[minecraft:worldgen/biome / still_life:savanna_river]=net.minecraft.class_1959@b4f0371}, Reference{ResourceKey[minecraft:worldgen/biome / biomesoplenty:mystic_grove]=net.minecraft.class_1959@4437d69a}]
+	at knot/net.minecraft.class_7510.method_44210(class_7510.java:99) ~[server-intermediary.jar:?]
+	at knot/dev.worldgen.lithostitched.worldgen.modifier.Modifier.lambda$applyModifiers$4(Modifier.java:73) ~[lithostitched-fabric-1.21.6-1.4.11.jar:?]
+	at knot/com.google.common.base.Suppliers$NonSerializableMemoizingSupplier.get(Suppliers.java:200) ~[guava-33.3.1-jre.jar:?]
+	at knot/net.minecraft.class_2794.method_12102(class_2794.java:293) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_9310.method_57610(class_9310.java:106) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_9770.method_60560(class_9770.java:33) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3898.method_60442(class_3898.java:661) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_9761.method_60461(class_9761.java:101) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_9759.method_60428(class_9759.java:148) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_9759.method_60427(class_9759.java:125) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_9759.method_60432(class_9759.java:76) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_9759.method_60424(class_9759.java:61) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3898.method_60446(class_3898.java:695) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_10171.method_63554(class_10171.java:88) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_10178.method_63604(class_10178.java:21) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_64122(class_156.java:297) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_10174.method_63592(class_10174.java:50) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_10174.run(class_10174.java:62) ~[server-intermediary.jar:?]
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1423) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
