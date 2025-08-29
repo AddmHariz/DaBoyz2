@@ -8,7 +8,7 @@ REM You can change RAM settings here
 REM Set the maximum and minimum RAM for the server
 
 echo Starting server...
-java -Xmx8G -Xms8G -jar server.jar
+java -Xmx16G -Xms16G -jar server.jar
 
 
 
