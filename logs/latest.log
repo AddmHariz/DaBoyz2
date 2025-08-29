@@ -1,8 +1,8 @@
-[21:08:37] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.17.2
-[21:08:38] [main/WARN]: Warnings were found!
+[21:22:49] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.17.2
+[21:22:50] [main/WARN]: Warnings were found!
  - Mod 'Forge Config API Port' (forgeconfigapiport) 21.8.0 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
-[21:08:38] [main/INFO]: Loading 91 mods:
+[21:22:50] [main/INFO]: Loading 90 mods:
 	- armor_3d 0.9.0
 	- biomesoplenty 21.8.0.8
 	   \-- net_jodah_typetools 0.6.3
@@ -87,7 +87,6 @@
 	- mr_lithosphere 1.7
 	- mr_still_life 0.2
 	- mr_vanilla_structureupdate 1-v2.5
-	- mr_warfare_expanded 1.7.0.1
 	- mss 1.3.6-1.21.8-fabric
 	- mvs 4.4.6-1.21.8-fabric
 	- nullscape 1.2.13
@@ -104,109 +103,82 @@
 	- toughasnails 21.8.0.0
 	   \-- net_jodah_typetools 0.6.3
 	- travelersbackpack 10.8.1
-[21:08:40] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/Firda/Documents/Minecraft%20Servers/DaBoyz2/libraries/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[21:08:41] [main/INFO]: Compatibility level set to JAVA_17
-[21:08:41] [main/INFO]: Compatibility level set to JAVA_21
-[21:08:42] [main/WARN]: Reference map 'cristellib-common-common-refmap.json' for cristellib-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[21:08:42] [main/WARN]: Reference map 'eternalnether.fabric.refmap.json' for eternalnether.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[21:08:42] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[21:08:42] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
-[21:08:42] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[21:08:42] [main/INFO]: Loaded configuration file for Lithium: 160 options available, 0 override(s) found.
-[21:08:44] [main/WARN]: Error loading class: net/minecraft/class_938 (java.lang.ClassNotFoundException: net/minecraft/class_938)
-[21:08:44] [main/WARN]: @Mixin target net.minecraft.class_938 was not found journeymap.mixins.json:client.SalmonRendererInvoker from mod journeymap
-[21:08:45] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
-[21:08:45] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
-[21:09:06] [main/INFO]: Constructing components for eternalnether:common
-[21:09:06] [TISCM Mapping/INFO]: Yarn mapping file yarn-1.21.8+build.1-v2.tiny loaded
-[21:09:07] [main/INFO]: Registered synced config with path sereneseasons/fertility.toml
-[21:09:07] [main/INFO]: Registered synced config with path sereneseasons/seasons.toml
-[21:09:07] [main/INFO]: Registered synced config with path toughasnails/thirst.toml
-[21:09:07] [main/INFO]: Registered synced config with path toughasnails/temperature.toml
-[21:09:07] [main/INFO]: Serene Seasons detected. Enabling season modifier.
-[21:09:08] [main/INFO]: Initializing ServerSide Packet Registries
-[21:09:09] [main/INFO]: Constructing components for puzzleslib:common
-[21:09:09] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[21:09:09] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
-[21:09:09] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[21:09:09] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[21:09:09] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[21:09:09] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[21:09:09] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[21:09:10] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
-[21:09:10] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
-[21:09:10] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
-[21:09:10] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
-[21:09:10] [main/INFO]: Registered the FluidEffect with Unique ID of toughasnails:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 4
-[21:09:10] [main/INFO]: Registered the FluidEffect with Unique ID of toughasnails:water_canteen for Water (Fluid Amount Required: 200) with the ID 5
-[21:09:10] [main/INFO]: Registered the FluidEffect with Unique ID of toughasnails:water for Water (Fluid Amount Required: 81000) with the ID 6
-[21:09:11] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:09:12] [main/INFO]: Found new data pack biomesoplenty, loading it automatically
-[21:09:12] [main/INFO]: Found new data pack continents, loading it automatically
-[21:09:12] [main/INFO]: Found new data pack eternalnether, loading it automatically
-[21:09:12] [main/INFO]: Found new data pack fabric, loading it automatically
-[21:09:12] [main/INFO]: Found new data pack fabric-convention-tags-v2, loading it automatically
-[21:09:12] [main/INFO]: Found new data pack lithostitched, loading it automatically
-[21:09:12] [main/INFO]: Found new data pack mes, loading it automatically
-[21:09:12] [main/INFO]: Found new data pack mns, loading it automatically
-[21:09:12] [main/INFO]: Found new data pack mr_dungeons_andtaverns, loading it automatically
-[21:09:12] [main/INFO]: Found new data pack mr_lithosphere, loading it automatically
-[21:09:12] [main/INFO]: Found new data pack mr_still_life, loading it automatically
-[21:09:12] [main/INFO]: Found new data pack mr_vanilla_structureupdate, loading it automatically
-[21:09:12] [main/INFO]: Found new data pack mr_warfare_expanded, loading it automatically
-[21:09:12] [main/INFO]: Found new data pack mss, loading it automatically
-[21:09:12] [main/INFO]: Found new data pack mvs, loading it automatically
-[21:09:12] [main/INFO]: Found new data pack nullscape, loading it automatically
-[21:09:12] [main/INFO]: Found new data pack sereneseasons, loading it automatically
-[21:09:12] [main/INFO]: Found new data pack t_and_t, loading it automatically
-[21:09:12] [main/INFO]: Found new data pack tectonic:tectonic, loading it automatically
-[21:09:12] [main/INFO]: Found new data pack terrablender, loading it automatically
-[21:09:12] [main/INFO]: Found new data pack toughasnails, loading it automatically
-[21:09:12] [main/INFO]: Found new data pack travelersbackpack, loading it automatically
-[21:09:14] [main/INFO]: No existing world data, creating new world
-[21:09:15] [Worker-Main-2/ERROR]: Couldn't parse data file 'wep:debug_trait_application/removal' from 'wep:item_modifier/debug_trait_application/removal.json'
-com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 4 column 11 path $.components.
-See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
-	at knot/com.google.gson.internal.Streams.parse(Streams.java:58) ~[gson-2.11.0.jar:?]
-	at knot/com.google.gson.JsonParser.parseReader(JsonParser.java:146) ~[gson-2.11.0.jar:?]
-	at knot/net.minecraft.class_11341.method_71359(class_11341.java:31) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4309.method_51148(class_4309.java:61) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4309.method_65310(class_4309.java:52) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_9383.method_61240(class_9383.java:64) ~[server-intermediary.jar:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) [?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) [?:?]
-	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) [?:?]
-	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) [?:?]
-	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
-	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
-	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setStrictness(Strictness.LENIENT) to accept malformed JSON at line 4 column 11 path $.components.
-See https://github.com/google/gson/blob/main/Troubleshooting.md#malformed-json
-	at knot/com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1754) ~[gson-2.11.0.jar:?]
-	at knot/com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1550) ~[gson-2.11.0.jar:?]
-	at knot/com.google.gson.stream.JsonReader.doPeek(JsonReader.java:591) ~[gson-2.11.0.jar:?]
-	at knot/com.google.gson.stream.JsonReader.hasNext(JsonReader.java:498) ~[gson-2.11.0.jar:?]
-	at knot/com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:875) ~[gson-2.11.0.jar:?]
-	at knot/com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:820) ~[gson-2.11.0.jar:?]
-	at knot/com.google.gson.internal.Streams.parse(Streams.java:46) ~[gson-2.11.0.jar:?]
-	... 12 more
-[21:09:18] [main/INFO]: Loaded 1944 recipes
-[21:09:18] [main/INFO]: Loaded 2175 advancements
-[21:09:20] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[21:09:20] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[21:09:20] [main/INFO]: Applied 1 biome modifications to 1 of 245 new biomes in 29.76 ms
-[21:09:21] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[21:09:21] [Server thread/INFO]: Loading properties
-[21:09:21] [Server thread/INFO]: Default game type: SURVIVAL
-[21:09:21] [Server thread/INFO]: Generating keypair
-[21:09:21] [Server thread/INFO]: Starting Minecraft server on 100.99.48.98:25565
-[21:09:21] [Server thread/INFO]: Using default channel type
-[21:09:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:09:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:09:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:09:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:09:21] [Server thread/INFO]: Preparing level "world"
-[21:09:29] [Server thread/ERROR]: Error executing task on Chunk source main thread executor for minecraft:overworld
+[21:22:50] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/Firda/Documents/Minecraft%20Servers/DaBoyz2/libraries/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[21:22:50] [main/INFO]: Compatibility level set to JAVA_17
+[21:22:50] [main/INFO]: Compatibility level set to JAVA_21
+[21:22:50] [main/WARN]: Reference map 'cristellib-common-common-refmap.json' for cristellib-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:22:50] [main/WARN]: Reference map 'eternalnether.fabric.refmap.json' for eternalnether.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:22:50] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:22:50] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:22:50] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:22:50] [main/INFO]: Loaded configuration file for Lithium: 160 options available, 0 override(s) found.
+[21:22:50] [main/WARN]: Error loading class: net/minecraft/class_938 (java.lang.ClassNotFoundException: net/minecraft/class_938)
+[21:22:50] [main/WARN]: @Mixin target net.minecraft.class_938 was not found journeymap.mixins.json:client.SalmonRendererInvoker from mod journeymap
+[21:22:51] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[21:22:51] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[21:23:12] [main/INFO]: Constructing components for eternalnether:common
+[21:23:12] [TISCM Mapping/INFO]: Yarn mapping file yarn-1.21.8+build.1-v2.tiny loaded
+[21:23:13] [main/INFO]: Registered synced config with path sereneseasons/fertility.toml
+[21:23:13] [main/INFO]: Registered synced config with path sereneseasons/seasons.toml
+[21:23:14] [main/INFO]: Registered synced config with path toughasnails/thirst.toml
+[21:23:14] [main/INFO]: Registered synced config with path toughasnails/temperature.toml
+[21:23:14] [main/INFO]: Serene Seasons detected. Enabling season modifier.
+[21:23:15] [main/INFO]: Initializing ServerSide Packet Registries
+[21:23:15] [main/INFO]: Constructing components for puzzleslib:common
+[21:23:15] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[21:23:15] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[21:23:15] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[21:23:15] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[21:23:15] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[21:23:15] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[21:23:15] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[21:23:16] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[21:23:16] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[21:23:16] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[21:23:16] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
+[21:23:16] [main/INFO]: Registered the FluidEffect with Unique ID of toughasnails:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 4
+[21:23:16] [main/INFO]: Registered the FluidEffect with Unique ID of toughasnails:water_canteen for Water (Fluid Amount Required: 200) with the ID 5
+[21:23:16] [main/INFO]: Registered the FluidEffect with Unique ID of toughasnails:water for Water (Fluid Amount Required: 81000) with the ID 6
+[21:23:18] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:23:18] [main/INFO]: Found new data pack biomesoplenty, loading it automatically
+[21:23:18] [main/INFO]: Found new data pack continents, loading it automatically
+[21:23:18] [main/INFO]: Found new data pack eternalnether, loading it automatically
+[21:23:18] [main/INFO]: Found new data pack fabric, loading it automatically
+[21:23:18] [main/INFO]: Found new data pack fabric-convention-tags-v2, loading it automatically
+[21:23:18] [main/INFO]: Found new data pack lithostitched, loading it automatically
+[21:23:18] [main/INFO]: Found new data pack mes, loading it automatically
+[21:23:18] [main/INFO]: Found new data pack mns, loading it automatically
+[21:23:18] [main/INFO]: Found new data pack mr_dungeons_andtaverns, loading it automatically
+[21:23:18] [main/INFO]: Found new data pack mr_lithosphere, loading it automatically
+[21:23:18] [main/INFO]: Found new data pack mr_still_life, loading it automatically
+[21:23:18] [main/INFO]: Found new data pack mr_vanilla_structureupdate, loading it automatically
+[21:23:18] [main/INFO]: Found new data pack mss, loading it automatically
+[21:23:18] [main/INFO]: Found new data pack mvs, loading it automatically
+[21:23:18] [main/INFO]: Found new data pack nullscape, loading it automatically
+[21:23:18] [main/INFO]: Found new data pack sereneseasons, loading it automatically
+[21:23:18] [main/INFO]: Found new data pack t_and_t, loading it automatically
+[21:23:18] [main/INFO]: Found new data pack tectonic:tectonic, loading it automatically
+[21:23:18] [main/INFO]: Found new data pack terrablender, loading it automatically
+[21:23:18] [main/INFO]: Found new data pack toughasnails, loading it automatically
+[21:23:18] [main/INFO]: Found new data pack travelersbackpack, loading it automatically
+[21:23:21] [main/INFO]: No existing world data, creating new world
+[21:23:25] [main/INFO]: Loaded 1943 recipes
+[21:23:25] [main/INFO]: Loaded 2106 advancements
+[21:23:26] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[21:23:26] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[21:23:26] [main/INFO]: Applied 1 biome modifications to 1 of 245 new biomes in 25.98 ms
+[21:23:27] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[21:23:27] [Server thread/INFO]: Loading properties
+[21:23:27] [Server thread/INFO]: Default game type: SURVIVAL
+[21:23:27] [Server thread/INFO]: Generating keypair
+[21:23:27] [Server thread/INFO]: Starting Minecraft server on 100.99.48.98:25565
+[21:23:27] [Server thread/INFO]: Using default channel type
+[21:23:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:23:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:23:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:23:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:23:27] [Server thread/INFO]: Preparing level "world"
+[21:23:39] [Server thread/ERROR]: Error executing task on Chunk source main thread executor for minecraft:overworld
 net.minecraft.class_148: Exception generating new chunk
 	at knot/net.minecraft.class_3898.method_60445(class_3898.java:676) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1255.method_18859(class_1255.java:164) ~[server-intermediary.jar:?]
@@ -228,7 +200,7 @@ net.minecraft.class_148: Exception generating new chunk
 	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:672) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291) ~[server-intermediary.jar:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-Caused by: java.lang.IllegalStateException: Feature order cycle found, involved sources: [Reference{ResourceKey[minecraft:worldgen/biome / still_life:savanna_river]=net.minecraft.class_1959@691c2c62}, Reference{ResourceKey[minecraft:worldgen/biome / biomesoplenty:mystic_grove]=net.minecraft.class_1959@3deeda13}]
+Caused by: java.lang.IllegalStateException: Feature order cycle found, involved sources: [Reference{ResourceKey[minecraft:worldgen/biome / still_life:savanna_river]=net.minecraft.class_1959@2671b4ae}, Reference{ResourceKey[minecraft:worldgen/biome / biomesoplenty:mystic_grove]=net.minecraft.class_1959@2d6b8bb3}]
 	at knot/net.minecraft.class_7510.method_44210(class_7510.java:99) ~[server-intermediary.jar:?]
 	at knot/dev.worldgen.lithostitched.worldgen.modifier.Modifier.lambda$applyModifiers$4(Modifier.java:73) ~[lithostitched-fabric-1.21.6-1.4.11.jar:?]
 	at knot/com.google.common.base.Suppliers$NonSerializableMemoizingSupplier.get(Suppliers.java:200) ~[guava-33.3.1-jre.jar:?]
