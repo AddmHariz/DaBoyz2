@@ -121,3 +121,110 @@
 [23:30:45] [main/WARN]: @Mixin target net.minecraft.class_938 was not found journeymap.mixins.json:client.SalmonRendererInvoker from mod journeymap
 [23:30:45] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
 [23:30:45] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[23:31:03] [main/INFO]: Constructing components for eternalnether:common
+[23:31:04] [TISCM Mapping/INFO]: Yarn mapping file yarn-1.21.8+build.1-v2.tiny loaded
+[23:31:04] [main/INFO]: Registered synced config with path sereneseasons/fertility.toml
+[23:31:04] [main/INFO]: Registered synced config with path sereneseasons/seasons.toml
+[23:31:05] [main/INFO]: Registered synced config with path toughasnails/thirst.toml
+[23:31:05] [main/INFO]: Registered synced config with path toughasnails/temperature.toml
+[23:31:05] [main/INFO]: Serene Seasons detected. Enabling season modifier.
+[23:31:05] [main/INFO]: Initializing ServerSide Packet Registries
+[23:31:05] [main/INFO]: Constructing components for puzzleslib:common
+[23:31:05] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[23:31:05] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[23:31:05] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[23:31:05] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[23:31:05] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[23:31:05] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[23:31:05] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[23:31:06] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[23:31:06] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[23:31:06] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[23:31:06] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
+[23:31:06] [main/INFO]: Registered the FluidEffect with Unique ID of toughasnails:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 4
+[23:31:06] [main/INFO]: Registered the FluidEffect with Unique ID of toughasnails:water_canteen for Water (Fluid Amount Required: 200) with the ID 5
+[23:31:06] [main/INFO]: Registered the FluidEffect with Unique ID of toughasnails:water for Water (Fluid Amount Required: 81000) with the ID 6
+[23:31:06] [main/INFO]: Initializing Distant Horizons server, firing DhApiBeforeDhInitEvent event...
+[23:31:06] [main/INFO]: Distant Horizons, Version: 2.3.4-b
+[23:31:06] [main/INFO]: Registering Fabric Server Events
+[23:31:06] [main/INFO]: Distant Horizons server Initialized, adding event subscribers...
+[23:31:06] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:31:10] [main/INFO]: Loaded 1943 recipes
+[23:31:10] [main/INFO]: Loaded 2106 advancements
+[23:31:10] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[23:31:11] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[23:31:11] [main/INFO]: Applied 1 biome modifications to 1 of 245 new biomes in 9.257 ms
+[23:31:11] [Server thread/INFO]: Initialising config for DistantHorizons
+[23:31:11] [Server thread/INFO]: Config for DistantHorizons initialised
+[23:31:11] [Server thread/INFO]: Running Delayed setup...
+[23:31:11] [Server thread/INFO]: Delayed setup complete, firing DhApiAfterDhInitEvent event...
+[23:31:11] [Server thread/INFO]: Checking for Distant Horizons update
+[23:31:12] [Server thread/ERROR]: Unable to set up Modrinth access, error: [Read timed out]
+java.net.SocketTimeoutException: Read timed out
+	at java.base/sun.nio.ch.NioSocketImpl.timedRead(NioSocketImpl.java:278) ~[?:?]
+	at java.base/sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:304) ~[?:?]
+	at java.base/sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:346) ~[?:?]
+	at java.base/sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:796) ~[?:?]
+	at java.base/java.net.Socket$SocketInputStream.read(Socket.java:1099) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:489) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:483) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:70) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1461) ~[?:?]
+	at java.base/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:1066) ~[?:?]
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:291) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:347) ~[?:?]
+	at java.base/java.io.BufferedInputStream.implRead(BufferedInputStream.java:420) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:399) ~[?:?]
+	at java.base/sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:827) ~[?:?]
+	at java.base/sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:759) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1705) ~[?:?]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1614) ~[?:?]
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:223) ~[?:?]
+	at knot/com.seibel.distanthorizons.core.jar.installer.WebDownloader.downloadAsString(WebDownloader.java:108) ~[DistantHorizons-2.3.4-b-1.21.8-fabric-neoforge.jar:?]
+	at knot/com.seibel.distanthorizons.core.jar.installer.WebDownloader.parseWebJsonList(WebDownloader.java:143) ~[DistantHorizons-2.3.4-b-1.21.8-fabric-neoforge.jar:?]
+	at knot/com.seibel.distanthorizons.core.jar.installer.WebDownloader.parseWebJsonList(WebDownloader.java:138) ~[DistantHorizons-2.3.4-b-1.21.8-fabric-neoforge.jar:?]
+	at knot/com.seibel.distanthorizons.core.jar.installer.ModrinthGetter.init(ModrinthGetter.java:65) ~[DistantHorizons-2.3.4-b-1.21.8-fabric-neoforge.jar:?]
+	at knot/com.seibel.distanthorizons.core.jar.updater.SelfUpdater.onStableStart(SelfUpdater.java:107) ~[DistantHorizons-2.3.4-b-1.21.8-fabric-neoforge.jar:?]
+	at knot/com.seibel.distanthorizons.core.jar.updater.SelfUpdater.onStart(SelfUpdater.java:95) ~[DistantHorizons-2.3.4-b-1.21.8-fabric-neoforge.jar:?]
+	at knot/loaderCommon.fabric.com.seibel.distanthorizons.common.AbstractModInitializer.checkForUpdates(AbstractModInitializer.java:178) ~[DistantHorizons-2.3.4-b-1.21.8-fabric-neoforge.jar:?]
+	at knot/loaderCommon.fabric.com.seibel.distanthorizons.common.AbstractModInitializer.lambda$onInitializeServer$1(AbstractModInitializer.java:120) ~[DistantHorizons-2.3.4-b-1.21.8-fabric-neoforge.jar:?]
+	at knot/net.fabricmc.fabric.api.event.lifecycle.v1.ServerLifecycleEvents.lambda$static$0(ServerLifecycleEvents.java:38) ~[fabric-lifecycle-events-v1-2.6.4+db4dfd852c-f17cf17b59df5ffd.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.handler$cfo000$fabric-lifecycle-events-v1$beforeSetupServer(MinecraftServer.java:10197) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:672) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[23:31:12] [Server thread/WARN]: Unable to find any nightly build pipelines, auto update will be unavailable.
+[23:31:12] [Server thread/INFO]: Distant Horizons server Initialized at 
+[23:31:12] [Server thread/INFO]: Started [DhServerWorld] of type [SERVER_ONLY].
+[23:31:12] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[23:31:12] [Server thread/INFO]: Loading properties
+[23:31:12] [Server thread/INFO]: Default game type: SURVIVAL
+[23:31:12] [Server thread/INFO]: Generating keypair
+[23:31:12] [Server thread/INFO]: Starting Minecraft server on 100.99.48.98:25565
+[23:31:13] [Server thread/INFO]: Using default channel type
+[23:31:13] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
+[23:31:13] [Server thread/WARN]: The exception was: java.net.BindException: Cannot assign requested address: bind
+[23:31:13] [Server thread/WARN]: Perhaps a server is already running on that port?
+[23:31:13] [Server thread/ERROR]: Encountered an unexpected exception
+java.lang.IllegalStateException: Failed to initialize server
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:729) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[23:31:13] [Server thread/ERROR]: This crash report has been saved to: C:\Users\adamh\Downloads\DaBoyz2\DaBoyz2\crash-reports\crash-2025-08-29_23.31.13-server.txt
+[23:31:13] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
+[23:31:13] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@429d1ebf for service interface journeymap.api.services.ClientPlatformService
+[23:31:13] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@6f095876 for service interface journeymap.api.services.CommonPlatformService
+[23:31:13] [Server thread/INFO]: Stopping server
+[23:31:13] [Server thread/INFO]: Saving worlds
+[23:31:13] [Server thread/ERROR]: Exception stopping the server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_3218.method_8621()" because "$$5" is null
+	at knot/net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:569) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_3782(MinecraftServer.java:628) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3176.method_3782(class_3176.java:543) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:748) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[23:31:14] [DH-ApplyConfigPresetTimer/INFO]: changing preset to: I_PAID_FOR_THE_WHOLE_CPU
+[23:31:14] [DH-ApplyConfigPresetTimer/INFO]: changing preset to: MEDIUM
+[23:31:14] [DH-ApplyConfigPresetTimer/INFO]: preset active: I_PAID_FOR_THE_WHOLE_CPU
+[23:31:14] [DH-ApplyConfigPresetTimer/INFO]: preset active: MEDIUM
