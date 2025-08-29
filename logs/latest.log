@@ -1,59 +1,144 @@
-[21:52:42] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:52:47] [ServerMain/INFO]: Loaded 1407 recipes
-[21:52:47] [ServerMain/INFO]: Loaded 1520 advancements
-[21:52:48] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[21:52:48] [Server thread/INFO]: Loading properties
-[21:52:48] [Server thread/INFO]: Default game type: SURVIVAL
-[21:52:48] [Server thread/INFO]: Generating keypair
-[21:52:48] [Server thread/INFO]: Starting Minecraft server on 100.121.112.67:25565
-[21:52:48] [Server thread/INFO]: Using default channel type
-[21:52:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:52:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:52:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:52:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:52:48] [Server thread/INFO]: Preparing level "world"
-[21:52:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:52:51] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[21:52:51] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[21:52:51] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[21:52:51] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[21:52:51] [Server thread/INFO]: Time elapsed: 1851 ms
-[21:52:51] [Server thread/INFO]: Done (2.755s)! For help, type "help"
-[21:52:51] [Server thread/INFO]: Starting remote control listener
-[21:52:51] [Server thread/INFO]: Thread RCON Listener started
-[21:52:51] [Server thread/INFO]: RCON running on 100.121.112.67:25575
-[21:53:30] [Server thread/INFO]: Storyseek3r[/100.121.112.67:21694] logged in with entity id 97 at (214.5, 71.0, 202.5)
-[21:53:31] [Server thread/INFO]: Storyseek3r joined the game
-[21:53:44] [Server thread/INFO]: Afaz07[/100.99.48.98:52584] logged in with entity id 273 at (225.89238727404032, 63.0, 209.84122274492015)
-[21:53:44] [Server thread/INFO]: Afaz07 joined the game
-[21:54:57] [Server thread/INFO]: Storyseek3r lost connection: Disconnected
-[21:54:57] [Server thread/INFO]: Storyseek3r left the game
-[21:55:49] [RCON Listener #1/INFO]: Thread RCON Client /100.99.48.98 started
-[21:55:53] [Server thread/INFO]: [Rcon: Made Afaz07 a server operator]
-[21:57:20] [Server thread/INFO]: Storyseek3r[/100.121.112.67:29622] logged in with entity id 969 at (228.56908588464677, 64.0, 199.87178393733393)
-[21:57:20] [Server thread/INFO]: Storyseek3r joined the game
-[21:58:19] [Server thread/INFO]: Afaz07 has made the advancement [Stone Age]
-[22:01:32] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[22:01:32] [Server thread/INFO]: mcrcon.exe -H 100.121.112.67 -P 25575 -p afaz<--[HERE]
-[22:02:10] [RCON Client /100.99.48.98 #2/INFO]: Thread RCON Client /100.99.48.98 shutting down
-[22:02:19] [RCON Listener #1/INFO]: Thread RCON Client /100.99.48.98 started
-[22:02:27] [Server thread/INFO]: [Rcon: Made Storyseek3r a server operator]
-[22:02:50] [Server thread/INFO]: [Storyseek3r: Set own game mode to Creative Mode]
-[22:03:34] [Server thread/INFO]: Afaz07 has made the advancement [Monster Hunter]
-[22:03:48] [Server thread/INFO]: Storyseek3r lost connection: Disconnected
-[22:03:48] [Server thread/INFO]: Storyseek3r left the game
-[22:03:51] [Server thread/INFO]: Afaz07 lost connection: Disconnected
-[22:03:51] [Server thread/INFO]: Afaz07 left the game
-[22:03:57] [Server thread/INFO]: Stopping server
-[22:03:57] [Server thread/INFO]: Saving players
-[22:03:57] [Server thread/INFO]: Saving worlds
-[22:03:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:03:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:03:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:03:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:03:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:03:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:03:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[22:03:57] [Server thread/INFO]: Thread RCON Listener stopped
-[22:03:57] [RCON Client /100.99.48.98 #3/INFO]: Thread RCON Client /100.99.48.98 shutting down
-[22:03:57] [Server thread/INFO]: Thread RCON Client /100.99.48.98 stopped
+[22:06:50] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:06:56] [ServerMain/INFO]: Loaded 1407 recipes
+[22:06:56] [ServerMain/INFO]: Loaded 1520 advancements
+[22:06:57] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[22:06:57] [Server thread/INFO]: Loading properties
+[22:06:57] [Server thread/INFO]: Default game type: SURVIVAL
+[22:06:57] [Server thread/INFO]: Generating keypair
+[22:06:57] [Server thread/INFO]: Starting Minecraft server on 100.121.112.67:25565
+[22:06:57] [Server thread/INFO]: Using default channel type
+[22:06:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:06:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:06:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:06:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:06:58] [Server thread/INFO]: Preparing level "world"
+[22:06:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:07:00] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[22:07:00] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[22:07:00] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[22:07:00] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[22:07:00] [Server thread/INFO]: Time elapsed: 1984 ms
+[22:07:00] [Server thread/INFO]: Done (2.735s)! For help, type "help"
+[22:07:00] [Server thread/INFO]: Starting remote control listener
+[22:07:00] [Server thread/INFO]: Thread RCON Listener started
+[22:07:00] [Server thread/INFO]: RCON running on 100.121.112.67:25575
+[22:08:00] [Server thread/INFO]: Storyseek3r[/100.121.112.67:60605] logged in with entity id 41 at (230.02169718037138, 63.0, 213.94549780906124)
+[22:08:00] [Server thread/INFO]: Storyseek3r joined the game
+[22:09:03] [Server thread/INFO]: [Storyseek3r: Set own game mode to Survival Mode]
+[22:09:04] [Server thread/INFO]: Storyseek3r fell from a high place
+[22:09:43] [Server thread/INFO]: Afaz07[/100.99.48.98:56412] logged in with entity id 512 at (227.25065233671646, 63.0, 214.63127665212176)
+[22:09:43] [Server thread/INFO]: Afaz07 joined the game
+[22:10:48] [Server thread/INFO]: Storyseek3r was shot by Skeleton
+[22:11:19] [Server thread/INFO]: Storyseek3r was shot by Skeleton
+[22:12:24] [Server thread/INFO]: ViceIsTrash[/100.90.148.25:2531] logged in with entity id 1078 at (217.5, 63.0, 199.5)
+[22:12:24] [Server thread/INFO]: ViceIsTrash joined the game
+[22:12:29] [Server thread/INFO]: Storyseek3r was slain by Zombie
+[22:12:57] [Server thread/INFO]: Storyseek3r has made the advancement [Monster Hunter]
+[22:13:05] [Server thread/INFO]: ViceIsTrash has made the advancement [Monster Hunter]
+[22:13:15] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=221, y=62, z=210}
+[22:13:24] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=217, y=62, z=200}
+[22:13:25] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=217, y=62, z=201}
+[22:13:27] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=211, y=62, z=197}
+[22:13:27] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=212, y=62, z=197}
+[22:13:37] [Server thread/INFO]: OumaKazuya[/100.75.132.49:53837] logged in with entity id 1287 at (218.5, 63.0, 201.5)
+[22:13:37] [Server thread/INFO]: OumaKazuya joined the game
+[22:13:45] [Server thread/INFO]: Storyseek3r was slain by ViceIsTrash
+[22:14:21] [Server thread/INFO]: ViceIsTrash was slain by OumaKazuya
+[22:14:37] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=212, y=65, z=207}
+[22:14:39] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=212, y=64, z=207}
+[22:15:48] [Server thread/INFO]: Afaz07 has made the advancement [Getting an Upgrade]
+[22:16:24] [Server thread/INFO]: ViceIsTrash has made the advancement [Stone Age]
+[22:16:37] [Server thread/INFO]: Storyseek3r has made the advancement [Stone Age]
+[22:18:18] [Server thread/INFO]: ViceIsTrash has made the advancement [Getting an Upgrade]
+[22:18:20] [Server thread/INFO]: umaaaaaq[/100.124.143.21:55378] logged in with entity id 2561 at (226.5, 63.0, 197.5)
+[22:18:20] [Server thread/INFO]: umaaaaaq joined the game
+[22:19:11] [Server thread/INFO]: OumaKazuya has made the advancement [Monster Hunter]
+[22:19:23] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=233, y=68, z=226} jb{x=212, y=63, z=207}
+[22:19:24] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=233, y=68, z=226} jb{x=212, y=64, z=207}
+[22:19:24] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=233, y=68, z=226} jb{x=212, y=64, z=207}
+[22:19:24] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=233, y=68, z=226} jb{x=212, y=64, z=207}
+[22:19:24] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=233, y=68, z=226} jb{x=212, y=62, z=204}
+[22:21:09] [Server thread/INFO]: Storyseek3r lost connection: Disconnected
+[22:21:09] [Server thread/INFO]: Storyseek3r left the game
+[22:21:13] [Server thread/INFO]: umaaaaaq has made the advancement [Stone Age]
+[22:21:24] [Server thread/INFO]: umaaaaaq has made the advancement [Getting an Upgrade]
+[22:22:02] [Server thread/INFO]: OumaKazuya has made the advancement [Stone Age]
+[22:23:08] [Server thread/INFO]: OumaKazuya has made the advancement [Getting an Upgrade]
+[22:26:04] [Server thread/INFO]: ViceIsTrash has made the advancement [Ice Bucket Challenge]
+[22:29:26] [Server thread/INFO]: ViceIsTrash has made the advancement [Sweet Dreams]
+[22:29:55] [Server thread/INFO]: umaaaaaq has made the advancement [Sweet Dreams]
+[22:30:52] [Server thread/INFO]: OumaKazuya has made the advancement [Sweet Dreams]
+[22:31:29] [Server thread/INFO]: umaaaaaq has made the advancement [Acquire Hardware]
+[22:32:20] [Server thread/INFO]: umaaaaaq has made the advancement [Isn't It Iron Pick]
+[22:32:31] [Server thread/INFO]: ViceIsTrash lost connection: Disconnected
+[22:32:31] [Server thread/INFO]: ViceIsTrash left the game
+[22:32:37] [Server thread/INFO]: ViceIsTrash[/100.90.148.25:2754] logged in with entity id 12467 at (-6.300000011920929, 64.0, 1185.4474090113542)
+[22:32:37] [Server thread/INFO]: ViceIsTrash joined the game
+[22:33:04] [Server thread/INFO]: ViceIsTrash lost connection: Disconnected
+[22:33:04] [Server thread/INFO]: ViceIsTrash left the game
+[22:33:11] [Server thread/INFO]: umaaaaaq has made the advancement [Monster Hunter]
+[22:33:13] [Server thread/INFO]: ViceIsTrash[/100.90.148.25:2762] logged in with entity id 12617 at (-12.016079842869717, 63.0, 1191.158574497469)
+[22:33:13] [Server thread/INFO]: ViceIsTrash joined the game
+[22:33:45] [Server thread/INFO]: ViceIsTrash lost connection: Disconnected
+[22:33:45] [Server thread/INFO]: ViceIsTrash left the game
+[22:34:07] [Server thread/INFO]: ViceIsTrash[/100.90.148.25:2822] logged in with entity id 13009 at (-12.617227442819301, 64.0, 1234.6436250512659)
+[22:34:07] [Server thread/INFO]: ViceIsTrash joined the game
+[22:35:54] [Server thread/INFO]: [Afaz07: Teleported Afaz07 to 1117.000000, 64.000000, 97.000000]
+[22:36:02] [Server thread/INFO]: [Afaz07: Teleported Afaz07 to 1217.000000, 64.000000, 167.000000]
+[22:36:05] [Server thread/INFO]: [Afaz07: Teleported Afaz07 to 1230.000000, 113.000000, 20.000000]
+[22:37:20] [Server thread/INFO]: ViceIsTrash lost connection: Disconnected
+[22:37:20] [Server thread/INFO]: ViceIsTrash left the game
+[22:37:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[22:37:29] [Server thread/INFO]: ViceIsTrash[/100.90.148.25:3080] logged in with entity id 17544 at (36.62883444849099, 69.0, 1639.5055381044192)
+[22:37:29] [Server thread/INFO]: ViceIsTrash joined the game
+[22:38:17] [Server thread/INFO]: ViceIsTrash lost connection: Disconnected
+[22:38:17] [Server thread/INFO]: ViceIsTrash left the game
+[22:38:31] [Server thread/INFO]: ViceIsTrash[/100.90.148.25:3145] logged in with entity id 18148 at (52.391368568924726, 64.0, 1748.2349501249969)
+[22:38:31] [Server thread/INFO]: ViceIsTrash joined the game
+[22:39:16] [Server thread/INFO]: ViceIsTrash lost connection: Timed out
+[22:39:16] [Server thread/INFO]: ViceIsTrash left the game
+[22:39:35] [Server thread/INFO]: ViceIsTrash (/100.90.148.25:3384) lost connection: Disconnected
+[22:39:46] [Server thread/INFO]: ViceIsTrash[/100.90.148.25:3429] logged in with entity id 18981 at (37.09132239960198, 62.31989441206047, 1787.8842326256001)
+[22:39:46] [Server thread/INFO]: ViceIsTrash joined the game
+[22:41:30] [Server thread/INFO]: Afaz07 has made the advancement [Acquire Hardware]
+[22:41:49] [Server thread/INFO]: Afaz07 has made the advancement [Isn't It Iron Pick]
+[22:42:03] [Server thread/INFO]: Storyseek3r[/100.121.112.67:54183] logged in with entity id 21610 at (218.33462246306507, 65.0, 250.75751287092976)
+[22:42:03] [Server thread/INFO]: Storyseek3r joined the game
+[22:46:02] [Server thread/INFO]: OumaKazuya has made the advancement [Diamonds!]
+[22:46:03] [Server thread/INFO]: OumaKazuya has made the advancement [Suit Up]
+[22:46:06] [Server thread/INFO]: OumaKazuya has made the advancement [Acquire Hardware]
+[22:46:17] [Server thread/INFO]: Villager cuf['Villager'/28241, l='ServerLevel[world]', x=380.85, y=63.00, z=3082.70] died, message: 'Villager was slain by Zombie'
+[22:46:50] [Server thread/INFO]: umaaaaaq has made the advancement [Not Today, Thank You]
+[22:57:25] [Server thread/WARN]: Acacia Boat (vehicle of OumaKazuya) moved wrongly! 0.2599246146569385
+[22:57:25] [Server thread/WARN]: Acacia Boat (vehicle of OumaKazuya) moved wrongly! 0.2567123289045412
+[22:57:25] [Server thread/WARN]: Acacia Boat (vehicle of OumaKazuya) moved wrongly! 0.2533510358603053
+[22:57:25] [Server thread/WARN]: Acacia Boat (vehicle of Storyseek3r) moved wrongly! 0.2898370984430585
+[22:57:25] [Server thread/WARN]: Acacia Boat (vehicle of Storyseek3r) moved wrongly! 0.3412851530038097
+[22:58:47] [Server thread/INFO]: umaaaaaq fell from a high place
+[23:00:13] [Server thread/INFO]: Storyseek3r lost connection: Disconnected
+[23:00:13] [Server thread/INFO]: Storyseek3r left the game
+[23:00:55] [Server thread/INFO]: umaaaaaq tried to swim in lava
+[23:01:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[23:01:35] [Server thread/INFO]: ViceIsTrash lost connection: Disconnected
+[23:01:35] [Server thread/INFO]: ViceIsTrash left the game
+[23:01:44] [Server thread/INFO]: ViceIsTrash[/100.90.148.25:3507] logged in with entity id 58445 at (681.8545339639892, 63.0, 1180.810731000538)
+[23:01:44] [Server thread/INFO]: ViceIsTrash joined the game
+[23:01:57] [Server thread/INFO]: Afaz07 lost connection: Disconnected
+[23:01:57] [Server thread/INFO]: Afaz07 left the game
+[23:02:24] [Server thread/INFO]: OumaKazuya lost connection: Disconnected
+[23:02:24] [Server thread/INFO]: OumaKazuya left the game
+[23:02:26] [Server thread/INFO]: umaaaaaq lost connection: Disconnected
+[23:02:26] [Server thread/INFO]: umaaaaaq left the game
+[23:02:36] [Server thread/INFO]: ViceIsTrash lost connection: Disconnected
+[23:02:36] [Server thread/INFO]: ViceIsTrash left the game
+[23:02:39] [Server thread/INFO]: Stopping server
+[23:02:39] [Server thread/INFO]: Saving players
+[23:02:39] [Server thread/INFO]: Saving worlds
+[23:02:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:02:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:02:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:02:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:02:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:02:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:02:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:02:40] [Server thread/INFO]: Thread RCON Listener stopped
