@@ -1,386 +1,271 @@
-[20:01:44] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.17.2
-[20:01:45] [main/WARN]: Warnings were found!
- - Mod 'Debugify' (debugify) 1.21.8+1.0 recommends any version of yet_another_config_lib_v3, which is missing!
-	 - You should install any version of yet_another_config_lib_v3 for the optimal experience.
- - Mod 'Debugify' (debugify) 1.21.8+1.0 recommends any version of modmenu, which is missing!
-	 - You should install any version of modmenu for the optimal experience.
- - Mod 'Forge Config API Port' (forgeconfigapiport) 21.8.0 recommends any version of modmenu, which is missing!
-	 - You should install any version of modmenu for the optimal experience.
-[20:01:45] [main/INFO]: Loading 128 mods:
-	- armor_3d 0.9.0
-	- biomesoplenty 21.8.0.8
-	   \-- net_jodah_typetools 0.6.3
-	- c2me 0.3.4.0.0+1.21.8
-	   |-- c2me-base 0.3.4.0.0+1.21.8
-	   |-- c2me-client-uncapvd 0.3.4.0.0+1.21.8
-	   |-- c2me-fixes-chunkio-threading-issues 0.3.4.0.0+1.21.8
-	   |-- c2me-fixes-general-threading-issues 0.3.4.0.0+1.21.8
-	   |-- c2me-fixes-worldgen-threading-issues 0.3.4.0.0+1.21.8
-	   |-- c2me-fixes-worldgen-vanilla-bugs 0.3.4.0.0+1.21.8
-	   |-- c2me-notickvd 0.3.4.0.0+1.21.8
-	   |-- c2me-opts-allocs 0.3.4.0.0+1.21.8
-	   |-- c2me-opts-chunkio 0.3.4.0.0+1.21.8
-	   |-- c2me-opts-dfc 0.3.4.0.0+1.21.8
-	   |-- c2me-opts-math 0.3.4.0.0+1.21.8
-	   |-- c2me-opts-scheduling 0.3.4.0.0+1.21.8
-	   |-- c2me-opts-worldgen-general 0.3.4.0.0+1.21.8
-	   |-- c2me-opts-worldgen-vanilla 0.3.4.0.0+1.21.8
-	   |-- c2me-rewrites-chunk-serializer 0.3.4.0.0+1.21.8
-	   |-- c2me-rewrites-chunk-system 0.3.4.0.0+1.21.8
-	   |-- c2me-rewrites-chunkio 0.3.4.0.0+1.21.8
-	   |-- c2me-server-utils 0.3.4.0.0+1.21.8
-	   |-- c2me-threading-lighting 0.3.4.0.0+1.21.8
-	   |-- com_ibm_async_asyncutil 0.1.0
-	   |-- io_reactivex_rxjava3_rxjava 3.1.8
-	   |-- mixinsquared 0.2.0-beta.6
-	   |-- net_objecthunter_exp4j 0.4.8
-	   |-- org_jctools_jctools-core 4.0.5
-	   \-- org_reactivestreams_reactive-streams 1.0.4
-	- cardinal-components 7.0.0-beta.1
-	   |-- cardinal-components-base 7.0.0-beta.1
-	   |-- cardinal-components-block 7.0.0-beta.1
-	   |-- cardinal-components-chunk 7.0.0-beta.1
-	   |-- cardinal-components-entity 7.0.0-beta.1
-	   |-- cardinal-components-item 7.0.0-beta.1
-	   |-- cardinal-components-level 7.0.0-beta.1
-	   |-- cardinal-components-scoreboard 7.0.0-beta.1
-	   \-- cardinal-components-world 7.0.0-beta.1
-	- chunky 1.4.40
-	- cicada 0.14.2+1.21.6-and-above
-	   \-- org_yaml_snakeyaml 2.2
-	- cloth-config 19.0.147
-	   \-- cloth-basic-math 0.6.1
-	- continents 1.1.10
-	- cristellib 2.0.3
-	   \-- blue_endless_jankson 1.2.3
-	- debugify 1.21.8+1.0
-	- distanthorizons 2.3.4-b
-	   |-- fabric-key-binding-api-v1 1.0.65+946bf4c3f3
-	   |-- fabric-rendering-v1 12.4.0+e8d43c76f3
-	   \-- fabric-screen-api-v1 2.1.0+277ecf7df3
-	- entityculling 1.8.2
-	- eternalnether 21.8.1
-	- fabric-api 0.131.0+1.21.8
-	   |-- fabric-api-base 0.5.0+cd8c0daa2c
-	   |-- fabric-api-lookup-api-v1 1.6.101+946bf4c32c
-	   |-- fabric-biome-api-v1 16.0.11+946bf4c32c
-	   |-- fabric-block-api-v1 1.1.3+946bf4c32c
-	   |-- fabric-block-view-api-v2 1.0.31+946bf4c32c
-	   |-- fabric-command-api-v2 2.3.1+52fff9ec2c
-	   |-- fabric-content-registries-v0 10.0.19+946bf4c32c
-	   |-- fabric-convention-tags-v1 2.1.41+7f945d5b2c
-	   |-- fabric-convention-tags-v2 2.15.6+eb5df52f2c
-	   |-- fabric-crash-report-info-v1 0.3.15+946bf4c32c
-	   |-- fabric-data-attachment-api-v1 1.8.11+946bf4c32c
-	   |-- fabric-data-generation-api-v1 23.2.6+0b1ef9762c
-	   |-- fabric-dimensions-v1 4.0.19+946bf4c32c
-	   |-- fabric-entity-events-v1 2.1.2+c9e472732c
-	   |-- fabric-events-interaction-v0 4.0.24+946bf4c32c
-	   |-- fabric-game-rule-api-v1 1.0.73+c64c9c5b2c
-	   |-- fabric-item-api-v1 11.5.0+02ce13f42c
-	   |-- fabric-item-group-api-v1 4.2.14+c5f9bbc12c
-	   |-- fabric-key-binding-api-v1 1.0.65+946bf4c32c
-	   |-- fabric-lifecycle-events-v1 2.6.4+db4dfd852c
-	   |-- fabric-loot-api-v2 3.0.56+3f89f5a52c
-	   |-- fabric-loot-api-v3 2.0.3+946bf4c32c
-	   |-- fabric-message-api-v1 6.1.2+946bf4c32c
-	   |-- fabric-model-loading-api-v1 5.2.6+946bf4c32c
-	   |-- fabric-networking-api-v1 5.0.2+946bf4c32c
-	   |-- fabric-object-builder-api-v1 21.1.8+946bf4c32c
-	   |-- fabric-particles-v1 4.1.8+946bf4c32c
-	   |-- fabric-recipe-api-v1 8.1.15+946bf4c32c
-	   |-- fabric-registry-sync-v0 6.1.28+946bf4c32c
-	   |-- fabric-renderer-api-v1 7.0.3+208eed172c
-	   |-- fabric-renderer-indigo 4.0.3+946bf4c32c
-	   |-- fabric-rendering-fluids-v1 3.1.31+fa6cb72b2c
-	   |-- fabric-rendering-v1 12.5.0+fbe231d52c
-	   |-- fabric-resource-conditions-api-v1 5.0.25+98e6d6db2c
-	   |-- fabric-resource-loader-v0 3.1.12+020423442c
-	   |-- fabric-screen-api-v1 2.1.1+277ecf7d2c
-	   |-- fabric-screen-handler-api-v1 1.3.137+946bf4c32c
-	   |-- fabric-sound-api-v1 1.0.42+946bf4c32c
-	   |-- fabric-tag-api-v1 1.2.2+946bf4c32c
-	   |-- fabric-transfer-api-v1 6.0.6+946bf4c32c
-	   \-- fabric-transitive-access-wideners-v1 6.4.1+ac3e15d12c
-	- fabric-language-kotlin 1.13.4+kotlin.2.2.0
-	   |-- org_jetbrains_kotlin_kotlin-reflect 2.2.0
-	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.2.0
-	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.2.0
-	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.2.0
-	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.28.0
-	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.10.2
-	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.10.2
-	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.6.2
-	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.7.0
-	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.7.0
-	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.8.1
-	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.8.1
-	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.8.1
-	- fabricloader 0.17.2
-	   \-- mixinextras 0.5.0
-	- ferritecore 8.0.0
-	- forgeconfigapiport 21.8.0
-	   |-- com_electronwill_night-config_core 3.8.2
-	   \-- com_electronwill_night-config_toml 3.8.2
-	- glitchcore 21.8.0.0
-	   \-- net_jodah_typetools 0.6.3
-	- java 21
-	- journeymap 1.21.7-6.0.0-beta.53
-	   |-- ar_com_hjg_pngj 2.1.0
-	   |-- commonnetworking 1.0.21-1.21.7
-	   \-- journeymap-api-fabric 2.0.0-1.21.7-SNAPSHOT
-	- lithium 0.18.0+mc1.21.8
-	- lithostitched 1.4.11
-	- minecraft 1.21.8
-	- mr_vanilla_structureupdate 1-v2.5
-	- mss 1.3.6-1.21.8-fabric
-	- mvs 4.4.6-1.21.8-fabric
-	- nullscape 1.2.13
-	- puzzleslib 21.8.6
-	- sereneseasons 21.8.0.0
-	   \-- net_jodah_typetools 0.6.3
-	- skinlayers3d 1.9.0
-	   |-- transition 1.0.4
-	   \-- trender 1.0.6
-	- t_and_t 1.13.5
-	- tectonic 3.0.12
-	- terrablender 6.0.0.3
-	- timberfabric 1.0.2
-	- toughasnails 21.8.0.0
-	   \-- net_jodah_typetools 0.6.3
-	- travelersbackpack 10.8.1
-[20:01:46] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/adamh/Downloads/DaBoyz2/DaBoyz2/libraries/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[20:01:46] [main/INFO]: Compatibility level set to JAVA_17
-[20:01:46] [main/INFO]: Compatibility level set to JAVA_21
-[20:01:46] [main/INFO]: Initializing com.ishland.c2me.base.mixin
-[20:01:46] [main/INFO]: Global Executor Parallelism: 10 configured, 10 evaluated, 10 default evaluated
-[20:01:46] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
-[20:01:46] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
-[20:01:46] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
-[20:01:46] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
-[20:01:46] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
-[20:01:46] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
-[20:01:46] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
-[20:01:46] [main/INFO]: Initializing com.ishland.c2me.opts.dfc.mixin
-[20:01:46] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
-[20:01:46] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
-[20:01:46] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
-[20:01:46] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
-[20:01:46] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
-[20:01:46] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
-[20:01:46] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunksystem.mixin
-[20:01:46] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
-[20:01:46] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
-[20:01:46] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
-[20:01:46] [main/WARN]: Reference map 'cristellib-common-common-refmap.json' for cristellib-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:01:46] [main/WARN]: Reference map 'eternalnether.fabric.refmap.json' for eternalnether.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:01:46] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:01:46] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:01:46] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:01:46] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
-[20:01:46] [main/INFO]: Loaded configuration file for Lithium: 160 options available, 0 override(s) found.
-[20:01:46] [main/WARN]: Error loading class: ca/spottedleaf/starlight/common/thread/SchedulingUtil (java.lang.ClassNotFoundException: ca/spottedleaf/starlight/common/thread/SchedulingUtil)
-[20:01:47] [main/WARN]: Error loading class: net/minecraft/class_938 (java.lang.ClassNotFoundException: net/minecraft/class_938)
-[20:01:47] [main/WARN]: @Mixin target net.minecraft.class_938 was not found journeymap.mixins.json:client.SalmonRendererInvoker from mod journeymap
-[20:01:47] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
-[20:01:47] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
-[20:02:05] [main/INFO]: Enabled 58 bug fixes: [MC-2025, MC-7569, MC-8187, MC-30391, MC-69216, MC-82263, MC-84661, MC-88371, MC-89146, MC-93018, MC-94054, MC-100991, MC-119417, MC-119754, MC-121706, MC-121903, MC-123450, MC-123605, MC-129909, MC-132878, MC-134110, MC-136249, MC-139041, MC-147659, MC-147784, MC-155509, MC-159283, MC-160095, MC-168573, MC-170462, MC-176806, MC-177831, MC-179072, MC-183990, MC-187100, MC-199467, MC-200418, MC-201374, MC-202637, MC-206922, MC-215530, MC-219981, MC-221257, MC-223153, MC-224729, MC-226961, MC-227008, MC-227337, MC-231743, MC-232869, MC-245394, MC-267125, MC-268617, MC-271899, MC-272431, MC-297837, MC-298066, MC-299115]
-[20:02:05] [main/INFO]: Successfully Debugify'd your game!
-[20:02:05] [main/INFO]: Constructing components for eternalnether:common
-[20:02:06] [Cicada thread 0/INFO]: [cicada] I used the JSON to destroy the JSON.
-[20:02:07] [main/INFO]: Registered synced config with path sereneseasons/fertility.toml
-[20:02:07] [main/INFO]: Registered synced config with path sereneseasons/seasons.toml
-[20:02:07] [main/INFO]: Registered synced config with path toughasnails/thirst.toml
-[20:02:07] [main/INFO]: Registered synced config with path toughasnails/temperature.toml
-[20:02:07] [main/INFO]: Serene Seasons detected. Enabling season modifier.
-[20:02:08] [main/INFO]: Initializing ServerSide Packet Registries
-[20:02:08] [main/INFO]: Constructing components for puzzleslib:common
-[20:02:08] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[20:02:08] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
-[20:02:08] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[20:02:08] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[20:02:08] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[20:02:08] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[20:02:08] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[20:02:09] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
-[20:02:09] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
-[20:02:09] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
-[20:02:09] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
-[20:02:09] [main/INFO]: Registered the FluidEffect with Unique ID of toughasnails:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 4
-[20:02:09] [main/INFO]: Registered the FluidEffect with Unique ID of toughasnails:water_canteen for Water (Fluid Amount Required: 200) with the ID 5
-[20:02:09] [main/INFO]: Registered the FluidEffect with Unique ID of toughasnails:water for Water (Fluid Amount Required: 81000) with the ID 6
-[20:02:09] [main/INFO]: Initializing Distant Horizons server, firing DhApiBeforeDhInitEvent event...
-[20:02:09] [main/INFO]: Distant Horizons, Version: 2.3.4-b
-[20:02:09] [main/INFO]: Registering Fabric Server Events
-[20:02:09] [main/INFO]: Distant Horizons server Initialized, adding event subscribers...
-[20:02:10] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:02:16] [main/INFO]: Loaded 1943 recipes
-[20:02:16] [main/INFO]: Loaded 2053 advancements
-[20:02:18] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[20:02:18] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[20:02:18] [main/INFO]: Applied 1 biome modifications to 1 of 136 new biomes in 24.43 ms
-[20:02:19] [Server thread/INFO]: Initialising config for DistantHorizons
-[20:02:19] [Server thread/INFO]: Config for DistantHorizons initialised
-[20:02:19] [Server thread/INFO]: Running Delayed setup...
-[20:02:19] [Server thread/INFO]: Delayed setup complete, firing DhApiAfterDhInitEvent event...
-[20:02:19] [Server thread/INFO]: Checking for Distant Horizons update
-[20:02:20] [Server thread/INFO]: Distant Horizons already up to date.
-[20:02:20] [Server thread/INFO]: Distant Horizons server Initialized at 
-[20:02:20] [Server thread/INFO]: Started [DhServerWorld] of type [SERVER_ONLY].
-[20:02:20] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[20:02:20] [Server thread/INFO]: Loading properties
-[20:02:20] [Server thread/INFO]: Default game type: SURVIVAL
-[20:02:20] [Server thread/INFO]: Generating keypair
-[20:02:20] [Server thread/INFO]: Starting Minecraft server on 100.121.112.67:25565
-[20:02:21] [Server thread/INFO]: Using default channel type
-[20:02:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:02:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:02:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:02:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:02:21] [Server thread/INFO]: Preparing level "world"
-[20:02:21] [Server thread/INFO]: Enforcing safe world random access
-[20:02:22] [DH-ApplyConfigPresetTimer/INFO]: changing preset to: BALANCED
-[20:02:22] [DH-ApplyConfigPresetTimer/INFO]: changing preset to: MEDIUM
-[20:02:22] [DH-ApplyConfigPresetTimer/INFO]: preset active: BALANCED
-[20:02:22] [DH-ApplyConfigPresetTimer/INFO]: preset active: MEDIUM
-[20:02:24] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 1.988 s
-[20:02:24] [Server thread/INFO]: Using TheSpeedyObjectFactory with Unsafe
-[20:02:25] [DH-Full Data Migration Thread[0]/INFO]: Attempting to migrate data sources for: [minecraft:overworld]-[.\world\data]...
-[20:02:25] [DH-Full Data Migration Thread[0]/INFO]: Found [0] data sources that need migration.
-[20:02:25] [Server thread/INFO]: Started DhServerLevel for [Wrapped{ServerLevel[world]@minecraft:overworld}] at [[LocalSaveStructure@(.\world\data)]].
-[20:02:25] [DH-Full Data Migration Thread[0]/INFO]: No migration necessary.
-[20:02:26] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 754.6 ms
-[20:02:26] [Server thread/INFO]: Started DhServerLevel for [Wrapped{ServerLevel[world]@minecraft:the_end}] at [[LocalSaveStructure@(.\world\data;.\world\DIM1\data)]].
-[20:02:26] [DH-Full Data Migration Thread[0]/INFO]: Attempting to migrate data sources for: [minecraft:the_end]-[.\world\DIM1\data]...
-[20:02:26] [DH-Full Data Migration Thread[0]/INFO]: Found [0] data sources that need migration.
-[20:02:26] [DH-Full Data Migration Thread[0]/INFO]: No migration necessary.
-[20:02:26] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 14.08 ms
-[20:02:26] [DH-Full Data Migration Thread[0]/INFO]: Attempting to migrate data sources for: [minecraft:the_nether]-[.\world\DIM-1\data]...
-[20:02:26] [DH-Full Data Migration Thread[0]/INFO]: Found [0] data sources that need migration.
-[20:02:26] [DH-Full Data Migration Thread[0]/INFO]: No migration necessary.
-[20:02:26] [Server thread/INFO]: Started DhServerLevel for [Wrapped{ServerLevel[world]@minecraft:the_nether}] at [[LocalSaveStructure@(.\world\data;.\world\DIM1\data;.\world\DIM-1\data)]].
-[20:02:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:02:30] [c2me-worker-3/INFO]: Preparing spawn area: 0%
-[20:02:30] [c2me-worker-3/INFO]: Preparing spawn area: 0%
-[20:02:30] [c2me-worker-3/INFO]: Preparing spawn area: 0%
-[20:02:30] [c2me-worker-3/INFO]: Preparing spawn area: 0%
-[20:02:30] [c2me-worker-3/INFO]: Preparing spawn area: 0%
-[20:02:30] [c2me-worker-3/INFO]: Preparing spawn area: 0%
-[20:02:30] [c2me-worker-3/INFO]: Preparing spawn area: 0%
-[20:02:30] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[20:02:30] [Server thread/INFO]: Preparing spawn area: 2%
-[20:02:31] [c2me-worker-9/INFO]: Preparing spawn area: 24%
-[20:02:31] [Server thread/INFO]: Time elapsed: 5015 ms
-[20:02:31] [Server thread/INFO]: Done (10.201s)! For help, type "help"
-[20:02:31] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
-[20:02:31] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@1c6e137e for service interface journeymap.api.services.ClientPlatformService
-[20:02:31] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@663d8eda for service interface journeymap.api.services.CommonPlatformService
-[20:02:32] [Server thread/INFO]: DH TerraFirmaCraft detection: false
-[20:02:32] [Server thread/INFO]: ================WORLD_GEN_STEP_INITING=============
-[20:02:32] [Server thread/INFO]: C2ME detected: DH's pre-existing chunk accessing will use methods handled by C2ME.
-[20:02:32] [Server thread/INFO]: Batch Chunk Generator initialized
-[20:02:32] [Server thread/INFO]: Creating world gen queue
-[20:02:32] [Server thread/INFO]: Created world gen queue
-[20:02:32] [Server thread/INFO]: Set world gen queue for level [minecraft:overworld].
-[20:02:32] [Server thread/INFO]: ================WORLD_GEN_STEP_INITING=============
-[20:02:32] [Server thread/INFO]: C2ME detected: DH's pre-existing chunk accessing will use methods handled by C2ME.
-[20:02:32] [Server thread/INFO]: Batch Chunk Generator initialized
-[20:02:32] [Server thread/INFO]: Creating world gen queue
-[20:02:32] [Server thread/INFO]: Created world gen queue
-[20:02:32] [Server thread/INFO]: Set world gen queue for level [minecraft:the_end].
-[20:02:32] [Server thread/INFO]: ================WORLD_GEN_STEP_INITING=============
-[20:02:32] [Server thread/INFO]: C2ME detected: DH's pre-existing chunk accessing will use methods handled by C2ME.
-[20:02:32] [Server thread/INFO]: Batch Chunk Generator initialized
-[20:02:32] [Server thread/INFO]: Creating world gen queue
-[20:02:32] [Server thread/INFO]: Created world gen queue
-[20:02:32] [Server thread/INFO]: Set world gen queue for level [minecraft:the_nether].
-[20:02:56] [Server thread/INFO]: Storyseek3r[/100.121.112.67:8697] logged in with entity id 66 at (-73.10709538932744, 176.0625, -52.217714664229106)
-[20:02:56] [Server thread/INFO]: Loading config from file...
-[20:02:56] [Server thread/INFO]: Player [Storyseek3r] joined.
-[20:02:56] [Server thread/INFO]: Storyseek3r joined the game
-[20:02:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2141ms or 42 ticks behind
-[20:03:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3367ms or 67 ticks behind
-[20:04:58] [Netty Server IO #3/INFO]: Player [Storyseek3r] disconnected.
-[20:04:58] [Server thread/INFO]: Storyseek3r lost connection: Disconnected
-[20:04:58] [Server thread/INFO]: Storyseek3r left the game
-[20:05:08] [Server thread/INFO]: Stopping server
-[20:05:08] [Server thread/INFO]: Saving players
-[20:05:08] [Server thread/INFO]: Saving worlds
-[20:05:08] [Server thread/INFO]: ServerLevel[world]/minecraft:overworld: waiting for 841 chunks to unload
-[20:05:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:05:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20:05:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20:05:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:05:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:05:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:05:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[20:05:09] [Server thread/INFO]: Unloading level DhServerLevel{kres65g4ec4s6@minecraft:overworld} 
-[20:05:09] [Server thread/INFO]: Closing world gen queue
-[20:05:09] [Server thread/INFO]: Closing WorldGenerationQueue...
-[20:05:09] [Server thread/INFO]: Awaiting world generator thread pool termination...
-[20:05:09] [Server thread/WARN]: World generator thread pool shutdown didn't complete after [3] seconds. Some world generator requests may still be running.
-[20:05:09] [Server thread/INFO]: BatchGenerator shutting down...
-[20:05:09] [Server thread/INFO]: BatchGenerationEnvironment shutting down...
-[20:05:09] [Server thread/INFO]: Canceling in progress generation event futures...
-[20:05:09] [Server thread/INFO]: BatchGenerationEnvironment shutdown complete.
-[20:05:09] [Server thread/INFO]: Finished closing WorldGenerationQueue
-[20:05:09] [Server thread/INFO]: Closing [GeneratedFullDataSourceProvider] for level: [DhServerLevel{kres65g4ec4s6@minecraft:overworld}].
-[20:05:09] [Server thread/INFO]: Closing [FullDataSourceProviderV1] for level: [DhServerLevel{kres65g4ec4s6@minecraft:overworld}].
-[20:05:09] [DH-Parent Update Queue [minecraft:overworld] Thread[0]/INFO]: Update thread [DH-Parent Update Queue [minecraft:overworld] Thread[0]] terminated.
-[20:05:09] [Server thread/INFO]: Closing database connection: [jdbc:dh_sqlite:.\world\data\DistantHorizons.sqlite]...
-[20:05:09] [Server thread/INFO]: Finished closing database connection: [jdbc:dh_sqlite:.\world\data\DistantHorizons.sqlite]
-[20:05:09] [Server thread/INFO]: Closed DHLevel for [Wrapped{ServerLevel[world]@minecraft:overworld}].
-[20:05:09] [Server thread/INFO]: Closing [GeneratedFullDataSourceProvider] for level: [DhServerLevel{kres65g4ec4s6@minecraft:overworld}].
-[20:05:09] [Server thread/INFO]: Closing [FullDataSourceProviderV1] for level: [DhServerLevel{kres65g4ec4s6@minecraft:overworld}].
-[20:05:09] [Server thread/INFO]: Closed DHLevel for [Wrapped{ServerLevel[world]@minecraft:overworld}].
-[20:05:09] [C2ME Storage #3/INFO]: Storage thread Thread[#113,C2ME Storage #3,8,main] stopped
-[20:05:09] [C2ME Storage #2/INFO]: Storage thread Thread[#112,C2ME Storage #2,8,main] stopped
-[20:05:09] [Server thread/INFO]: Unloading level DhServerLevel{kres65g4ec4s6@minecraft:the_end} 
-[20:05:09] [C2ME Storage #1/INFO]: Storage thread Thread[#111,C2ME Storage #1,8,main] stopped
-[20:05:09] [Server thread/INFO]: Closing world gen queue
-[20:05:09] [Server thread/INFO]: Closing WorldGenerationQueue...
-[20:05:09] [Server thread/INFO]: Awaiting world generator thread pool termination...
-[20:05:09] [Server thread/WARN]: World generator thread pool shutdown didn't complete after [3] seconds. Some world generator requests may still be running.
-[20:05:09] [Server thread/INFO]: BatchGenerator shutting down...
-[20:05:09] [Server thread/INFO]: BatchGenerationEnvironment shutting down...
-[20:05:09] [Server thread/INFO]: Canceling in progress generation event futures...
-[20:05:09] [Server thread/INFO]: BatchGenerationEnvironment shutdown complete.
-[20:05:09] [Server thread/INFO]: Finished closing WorldGenerationQueue
-[20:05:09] [Server thread/INFO]: Closing [GeneratedFullDataSourceProvider] for level: [DhServerLevel{kres65g4ec4s6@minecraft:the_end}].
-[20:05:09] [Server thread/INFO]: Closing [FullDataSourceProviderV1] for level: [DhServerLevel{kres65g4ec4s6@minecraft:the_end}].
-[20:05:09] [DH-Parent Update Queue [minecraft:the_end] Thread[0]/INFO]: Update thread [DH-Parent Update Queue [minecraft:the_end] Thread[0]] terminated.
-[20:05:09] [Server thread/INFO]: Closing database connection: [jdbc:dh_sqlite:.\world\DIM1\data\DistantHorizons.sqlite]...
-[20:05:09] [Server thread/INFO]: Finished closing database connection: [jdbc:dh_sqlite:.\world\DIM1\data\DistantHorizons.sqlite]
-[20:05:09] [Server thread/INFO]: Closed DHLevel for [Wrapped{ServerLevel[world]@minecraft:the_end}].
-[20:05:10] [Server thread/INFO]: Closing [GeneratedFullDataSourceProvider] for level: [DhServerLevel{kres65g4ec4s6@minecraft:the_end}].
-[20:05:10] [Server thread/INFO]: Closing [FullDataSourceProviderV1] for level: [DhServerLevel{kres65g4ec4s6@minecraft:the_end}].
-[20:05:10] [Server thread/INFO]: Closed DHLevel for [Wrapped{ServerLevel[world]@minecraft:the_end}].
-[20:05:10] [C2ME Storage #6/INFO]: Storage thread Thread[#129,C2ME Storage #6,8,main] stopped
-[20:05:10] [C2ME Storage #5/INFO]: Storage thread Thread[#128,C2ME Storage #5,8,main] stopped
-[20:05:10] [Server thread/INFO]: Unloading level DhServerLevel{kres65g4ec4s6@minecraft:the_nether} 
-[20:05:10] [C2ME Storage #4/INFO]: Storage thread Thread[#127,C2ME Storage #4,8,main] stopped
-[20:05:10] [Server thread/INFO]: Closing world gen queue
-[20:05:10] [Server thread/INFO]: Closing WorldGenerationQueue...
-[20:05:10] [Server thread/INFO]: Awaiting world generator thread pool termination...
-[20:05:10] [Server thread/WARN]: World generator thread pool shutdown didn't complete after [3] seconds. Some world generator requests may still be running.
-[20:05:10] [Server thread/INFO]: BatchGenerator shutting down...
-[20:05:10] [Server thread/INFO]: BatchGenerationEnvironment shutting down...
-[20:05:10] [Server thread/INFO]: Canceling in progress generation event futures...
-[20:05:10] [Server thread/INFO]: BatchGenerationEnvironment shutdown complete.
-[20:05:10] [Server thread/INFO]: Finished closing WorldGenerationQueue
-[20:05:10] [Server thread/INFO]: Closing [GeneratedFullDataSourceProvider] for level: [DhServerLevel{kres65g4ec4s6@minecraft:the_nether}].
-[20:05:10] [Server thread/INFO]: Closing [FullDataSourceProviderV1] for level: [DhServerLevel{kres65g4ec4s6@minecraft:the_nether}].
-[20:05:10] [DH-Parent Update Queue [minecraft:the_nether] Thread[0]/INFO]: Update thread [DH-Parent Update Queue [minecraft:the_nether] Thread[0]] terminated.
-[20:05:10] [Server thread/INFO]: Closing database connection: [jdbc:dh_sqlite:.\world\DIM-1\data\DistantHorizons.sqlite]...
-[20:05:10] [Server thread/INFO]: Finished closing database connection: [jdbc:dh_sqlite:.\world\DIM-1\data\DistantHorizons.sqlite]
-[20:05:10] [Server thread/INFO]: Closed DHLevel for [Wrapped{ServerLevel[world]@minecraft:the_nether}].
-[20:05:10] [Server thread/INFO]: Closing [GeneratedFullDataSourceProvider] for level: [DhServerLevel{kres65g4ec4s6@minecraft:the_nether}].
-[20:05:10] [Server thread/INFO]: Closing [FullDataSourceProviderV1] for level: [DhServerLevel{kres65g4ec4s6@minecraft:the_nether}].
-[20:05:10] [Server thread/INFO]: Closed DHLevel for [Wrapped{ServerLevel[world]@minecraft:the_nether}].
-[20:05:10] [C2ME Storage #9/INFO]: Storage thread Thread[#133,C2ME Storage #9,8,main] stopped
-[20:05:10] [C2ME Storage #8/INFO]: Storage thread Thread[#132,C2ME Storage #8,8,main] stopped
-[20:05:10] [C2ME Storage #7/INFO]: Storage thread Thread[#131,C2ME Storage #7,8,main] stopped
-[20:05:10] [Server thread/INFO]: Closed DhWorld of type [SERVER_ONLY].
-[20:05:10] [Server thread/INFO]: Closed DhWorld of type [SERVER_ONLY].
-[20:05:10] [Server thread/INFO]: Shutting down PriorityTaskPicker thread pool...
-[20:05:12] [Server thread/INFO]: Closing all [0] database connections...
+[00:00:01] [Server thread/INFO]: umaaaaaq[/100.124.143.21:58113] logged in with entity id 83076 at (182.46820791033747, 152.0, -2622.3733399716702)
+[00:00:01] [Server thread/INFO]: Loading config from file...
+[00:00:01] [Server thread/INFO]: Player [umaaaaaq] joined.
+[00:00:01] [Server thread/INFO]: umaaaaaq joined the game
+[00:00:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:00:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2879ms or 57 ticks behind
+[00:00:35] [Netty Server IO #31/INFO]: Player [umaaaaaq] disconnected.
+[00:00:35] [Server thread/INFO]: umaaaaaq lost connection: Disconnected
+[00:00:35] [Server thread/INFO]: umaaaaaq left the game
+[00:00:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2209ms or 44 ticks behind
+[00:00:43] [Server thread/INFO]: umaaaaaq[/100.124.143.21:58382] logged in with entity id 83531 at (178.58181715899553, 150.0, -2638.9639893734065)
+[00:00:43] [Server thread/INFO]: Loading config from file...
+[00:00:43] [Server thread/INFO]: Player [umaaaaaq] joined.
+[00:00:43] [Server thread/INFO]: umaaaaaq joined the game
+[00:00:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2508ms or 50 ticks behind
+[00:01:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2312ms or 46 ticks behind
+[00:01:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5173ms or 103 ticks behind
+[00:01:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6165ms or 123 ticks behind
+[00:02:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5829ms or 116 ticks behind
+[00:02:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5960ms or 119 ticks behind
+[00:02:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3546ms or 70 ticks behind
+[00:03:15] [DH-PriorityTaskPicker Thread[4]/ERROR]: Unable to close Phantom Array, error: [Null phantom checkout, object is being closed multiple times.].
+java.lang.IllegalArgumentException: Null phantom checkout, object is being closed multiple times.
+	at knot/com.seibel.distanthorizons.core.pooling.PhantomArrayListPool.returnCheckout(PhantomArrayListPool.java:399) ~[DistantHorizons-2.3.4-b-1.21.8-fabric-neoforge.jar:?]
+	at knot/com.seibel.distanthorizons.core.pooling.PhantomArrayListPool.returnParentPhantomRef(PhantomArrayListPool.java:388) ~[DistantHorizons-2.3.4-b-1.21.8-fabric-neoforge.jar:?]
+	at knot/com.seibel.distanthorizons.core.pooling.PhantomArrayListParent.close(PhantomArrayListParent.java:60) ~[DistantHorizons-2.3.4-b-1.21.8-fabric-neoforge.jar:?]
+	at knot/com.seibel.distanthorizons.core.file.fullDatafile.DelayedFullDataSourceSaveCache.lambda$handleDataSourceRemoval$1(DelayedFullDataSourceSaveCache.java:126) ~[DistantHorizons-2.3.4-b-1.21.8-fabric-neoforge.jar:?]
+	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:934) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:911) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1810) ~[?:?]
+	at knot/com.seibel.distanthorizons.core.util.threading.PriorityTaskPicker$TrackedRunnable.run(PriorityTaskPicker.java:203) ~[DistantHorizons-2.3.4-b-1.21.8-fabric-neoforge.jar:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[00:03:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3177ms or 63 ticks behind
+[00:03:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3821ms or 76 ticks behind
+[00:03:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2936ms or 58 ticks behind
+[00:04:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5183ms or 103 ticks behind
+[00:04:23] [Server thread/WARN]: Horse (vehicle of ViceIsTrash) moved too quickly! 6.61023708519599,1.0,7.729879046517226
+[00:04:23] [Server thread/WARN]: Horse (vehicle of ViceIsTrash) moved too quickly! 6.648763118637078,1.0,8.356278817401062
+[00:04:23] [Server thread/WARN]: Horse (vehicle of ViceIsTrash) moved too quickly! 6.666918772354052,1.0,9.001667164286118
+[00:04:23] [Server thread/WARN]: Horse (vehicle of ViceIsTrash) moved too quickly! 6.6446350961812755,1.0,9.655723696308314
+[00:04:23] [Server thread/WARN]: Horse (vehicle of ViceIsTrash) moved too quickly! 6.561943595060427,1.0,10.307915504686207
+[00:04:23] [Server thread/WARN]: Horse (vehicle of ViceIsTrash) moved too quickly! 6.418814318764078,1.0,10.951143039162616
+[00:04:23] [Server thread/WARN]: Horse (vehicle of ViceIsTrash) moved too quickly! 6.238183665468,1.0,11.58790008233973
+[00:04:23] [Server thread/WARN]: Horse (vehicle of ViceIsTrash) moved too quickly! 6.036338418856758,1.0,12.220857996191626
+[00:04:23] [Server thread/WARN]: Horse (vehicle of ViceIsTrash) moved wrongly! 2.2582392160286417
+[00:04:23] [Server thread/WARN]: Horse (vehicle of ViceIsTrash) moved wrongly! 2.2582392160286417
+[00:04:23] [Server thread/WARN]: Horse (vehicle of ViceIsTrash) moved wrongly! 2.2582392160286417
+[00:04:23] [Server thread/WARN]: Horse (vehicle of ViceIsTrash) moved wrongly! 2.2582392160286417
+[00:04:23] [Server thread/WARN]: Horse (vehicle of ViceIsTrash) moved wrongly! 2.2582392160286417
+[00:04:23] [Server thread/WARN]: Horse (vehicle of ViceIsTrash) moved wrongly! 2.2582392160286417
+[00:04:23] [Server thread/WARN]: Horse (vehicle of ViceIsTrash) moved wrongly! 2.2582392160286417
+[00:04:23] [Server thread/WARN]: Horse (vehicle of ViceIsTrash) moved wrongly! 2.2582392160286417
+[00:04:23] [Server thread/WARN]: Horse (vehicle of ViceIsTrash) moved wrongly! 1.630718188844412
+[00:04:23] [Server thread/WARN]: Horse (vehicle of ViceIsTrash) moved wrongly! 1.1808278039820834
+[00:04:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6874ms or 137 ticks behind
+[00:04:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4379ms or 87 ticks behind
+[00:04:54] [Server thread/INFO]: Villager class_1646['Farmer'/79333, l='ServerLevel[world]', x=104.90, y=71.00, z=-2668.30] died, message: 'Farmer was slain by Zombie'
+[00:05:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2476ms or 49 ticks behind
+[00:05:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2950ms or 59 ticks behind
+[00:06:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2852ms or 57 ticks behind
+[00:06:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2936ms or 58 ticks behind
+[00:06:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4032ms or 80 ticks behind
+[00:06:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6560ms or 131 ticks behind
+[00:07:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5827ms or 116 ticks behind
+[00:07:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4925ms or 98 ticks behind
+[00:08:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4773ms or 95 ticks behind
+[00:08:07] [Server thread/WARN]: Fir Boat (vehicle of Afaz07) moved wrongly! 0.5097152300381822
+[00:08:07] [Server thread/WARN]: Fir Boat (vehicle of Afaz07) moved wrongly! 0.8521361241159866
+[00:08:07] [Server thread/WARN]: Fir Boat (vehicle of Afaz07) moved wrongly! 0.2846341793240299
+[00:08:07] [Server thread/WARN]: Fir Boat (vehicle of Afaz07) moved wrongly! 0.3737136330669273
+[00:08:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6599ms or 131 ticks behind
+[00:08:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5209ms or 104 ticks behind
+[00:08:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2486ms or 49 ticks behind
+[00:09:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[00:09:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2677ms or 53 ticks behind
+[00:09:37] [Server thread/INFO]: OumaKazuya has made the advancement [Best Friends Forever]
+[00:09:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[00:10:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[00:10:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[00:11:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[00:12:08] [Netty Server IO #2/INFO]: Player [umaaaaaq] disconnected.
+[00:12:08] [Server thread/INFO]: umaaaaaq lost connection: Disconnected
+[00:12:08] [Server thread/INFO]: umaaaaaq left the game
+[00:12:34] [Server thread/INFO]: umaaaaaq[/100.124.143.21:60157] logged in with entity id 96098 at (57.50267791605773, 71.0, -1760.178283406843)
+[00:12:34] [Server thread/INFO]: Loading config from file...
+[00:12:34] [Server thread/INFO]: Player [umaaaaaq] joined.
+[00:12:34] [Server thread/INFO]: umaaaaaq joined the game
+[00:12:38] [Netty Server IO #5/INFO]: Player [umaaaaaq] disconnected.
+[00:12:38] [Server thread/INFO]: umaaaaaq lost connection: Disconnected
+[00:12:38] [Server thread/INFO]: umaaaaaq left the game
+[00:13:22] [Server thread/INFO]: umaaaaaq[/100.124.143.21:60261] logged in with entity id 96580 at (57.50267791605773, 71.0, -1760.178283406843)
+[00:13:22] [Server thread/INFO]: Loading config from file...
+[00:13:22] [Server thread/INFO]: Player [umaaaaaq] joined.
+[00:13:22] [Server thread/INFO]: umaaaaaq joined the game
+[00:15:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[00:15:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[00:15:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2202ms or 44 ticks behind
+[00:15:47] [Server thread/WARN]: Fir Boat (vehicle of Afaz07) moved too quickly! 9.624952379547494,0.0,3.7786177034674893
+[00:15:47] [Server thread/WARN]: Fir Boat (vehicle of Afaz07) moved too quickly! 9.973728089530141,0.0,3.971040358909022
+[00:15:47] [Server thread/WARN]: Fir Boat (vehicle of Afaz07) moved too quickly! 10.321157297405193,0.0,4.166027312126062
+[00:15:47] [Server thread/WARN]: Fir Boat (vehicle of Afaz07) moved too quickly! 10.667311785416473,0.0,4.363418493501285
+[00:15:47] [Server thread/WARN]: Fir Boat (vehicle of Afaz07) moved too quickly! 11.012262207453091,0.0,4.563060046594956
+[00:15:47] [Server thread/WARN]: Fir Boat (vehicle of Afaz07) moved too quickly! 11.356078280116094,0.0,4.764803760843506
+[00:15:47] [Server thread/WARN]: Fir Boat (vehicle of Afaz07) moved too quickly! 11.698826812636526,0.0,4.968509738660941
+[00:15:47] [Server thread/WARN]: Fir Boat (vehicle of Afaz07) moved too quickly! 12.040572046041234,0.0,5.17404559766851
+[00:16:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6231ms or 124 ticks behind
+[00:16:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2753ms or 55 ticks behind
+[00:16:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[00:17:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:17:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[00:17:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2228ms or 44 ticks behind
+[00:17:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3689ms or 73 ticks behind
+[00:18:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2909ms or 58 ticks behind
+[00:18:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[00:19:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[00:19:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[00:20:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[00:20:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[00:23:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[00:24:13] [Netty Server IO #7/INFO]: Player [umaaaaaq] disconnected.
+[00:24:13] [Server thread/INFO]: umaaaaaq lost connection: Disconnected
+[00:24:13] [Server thread/INFO]: umaaaaaq left the game
+[00:24:47] [Netty Server IO #5/INFO]: Player [ViceIsTrash] disconnected.
+[00:24:47] [Server thread/INFO]: ViceIsTrash lost connection: Disconnected
+[00:24:47] [Server thread/INFO]: ViceIsTrash left the game
+[00:25:07] [Server thread/INFO]: umaaaaaq[/100.124.143.21:62069] logged in with entity id 106279 at (-283.061116381745, 88.0, -1494.0804233637423)
+[00:25:07] [Server thread/INFO]: Loading config from file...
+[00:25:07] [Server thread/INFO]: Player [umaaaaaq] joined.
+[00:25:07] [Server thread/INFO]: umaaaaaq joined the game
+[00:25:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@b2aefc6[id=a7c1ce87-2976-3051-abcc-b9a894d7351c,name=ViceIsTrash,properties={}] lost connection: Disconnected
+[00:25:48] [Server thread/INFO]: ViceIsTrash[/100.90.148.25:10655] logged in with entity id 107285 at (-47.30000001192093, 54.0, -1506.937422031236)
+[00:25:48] [Server thread/INFO]: Loading config from file...
+[00:25:48] [Server thread/INFO]: Player [ViceIsTrash] joined.
+[00:25:48] [Server thread/INFO]: ViceIsTrash joined the game
+[00:26:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[00:26:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[00:26:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2140ms or 42 ticks behind
+[00:27:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[00:27:24] [Netty Server IO #10/INFO]: Player [Afaz07] disconnected.
+[00:27:24] [Server thread/INFO]: Afaz07 lost connection: Disconnected
+[00:27:24] [Server thread/INFO]: Afaz07 left the game
+[00:27:32] [Server thread/INFO]: Afaz07[/100.99.48.98:42990] logged in with entity id 108831 at (-246.7544050136251, 120.0, -1648.3422916827517)
+[00:27:32] [Server thread/INFO]: Loading config from file...
+[00:27:32] [Server thread/INFO]: Player [Afaz07] joined.
+[00:27:32] [Server thread/INFO]: Afaz07 joined the game
+[00:27:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[00:27:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2122ms or 42 ticks behind
+[00:28:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2303ms or 46 ticks behind
+[00:28:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2898ms or 57 ticks behind
+[00:28:30] [Netty Server IO #15/INFO]: Player [ViceIsTrash] disconnected.
+[00:28:30] [Server thread/INFO]: ViceIsTrash lost connection: Disconnected
+[00:28:30] [Server thread/INFO]: ViceIsTrash left the game
+[00:29:07] [Netty Server IO #13/INFO]: Player [umaaaaaq] disconnected.
+[00:29:07] [Server thread/INFO]: umaaaaaq lost connection: Timed out
+[00:29:07] [Server thread/INFO]: umaaaaaq left the game
+[00:29:13] [Server thread/INFO]: umaaaaaq[/100.124.143.21:62633] logged in with entity id 110099 at (-269.4770155195, 143.41999998688698, -817.3000000119209)
+[00:29:13] [Server thread/INFO]: Loading config from file...
+[00:29:13] [Server thread/INFO]: Player [umaaaaaq] joined.
+[00:29:13] [Server thread/INFO]: umaaaaaq joined the game
+[00:30:09] [Netty Server IO #19/INFO]: Player [umaaaaaq] disconnected.
+[00:30:09] [Server thread/INFO]: umaaaaaq lost connection: You logged in from another location
+[00:30:09] [Server thread/INFO]: umaaaaaq left the game
+[00:30:10] [Server thread/INFO]: umaaaaaq[/100.124.143.21:62727] logged in with entity id 111062 at (-237.65686716320633, 146.0, -737.3000000119209)
+[00:30:10] [Server thread/INFO]: Loading config from file...
+[00:30:10] [Server thread/INFO]: Player [umaaaaaq] joined.
+[00:30:10] [Server thread/INFO]: umaaaaaq joined the game
+[00:31:58] [Server thread/WARN]: umaaaaaq moved too quickly! 6.982698825919101,-3.0,-6.6753773992505785
+[00:32:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[00:32:07] [Server thread/WARN]: umaaaaaq moved too quickly! 6.088633337926694,-8.305438451751229,1.6282611886063023
+[00:32:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[00:32:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[00:33:17] [Server thread/INFO]: umaaaaaq has made the advancement [Not Today, Thank You]
+[00:33:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:34:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:35:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[00:35:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2183ms or 43 ticks behind
+[00:35:50] [Server thread/INFO]: [Not Secure] <Afaz07> ich weiss nöd am wo ich will build mei hüs
+[00:35:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[00:36:21] [Server thread/INFO]: [Not Secure] <Afaz07> ich chann schwiizdüütsch
+[00:36:35] [Server thread/INFO]: [Not Secure] <Afaz07> buto hang
+[00:36:45] [Server thread/INFO]: [Not Secure] <Afaz07> tebo kamek
+[00:36:57] [Netty Server IO #28/INFO]: Player [OumaKazuya] disconnected.
+[00:36:57] [Server thread/INFO]: OumaKazuya lost connection: Disconnected
+[00:36:57] [Server thread/INFO]: OumaKazuya left the game
+[00:37:05] [Server thread/INFO]: [Not Secure] <umaaaaaq> Storyseek3r ahn
+[00:37:22] [Netty Server IO #17/INFO]: Player [Afaz07] disconnected.
+[00:37:22] [Server thread/INFO]: Afaz07 lost connection: Disconnected
+[00:37:22] [Server thread/INFO]: Afaz07 left the game
+[00:37:31] [Server thread/INFO]: Afaz07[/100.99.48.98:43405] logged in with entity id 116962 at (341.238862720481, 62.11076431274414, -1537.6216090007763)
+[00:37:31] [Server thread/INFO]: Loading config from file...
+[00:37:31] [Server thread/INFO]: Player [Afaz07] joined.
+[00:37:31] [Server thread/INFO]: Afaz07 joined the game
+[00:38:43] [Server thread/INFO]: [Not Secure] <Afaz07> dein Hüs isch smellich
+[00:39:09] [Server thread/INFO]: [Not Secure] <Afaz07> ああああああ
+[00:39:17] [Server thread/INFO]: OumaKazuya[/100.75.132.49:53675] logged in with entity id 118509 at (164.5, 67.0, -1710.5)
+[00:39:17] [Server thread/INFO]: Loading config from file...
+[00:39:18] [Server thread/INFO]: Player [OumaKazuya] joined.
+[00:39:18] [Server thread/INFO]: OumaKazuya joined the game
+[00:40:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[00:40:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[00:40:45] [Server thread/INFO]: Storyseek3r has made the advancement [Not Today, Thank You]
+[00:41:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[00:41:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[00:41:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2469ms or 49 ticks behind
+[00:42:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[00:42:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[00:43:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[00:46:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[00:49:10] [Netty Server IO #22/INFO]: Player [umaaaaaq] disconnected.
+[00:49:10] [Server thread/INFO]: umaaaaaq lost connection: Disconnected
+[00:49:10] [Server thread/INFO]: umaaaaaq left the game
+[00:49:15] [Netty Server IO #26/INFO]: Player [OumaKazuya] disconnected.
+[00:49:15] [Server thread/INFO]: OumaKazuya lost connection: Disconnected
+[00:49:15] [Server thread/INFO]: OumaKazuya left the game
+[00:49:19] [Netty Server IO #25/INFO]: Player [Afaz07] disconnected.
+[00:49:19] [Server thread/INFO]: Afaz07 lost connection: Disconnected
+[00:49:19] [Server thread/INFO]: Afaz07 left the game
+[00:49:38] [Server thread/INFO]: umaaaaaq[/100.124.143.21:49159] logged in with entity id 126004 at (76.52822583036325, 80.0, -966.8973967034959)
+[00:49:38] [Server thread/INFO]: Loading config from file...
+[00:49:38] [Server thread/INFO]: Player [umaaaaaq] joined.
+[00:49:38] [Server thread/INFO]: umaaaaaq joined the game
+[00:49:43] [Server thread/INFO]: OumaKazuya[/100.75.132.49:53754] logged in with entity id 126327 at (165.52384382522004, 63.0, -1717.4254463225052)
+[00:49:43] [Server thread/INFO]: Loading config from file...
+[00:49:43] [Server thread/INFO]: Player [OumaKazuya] joined.
+[00:49:43] [Server thread/INFO]: OumaKazuya joined the game
+[00:49:43] [Netty Server IO #0/INFO]: Player [umaaaaaq] disconnected.
+[00:49:43] [Server thread/INFO]: umaaaaaq lost connection: Disconnected
+[00:49:43] [Server thread/INFO]: umaaaaaq left the game
+[00:49:45] [Netty Server IO #1/INFO]: Player [OumaKazuya] disconnected.
+[00:49:45] [Server thread/INFO]: OumaKazuya lost connection: Disconnected
+[00:49:45] [Server thread/INFO]: OumaKazuya left the game
+[00:49:49] [Server thread/INFO]: OumaKazuya[/100.75.132.49:53762] logged in with entity id 126730 at (165.52384382522004, 63.0, -1717.4254463225052)
+[00:49:49] [Server thread/INFO]: Loading config from file...
+[00:49:49] [Server thread/INFO]: Player [OumaKazuya] joined.
+[00:49:49] [Server thread/INFO]: OumaKazuya joined the game
+[00:49:50] [Server thread/INFO]: umaaaaaq[/100.124.143.21:49190] logged in with entity id 127112 at (76.69999998807907, 80.0, -967.1233626444233)
+[00:49:50] [Server thread/INFO]: Loading config from file...
+[00:49:50] [Server thread/INFO]: Player [umaaaaaq] joined.
+[00:49:50] [Server thread/INFO]: umaaaaaq joined the game
+[00:55:59] [Server thread/INFO]: Afaz07[/100.99.48.98:44158] logged in with entity id 130801 at (350.5, 63.0, -1551.5)
+[00:55:59] [Server thread/INFO]: Loading config from file...
+[00:55:59] [Server thread/INFO]: Player [Afaz07] joined.
+[00:55:59] [Server thread/INFO]: Afaz07 joined the game
+[00:56:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[00:56:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[00:58:03] [Server thread/INFO]: Villager class_1646['Villager'/126869, l='ServerLevel[world]', x=132.60, y=67.00, z=-1660.15] died, message: 'Villager suffocated in a wall'
+[01:01:24] [Netty Server IO #7/INFO]: Player [Afaz07] disconnected.
+[01:01:24] [Server thread/INFO]: Afaz07 lost connection: Disconnected
+[01:01:24] [Server thread/INFO]: Afaz07 left the game
+[01:01:30] [Server thread/INFO]: Afaz07[/100.99.48.98:44436] logged in with entity id 134533 at (348.60559569561644, 63.0, -1556.520733462759)
+[01:01:30] [Server thread/INFO]: Loading config from file...
+[01:01:30] [Server thread/INFO]: Player [Afaz07] joined.
+[01:01:30] [Server thread/INFO]: Afaz07 joined the game
+[01:02:22] [Server thread/INFO]: [Not Secure] <umaaaaaq> [name:"Umaq's house", x:195, y:147, z:-1343, dim:minecraft:overworld]
+[01:04:28] [Server thread/INFO]: [Not Secure] <Afaz07> [name:"Consturt Of Afazia", x:391, y:69, z:-1623, dim:minecraft:overworld]
+[01:06:38] [Server thread/INFO]: [Not Secure] <Storyseek3r> [name:"Mt. Tia territory", x:-231, y:119, z:-1670, dim:minecraft:overworld]
+[01:08:39] [Netty Server IO #5/INFO]: Player [umaaaaaq] disconnected.
+[01:08:39] [Server thread/INFO]: umaaaaaq lost connection: Disconnected
+[01:08:39] [Server thread/INFO]: umaaaaaq left the game
+[01:08:45] [Server thread/INFO]: umaaaaaq[/100.124.143.21:51899] logged in with entity id 138526 at (198.1738966352435, 147.0, -1344.699999988079)
+[01:08:45] [Server thread/INFO]: Loading config from file...
+[01:08:45] [Server thread/INFO]: Player [umaaaaaq] joined.
+[01:08:45] [Server thread/INFO]: umaaaaaq joined the game
+[01:10:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[01:12:41] [Netty Server IO #9/INFO]: Player [Afaz07] disconnected.
+[01:12:41] [Server thread/INFO]: Afaz07 lost connection: Disconnected
+[01:12:41] [Server thread/INFO]: Afaz07 left the game
+[01:12:47] [Server thread/INFO]: [Not Secure] <OumaKazuya> [x:152, y:63, z:-1712, dim:minecraft:overworld]
