@@ -1,12 +1,12 @@
-[19:56:07] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.17.2
-[19:56:08] [main/WARN]: Warnings were found!
+[20:01:44] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.17.2
+[20:01:45] [main/WARN]: Warnings were found!
  - Mod 'Debugify' (debugify) 1.21.8+1.0 recommends any version of yet_another_config_lib_v3, which is missing!
 	 - You should install any version of yet_another_config_lib_v3 for the optimal experience.
  - Mod 'Debugify' (debugify) 1.21.8+1.0 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
  - Mod 'Forge Config API Port' (forgeconfigapiport) 21.8.0 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
-[19:56:08] [main/INFO]: Loading 128 mods:
+[20:01:45] [main/INFO]: Loading 128 mods:
 	- armor_3d 0.9.0
 	- biomesoplenty 21.8.0.8
 	   \-- net_jodah_typetools 0.6.3
@@ -149,298 +149,238 @@
 	- toughasnails 21.8.0.0
 	   \-- net_jodah_typetools 0.6.3
 	- travelersbackpack 10.8.1
-[19:56:09] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/adamh/Downloads/DaBoyz2/DaBoyz2/libraries/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[19:56:09] [main/INFO]: Compatibility level set to JAVA_17
-[19:56:09] [main/INFO]: Compatibility level set to JAVA_21
-[19:56:09] [main/INFO]: Initializing com.ishland.c2me.base.mixin
-[19:56:09] [main/INFO]: Global Executor Parallelism: 10 configured, 10 evaluated, 10 default evaluated
-[19:56:09] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
-[19:56:09] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
-[19:56:09] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
-[19:56:09] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
-[19:56:10] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
-[19:56:10] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
-[19:56:10] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
-[19:56:10] [main/INFO]: Initializing com.ishland.c2me.opts.dfc.mixin
-[19:56:10] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
-[19:56:10] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
-[19:56:10] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
-[19:56:10] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
-[19:56:10] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
-[19:56:10] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
-[19:56:10] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunksystem.mixin
-[19:56:10] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
-[19:56:10] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
-[19:56:10] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
-[19:56:10] [main/WARN]: Reference map 'cristellib-common-common-refmap.json' for cristellib-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:56:10] [main/WARN]: Reference map 'eternalnether.fabric.refmap.json' for eternalnether.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:56:10] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:56:10] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:56:10] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:56:10] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
-[19:56:10] [main/INFO]: Loaded configuration file for Lithium: 160 options available, 0 override(s) found.
-[19:56:10] [main/WARN]: Error loading class: ca/spottedleaf/starlight/common/thread/SchedulingUtil (java.lang.ClassNotFoundException: ca/spottedleaf/starlight/common/thread/SchedulingUtil)
-[19:56:11] [main/WARN]: Error loading class: net/minecraft/class_938 (java.lang.ClassNotFoundException: net/minecraft/class_938)
-[19:56:11] [main/WARN]: @Mixin target net.minecraft.class_938 was not found journeymap.mixins.json:client.SalmonRendererInvoker from mod journeymap
-[19:56:11] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
-[19:56:12] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
-[19:56:29] [main/INFO]: Enabled 58 bug fixes: [MC-2025, MC-7569, MC-8187, MC-30391, MC-69216, MC-82263, MC-84661, MC-88371, MC-89146, MC-93018, MC-94054, MC-100991, MC-119417, MC-119754, MC-121706, MC-121903, MC-123450, MC-123605, MC-129909, MC-132878, MC-134110, MC-136249, MC-139041, MC-147659, MC-147784, MC-155509, MC-159283, MC-160095, MC-168573, MC-170462, MC-176806, MC-177831, MC-179072, MC-183990, MC-187100, MC-199467, MC-200418, MC-201374, MC-202637, MC-206922, MC-215530, MC-219981, MC-221257, MC-223153, MC-224729, MC-226961, MC-227008, MC-227337, MC-231743, MC-232869, MC-245394, MC-267125, MC-268617, MC-271899, MC-272431, MC-297837, MC-298066, MC-299115]
-[19:56:29] [main/INFO]: Successfully Debugify'd your game!
-[19:56:29] [main/INFO]: Constructing components for eternalnether:common
-[19:56:30] [main/INFO]: Registered synced config with path sereneseasons/fertility.toml
-[19:56:30] [main/INFO]: Registered synced config with path sereneseasons/seasons.toml
-[19:56:30] [Cicada thread 0/INFO]: 'how can it be safe when there is no objectinputstream?'
-[19:56:31] [main/INFO]: Registered synced config with path toughasnails/thirst.toml
-[19:56:31] [main/INFO]: Registered synced config with path toughasnails/temperature.toml
-[19:56:31] [main/INFO]: Serene Seasons detected. Enabling season modifier.
-[19:56:32] [main/INFO]: Initializing ServerSide Packet Registries
-[19:56:32] [main/INFO]: Constructing components for puzzleslib:common
-[19:56:32] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[19:56:32] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
-[19:56:32] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[19:56:32] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[19:56:32] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[19:56:32] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[19:56:32] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[19:56:33] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
-[19:56:33] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
-[19:56:33] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
-[19:56:33] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
-[19:56:33] [main/INFO]: Registered the FluidEffect with Unique ID of toughasnails:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 4
-[19:56:33] [main/INFO]: Registered the FluidEffect with Unique ID of toughasnails:water_canteen for Water (Fluid Amount Required: 200) with the ID 5
-[19:56:33] [main/INFO]: Registered the FluidEffect with Unique ID of toughasnails:water for Water (Fluid Amount Required: 81000) with the ID 6
-[19:56:33] [main/INFO]: Initializing Distant Horizons server, firing DhApiBeforeDhInitEvent event...
-[19:56:33] [main/INFO]: Distant Horizons, Version: 2.3.4-b
-[19:56:33] [main/INFO]: Registering Fabric Server Events
-[19:56:33] [main/INFO]: Distant Horizons server Initialized, adding event subscribers...
-[19:56:33] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:56:33] [main/INFO]: Found new data pack biomesoplenty, loading it automatically
-[19:56:33] [main/INFO]: Found new data pack continents, loading it automatically
-[19:56:33] [main/INFO]: Found new data pack eternalnether, loading it automatically
-[19:56:33] [main/INFO]: Found new data pack fabric, loading it automatically
-[19:56:33] [main/INFO]: Found new data pack fabric-convention-tags-v2, loading it automatically
-[19:56:33] [main/INFO]: Found new data pack lithostitched, loading it automatically
-[19:56:33] [main/INFO]: Found new data pack mr_vanilla_structureupdate, loading it automatically
-[19:56:33] [main/INFO]: Found new data pack mss, loading it automatically
-[19:56:33] [main/INFO]: Found new data pack mvs, loading it automatically
-[19:56:33] [main/INFO]: Found new data pack nullscape, loading it automatically
-[19:56:33] [main/INFO]: Found new data pack sereneseasons, loading it automatically
-[19:56:33] [main/INFO]: Found new data pack t_and_t, loading it automatically
-[19:56:33] [main/INFO]: Found new data pack tectonic:tectonic, loading it automatically
-[19:56:33] [main/INFO]: Found new data pack terrablender, loading it automatically
-[19:56:33] [main/INFO]: Found new data pack toughasnails, loading it automatically
-[19:56:33] [main/INFO]: Found new data pack travelersbackpack, loading it automatically
-[19:56:36] [main/INFO]: No existing world data, creating new world
-[19:56:37] [main/INFO]: Loaded 1943 recipes
-[19:56:37] [main/INFO]: Loaded 2053 advancements
-[19:56:37] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[19:56:38] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[19:56:38] [main/INFO]: Applied 1 biome modifications to 1 of 136 new biomes in 15.75 ms
-[19:56:39] [Server thread/INFO]: Initialising config for DistantHorizons
-[19:56:39] [Server thread/INFO]: Config for DistantHorizons initialised
-[19:56:39] [Server thread/INFO]: Running Delayed setup...
-[19:56:39] [Server thread/INFO]: Delayed setup complete, firing DhApiAfterDhInitEvent event...
-[19:56:39] [Server thread/INFO]: Checking for Distant Horizons update
-[19:56:40] [Server thread/INFO]: Distant Horizons already up to date.
-[19:56:40] [Server thread/INFO]: Distant Horizons server Initialized at 
-[19:56:40] [Server thread/INFO]: Started [DhServerWorld] of type [SERVER_ONLY].
-[19:56:40] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[19:56:40] [Server thread/INFO]: Loading properties
-[19:56:40] [Server thread/INFO]: Default game type: SURVIVAL
-[19:56:40] [Server thread/INFO]: Generating keypair
-[19:56:40] [Server thread/INFO]: Starting Minecraft server on 100.121.112.67:25565
-[19:56:40] [Server thread/INFO]: Using default channel type
-[19:56:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:56:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:56:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:56:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:56:40] [Server thread/INFO]: Preparing level "world"
-[19:56:40] [Server thread/INFO]: Enforcing safe world random access
-[19:56:42] [DH-ApplyConfigPresetTimer/INFO]: changing preset to: BALANCED
-[19:56:42] [DH-ApplyConfigPresetTimer/INFO]: changing preset to: MEDIUM
-[19:56:42] [DH-ApplyConfigPresetTimer/INFO]: preset active: BALANCED
-[19:56:42] [DH-ApplyConfigPresetTimer/INFO]: preset active: MEDIUM
-[19:56:42] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 958.3 ms
-[19:56:42] [Server thread/INFO]: Using TheSpeedyObjectFactory with Unsafe
-[19:56:42] [Server thread/INFO]: Running SQL update script: [sqlScripts/0010-sqlite-createInitialDataTables.sql], for repo: [.\world\data\DistantHorizons.sqlite]
-[19:56:42] [Server thread/INFO]: Running SQL update script: [sqlScripts/0020-sqlite-createFullDataSourceV2Tables.sql], for repo: [.\world\data\DistantHorizons.sqlite]
-[19:56:42] [Server thread/INFO]: Running SQL update script: [sqlScripts/0030-sqlite-changeTableJournaling.sql], for repo: [.\world\data\DistantHorizons.sqlite]
-[19:56:42] [Server thread/INFO]: Running SQL update script: [sqlScripts/0031-sqlite-useSqliteWalJournaling.sql], for repo: [.\world\data\DistantHorizons.sqlite]
-[19:56:42] [Server thread/INFO]: Running SQL update script: [sqlScripts/0040-sqlite-removeRenderCache.sql], for repo: [.\world\data\DistantHorizons.sqlite]
-[19:56:42] [Server thread/INFO]: Running SQL update script: [sqlScripts/0050-sqlite-addApplyToParentIndex.sql], for repo: [.\world\data\DistantHorizons.sqlite]
-[19:56:42] [Server thread/INFO]: Running SQL update script: [sqlScripts/0060-sqlite-createChunkHashTable.sql], for repo: [.\world\data\DistantHorizons.sqlite]
-[19:56:42] [Server thread/INFO]: Running SQL update script: [sqlScripts/0070-sqlite-createBeaconBeamTable.sql], for repo: [.\world\data\DistantHorizons.sqlite]
-[19:56:42] [Server thread/INFO]: Running SQL update script: [sqlScripts/0080-sqlite-addApplyToChildrenColumn.sql], for repo: [.\world\data\DistantHorizons.sqlite]
-[19:56:43] [DH-Full Data Migration Thread[0]/INFO]: Attempting to migrate data sources for: [minecraft:overworld]-[.\world\data]...
-[19:56:43] [DH-Full Data Migration Thread[0]/INFO]: Found [0] data sources that need migration.
-[19:56:43] [Server thread/INFO]: Started DhServerLevel for [Wrapped{ServerLevel[world]@minecraft:overworld}] at [[LocalSaveStructure@(.\world\data)]].
-[19:56:43] [DH-Full Data Migration Thread[0]/INFO]: No migration necessary.
-[19:56:56] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 34.41 ms
-[19:56:57] [Server thread/INFO]: Running SQL update script: [sqlScripts/0010-sqlite-createInitialDataTables.sql], for repo: [.\world\DIM-1\data\DistantHorizons.sqlite]
-[19:56:57] [Server thread/INFO]: Running SQL update script: [sqlScripts/0020-sqlite-createFullDataSourceV2Tables.sql], for repo: [.\world\DIM-1\data\DistantHorizons.sqlite]
-[19:56:57] [Server thread/INFO]: Running SQL update script: [sqlScripts/0030-sqlite-changeTableJournaling.sql], for repo: [.\world\DIM-1\data\DistantHorizons.sqlite]
-[19:56:57] [Server thread/INFO]: Running SQL update script: [sqlScripts/0031-sqlite-useSqliteWalJournaling.sql], for repo: [.\world\DIM-1\data\DistantHorizons.sqlite]
-[19:56:57] [Server thread/INFO]: Running SQL update script: [sqlScripts/0040-sqlite-removeRenderCache.sql], for repo: [.\world\DIM-1\data\DistantHorizons.sqlite]
-[19:56:57] [Server thread/INFO]: Running SQL update script: [sqlScripts/0050-sqlite-addApplyToParentIndex.sql], for repo: [.\world\DIM-1\data\DistantHorizons.sqlite]
-[19:56:57] [Server thread/INFO]: Running SQL update script: [sqlScripts/0060-sqlite-createChunkHashTable.sql], for repo: [.\world\DIM-1\data\DistantHorizons.sqlite]
-[19:56:57] [Server thread/INFO]: Running SQL update script: [sqlScripts/0070-sqlite-createBeaconBeamTable.sql], for repo: [.\world\DIM-1\data\DistantHorizons.sqlite]
-[19:56:57] [Server thread/INFO]: Running SQL update script: [sqlScripts/0080-sqlite-addApplyToChildrenColumn.sql], for repo: [.\world\DIM-1\data\DistantHorizons.sqlite]
-[19:56:57] [DH-Full Data Migration Thread[0]/INFO]: Attempting to migrate data sources for: [minecraft:the_nether]-[.\world\DIM-1\data]...
-[19:56:57] [DH-Full Data Migration Thread[0]/INFO]: Found [0] data sources that need migration.
-[19:56:57] [DH-Full Data Migration Thread[0]/INFO]: No migration necessary.
-[19:56:57] [Server thread/INFO]: Started DhServerLevel for [Wrapped{ServerLevel[world]@minecraft:the_nether}] at [[LocalSaveStructure@(.\world\DIM-1\data;.\world\data)]].
-[19:56:58] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 964.9 ms
-[19:56:58] [Server thread/INFO]: Running SQL update script: [sqlScripts/0010-sqlite-createInitialDataTables.sql], for repo: [.\world\DIM1\data\DistantHorizons.sqlite]
-[19:56:58] [Server thread/INFO]: Running SQL update script: [sqlScripts/0020-sqlite-createFullDataSourceV2Tables.sql], for repo: [.\world\DIM1\data\DistantHorizons.sqlite]
-[19:56:58] [Server thread/INFO]: Running SQL update script: [sqlScripts/0030-sqlite-changeTableJournaling.sql], for repo: [.\world\DIM1\data\DistantHorizons.sqlite]
-[19:56:58] [Server thread/INFO]: Running SQL update script: [sqlScripts/0031-sqlite-useSqliteWalJournaling.sql], for repo: [.\world\DIM1\data\DistantHorizons.sqlite]
-[19:56:58] [Server thread/INFO]: Running SQL update script: [sqlScripts/0040-sqlite-removeRenderCache.sql], for repo: [.\world\DIM1\data\DistantHorizons.sqlite]
-[19:56:58] [Server thread/INFO]: Running SQL update script: [sqlScripts/0050-sqlite-addApplyToParentIndex.sql], for repo: [.\world\DIM1\data\DistantHorizons.sqlite]
-[19:56:58] [Server thread/INFO]: Running SQL update script: [sqlScripts/0060-sqlite-createChunkHashTable.sql], for repo: [.\world\DIM1\data\DistantHorizons.sqlite]
-[19:56:58] [Server thread/INFO]: Running SQL update script: [sqlScripts/0070-sqlite-createBeaconBeamTable.sql], for repo: [.\world\DIM1\data\DistantHorizons.sqlite]
-[19:56:58] [Server thread/INFO]: Running SQL update script: [sqlScripts/0080-sqlite-addApplyToChildrenColumn.sql], for repo: [.\world\DIM1\data\DistantHorizons.sqlite]
-[19:56:58] [DH-Full Data Migration Thread[0]/INFO]: Attempting to migrate data sources for: [minecraft:the_end]-[.\world\DIM1\data]...
-[19:56:58] [DH-Full Data Migration Thread[0]/INFO]: Found [0] data sources that need migration.
-[19:56:58] [DH-Full Data Migration Thread[0]/INFO]: No migration necessary.
-[19:56:58] [Server thread/INFO]: Started DhServerLevel for [Wrapped{ServerLevel[world]@minecraft:the_end}] at [[LocalSaveStructure@(.\world\DIM-1\data;.\world\DIM1\data;.\world\data)]].
-[19:56:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:56:58] [c2me-worker-9/INFO]: Preparing spawn area: 2%
-[19:56:59] [c2me-worker-9/INFO]: Preparing spawn area: 2%
-[19:56:59] [c2me-worker-6/INFO]: Preparing spawn area: 2%
-[19:57:00] [c2me-worker-5/INFO]: Preparing spawn area: 2%
-[19:57:00] [c2me-worker-5/INFO]: Preparing spawn area: 4%
-[19:57:01] [c2me-worker-8/INFO]: Preparing spawn area: 18%
-[19:57:01] [c2me-worker-6/INFO]: Preparing spawn area: 32%
-[19:57:02] [c2me-worker-5/INFO]: Preparing spawn area: 36%
-[19:57:02] [c2me-worker-6/INFO]: Preparing spawn area: 46%
-[19:57:03] [c2me-worker-1/INFO]: Preparing spawn area: 48%
-[19:57:03] [c2me-worker-4/INFO]: Preparing spawn area: 55%
-[19:57:04] [minecraft_overworld - Light/INFO]: Preparing spawn area: 73%
-[19:57:04] [c2me-worker-7/INFO]: Preparing spawn area: 85%
-[19:57:05] [c2me-worker-3/INFO]: Preparing spawn area: 95%
-[19:57:05] [Server thread/INFO]: Time elapsed: 6851 ms
-[19:57:05] [Server thread/INFO]: Done (24.517s)! For help, type "help"
-[19:57:05] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
-[19:57:05] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@53dffcef for service interface journeymap.api.services.ClientPlatformService
-[19:57:05] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@10afef1 for service interface journeymap.api.services.CommonPlatformService
-[19:57:05] [Server thread/INFO]: DH TerraFirmaCraft detection: false
-[19:57:06] [Server thread/INFO]: ================WORLD_GEN_STEP_INITING=============
-[19:57:06] [Server thread/INFO]: C2ME detected: DH's pre-existing chunk accessing will use methods handled by C2ME.
-[19:57:06] [Server thread/INFO]: Batch Chunk Generator initialized
-[19:57:06] [Server thread/INFO]: Creating world gen queue
-[19:57:06] [Server thread/INFO]: Created world gen queue
-[19:57:06] [Server thread/INFO]: Set world gen queue for level [minecraft:the_nether].
-[19:57:06] [Server thread/INFO]: ================WORLD_GEN_STEP_INITING=============
-[19:57:06] [Server thread/INFO]: C2ME detected: DH's pre-existing chunk accessing will use methods handled by C2ME.
-[19:57:06] [Server thread/INFO]: Batch Chunk Generator initialized
-[19:57:06] [Server thread/INFO]: Creating world gen queue
-[19:57:06] [Server thread/INFO]: Created world gen queue
-[19:57:06] [Server thread/INFO]: Set world gen queue for level [minecraft:the_end].
-[19:57:06] [Server thread/INFO]: ================WORLD_GEN_STEP_INITING=============
-[19:57:06] [Server thread/INFO]: C2ME detected: DH's pre-existing chunk accessing will use methods handled by C2ME.
-[19:57:06] [Server thread/INFO]: Batch Chunk Generator initialized
-[19:57:06] [Server thread/INFO]: Creating world gen queue
-[19:57:06] [Server thread/INFO]: Created world gen queue
-[19:57:06] [Server thread/INFO]: Set world gen queue for level [minecraft:overworld].
-[19:58:05] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[19:58:40] [Server thread/INFO]: Storyseek3r[/100.121.112.67:32077] logged in with entity id 24 at (1.5, 175.0, -0.5)
-[19:58:40] [Server thread/INFO]: Loading config from file...
-[19:58:40] [Server thread/INFO]: Player [Storyseek3r] joined.
-[19:58:40] [Server thread/INFO]: Storyseek3r joined the game
-[19:58:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2343ms or 46 ticks behind
-[19:58:57] [c2me-worker-5/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[19:59:00] [c2me-worker-5/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[19:59:01] [c2me-worker-5/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[19:59:01] [c2me-worker-5/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[19:59:01] [c2me-worker-5/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[19:59:01] [c2me-worker-5/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[19:59:01] [c2me-worker-5/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[19:59:01] [c2me-worker-5/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[19:59:01] [c2me-worker-5/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[19:59:01] [c2me-worker-5/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[19:59:01] [c2me-worker-5/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[19:59:01] [c2me-worker-5/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[19:59:10] [Netty Server IO #3/INFO]: Player [Storyseek3r] disconnected.
-[19:59:10] [Server thread/INFO]: Storyseek3r lost connection: Disconnected
-[19:59:10] [Server thread/INFO]: Storyseek3r left the game
-[19:59:20] [Server thread/INFO]: Stopping server
-[19:59:20] [Server thread/INFO]: Saving players
-[19:59:20] [Server thread/INFO]: Saving worlds
-[19:59:20] [Server thread/INFO]: ServerLevel[world]/minecraft:overworld: waiting for 841 chunks to unload
-[19:59:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:59:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:59:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:59:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:59:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:59:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:59:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[19:59:21] [Server thread/INFO]: Unloading level DhServerLevel{kres65g4ec4s6@minecraft:overworld} 
-[19:59:21] [Server thread/INFO]: Closing world gen queue
-[19:59:21] [Server thread/INFO]: Closing WorldGenerationQueue...
-[19:59:21] [Server thread/INFO]: Awaiting world generator thread pool termination...
-[19:59:21] [Server thread/WARN]: World generator thread pool shutdown didn't complete after [3] seconds. Some world generator requests may still be running.
-[19:59:21] [Server thread/INFO]: BatchGenerator shutting down...
-[19:59:21] [Server thread/INFO]: BatchGenerationEnvironment shutting down...
-[19:59:21] [Server thread/INFO]: Canceling in progress generation event futures...
-[19:59:21] [Server thread/INFO]: BatchGenerationEnvironment shutdown complete.
-[19:59:21] [Server thread/INFO]: Finished closing WorldGenerationQueue
-[19:59:21] [Server thread/INFO]: Closing [GeneratedFullDataSourceProvider] for level: [DhServerLevel{kres65g4ec4s6@minecraft:overworld}].
-[19:59:21] [Server thread/INFO]: Closing [FullDataSourceProviderV1] for level: [DhServerLevel{kres65g4ec4s6@minecraft:overworld}].
-[19:59:21] [DH-Parent Update Queue [minecraft:overworld] Thread[0]/INFO]: Update thread [DH-Parent Update Queue [minecraft:overworld] Thread[0]] terminated.
-[19:59:21] [Server thread/INFO]: Closing database connection: [jdbc:dh_sqlite:.\world\data\DistantHorizons.sqlite]...
-[19:59:21] [Server thread/INFO]: Finished closing database connection: [jdbc:dh_sqlite:.\world\data\DistantHorizons.sqlite]
-[19:59:21] [Server thread/INFO]: Closed DHLevel for [Wrapped{ServerLevel[world]@minecraft:overworld}].
-[19:59:21] [Server thread/INFO]: Closing [GeneratedFullDataSourceProvider] for level: [DhServerLevel{kres65g4ec4s6@minecraft:overworld}].
-[19:59:21] [Server thread/INFO]: Closing [FullDataSourceProviderV1] for level: [DhServerLevel{kres65g4ec4s6@minecraft:overworld}].
-[19:59:21] [Server thread/INFO]: Closed DHLevel for [Wrapped{ServerLevel[world]@minecraft:overworld}].
-[19:59:21] [C2ME Storage #3/INFO]: Storage thread Thread[#113,C2ME Storage #3,8,main] stopped
-[19:59:21] [C2ME Storage #2/INFO]: Storage thread Thread[#112,C2ME Storage #2,8,main] stopped
-[19:59:21] [Server thread/INFO]: Unloading level DhServerLevel{kres65g4ec4s6@minecraft:the_nether} 
-[19:59:21] [C2ME Storage #1/INFO]: Storage thread Thread[#111,C2ME Storage #1,8,main] stopped
-[19:59:21] [Server thread/INFO]: Closing world gen queue
-[19:59:21] [Server thread/INFO]: Closing WorldGenerationQueue...
-[19:59:21] [Server thread/INFO]: Awaiting world generator thread pool termination...
-[19:59:21] [Server thread/WARN]: World generator thread pool shutdown didn't complete after [3] seconds. Some world generator requests may still be running.
-[19:59:21] [Server thread/INFO]: BatchGenerator shutting down...
-[19:59:21] [Server thread/INFO]: BatchGenerationEnvironment shutting down...
-[19:59:21] [Server thread/INFO]: Canceling in progress generation event futures...
-[19:59:21] [Server thread/INFO]: BatchGenerationEnvironment shutdown complete.
-[19:59:21] [Server thread/INFO]: Finished closing WorldGenerationQueue
-[19:59:21] [Server thread/INFO]: Closing [GeneratedFullDataSourceProvider] for level: [DhServerLevel{kres65g4ec4s6@minecraft:the_nether}].
-[19:59:21] [Server thread/INFO]: Closing [FullDataSourceProviderV1] for level: [DhServerLevel{kres65g4ec4s6@minecraft:the_nether}].
-[19:59:21] [DH-Parent Update Queue [minecraft:the_nether] Thread[0]/INFO]: Update thread [DH-Parent Update Queue [minecraft:the_nether] Thread[0]] terminated.
-[19:59:21] [Server thread/INFO]: Closing database connection: [jdbc:dh_sqlite:.\world\DIM-1\data\DistantHorizons.sqlite]...
-[19:59:21] [Server thread/INFO]: Finished closing database connection: [jdbc:dh_sqlite:.\world\DIM-1\data\DistantHorizons.sqlite]
-[19:59:21] [Server thread/INFO]: Closed DHLevel for [Wrapped{ServerLevel[world]@minecraft:the_nether}].
-[19:59:21] [Server thread/INFO]: Closing [GeneratedFullDataSourceProvider] for level: [DhServerLevel{kres65g4ec4s6@minecraft:the_nether}].
-[19:59:21] [Server thread/INFO]: Closing [FullDataSourceProviderV1] for level: [DhServerLevel{kres65g4ec4s6@minecraft:the_nether}].
-[19:59:21] [Server thread/INFO]: Closed DHLevel for [Wrapped{ServerLevel[world]@minecraft:the_nether}].
-[19:59:21] [C2ME Storage #5/INFO]: Storage thread Thread[#132,C2ME Storage #5,8,main] stopped
-[19:59:21] [C2ME Storage #4/INFO]: Storage thread Thread[#131,C2ME Storage #4,8,main] stopped
-[19:59:21] [C2ME Storage #6/INFO]: Storage thread Thread[#133,C2ME Storage #6,8,main] stopped
-[19:59:21] [Server thread/INFO]: Unloading level DhServerLevel{kres65g4ec4s6@minecraft:the_end} 
-[19:59:21] [Server thread/INFO]: Closing world gen queue
-[19:59:21] [Server thread/INFO]: Closing WorldGenerationQueue...
-[19:59:21] [Server thread/INFO]: Awaiting world generator thread pool termination...
-[19:59:21] [Server thread/WARN]: World generator thread pool shutdown didn't complete after [3] seconds. Some world generator requests may still be running.
-[19:59:21] [Server thread/INFO]: BatchGenerator shutting down...
-[19:59:21] [Server thread/INFO]: BatchGenerationEnvironment shutting down...
-[19:59:21] [Server thread/INFO]: Canceling in progress generation event futures...
-[19:59:21] [Server thread/INFO]: BatchGenerationEnvironment shutdown complete.
-[19:59:21] [Server thread/INFO]: Finished closing WorldGenerationQueue
-[19:59:22] [Server thread/INFO]: Closing [GeneratedFullDataSourceProvider] for level: [DhServerLevel{kres65g4ec4s6@minecraft:the_end}].
-[19:59:22] [Server thread/INFO]: Closing [FullDataSourceProviderV1] for level: [DhServerLevel{kres65g4ec4s6@minecraft:the_end}].
-[19:59:22] [DH-Parent Update Queue [minecraft:the_end] Thread[0]/INFO]: Update thread [DH-Parent Update Queue [minecraft:the_end] Thread[0]] terminated.
-[19:59:22] [Server thread/INFO]: Closing database connection: [jdbc:dh_sqlite:.\world\DIM1\data\DistantHorizons.sqlite]...
-[19:59:22] [Server thread/INFO]: Finished closing database connection: [jdbc:dh_sqlite:.\world\DIM1\data\DistantHorizons.sqlite]
-[19:59:22] [Server thread/INFO]: Closed DHLevel for [Wrapped{ServerLevel[world]@minecraft:the_end}].
-[19:59:22] [Server thread/INFO]: Closing [GeneratedFullDataSourceProvider] for level: [DhServerLevel{kres65g4ec4s6@minecraft:the_end}].
-[19:59:22] [Server thread/INFO]: Closing [FullDataSourceProviderV1] for level: [DhServerLevel{kres65g4ec4s6@minecraft:the_end}].
-[19:59:22] [Server thread/INFO]: Closed DHLevel for [Wrapped{ServerLevel[world]@minecraft:the_end}].
-[19:59:22] [C2ME Storage #8/INFO]: Storage thread Thread[#137,C2ME Storage #8,8,main] stopped
-[19:59:22] [C2ME Storage #9/INFO]: Storage thread Thread[#138,C2ME Storage #9,8,main] stopped
-[19:59:22] [C2ME Storage #7/INFO]: Storage thread Thread[#136,C2ME Storage #7,8,main] stopped
-[19:59:22] [Server thread/INFO]: Closed DhWorld of type [SERVER_ONLY].
-[19:59:22] [Server thread/INFO]: Closed DhWorld of type [SERVER_ONLY].
-[19:59:22] [Server thread/INFO]: Shutting down PriorityTaskPicker thread pool...
-[19:59:26] [Server thread/INFO]: Closing all [0] database connections...
+[20:01:46] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/adamh/Downloads/DaBoyz2/DaBoyz2/libraries/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[20:01:46] [main/INFO]: Compatibility level set to JAVA_17
+[20:01:46] [main/INFO]: Compatibility level set to JAVA_21
+[20:01:46] [main/INFO]: Initializing com.ishland.c2me.base.mixin
+[20:01:46] [main/INFO]: Global Executor Parallelism: 10 configured, 10 evaluated, 10 default evaluated
+[20:01:46] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
+[20:01:46] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
+[20:01:46] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
+[20:01:46] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
+[20:01:46] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
+[20:01:46] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
+[20:01:46] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
+[20:01:46] [main/INFO]: Initializing com.ishland.c2me.opts.dfc.mixin
+[20:01:46] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
+[20:01:46] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
+[20:01:46] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
+[20:01:46] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
+[20:01:46] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
+[20:01:46] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
+[20:01:46] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunksystem.mixin
+[20:01:46] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
+[20:01:46] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
+[20:01:46] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
+[20:01:46] [main/WARN]: Reference map 'cristellib-common-common-refmap.json' for cristellib-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:01:46] [main/WARN]: Reference map 'eternalnether.fabric.refmap.json' for eternalnether.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:01:46] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:01:46] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:01:46] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:01:46] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
+[20:01:46] [main/INFO]: Loaded configuration file for Lithium: 160 options available, 0 override(s) found.
+[20:01:46] [main/WARN]: Error loading class: ca/spottedleaf/starlight/common/thread/SchedulingUtil (java.lang.ClassNotFoundException: ca/spottedleaf/starlight/common/thread/SchedulingUtil)
+[20:01:47] [main/WARN]: Error loading class: net/minecraft/class_938 (java.lang.ClassNotFoundException: net/minecraft/class_938)
+[20:01:47] [main/WARN]: @Mixin target net.minecraft.class_938 was not found journeymap.mixins.json:client.SalmonRendererInvoker from mod journeymap
+[20:01:47] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[20:01:47] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[20:02:05] [main/INFO]: Enabled 58 bug fixes: [MC-2025, MC-7569, MC-8187, MC-30391, MC-69216, MC-82263, MC-84661, MC-88371, MC-89146, MC-93018, MC-94054, MC-100991, MC-119417, MC-119754, MC-121706, MC-121903, MC-123450, MC-123605, MC-129909, MC-132878, MC-134110, MC-136249, MC-139041, MC-147659, MC-147784, MC-155509, MC-159283, MC-160095, MC-168573, MC-170462, MC-176806, MC-177831, MC-179072, MC-183990, MC-187100, MC-199467, MC-200418, MC-201374, MC-202637, MC-206922, MC-215530, MC-219981, MC-221257, MC-223153, MC-224729, MC-226961, MC-227008, MC-227337, MC-231743, MC-232869, MC-245394, MC-267125, MC-268617, MC-271899, MC-272431, MC-297837, MC-298066, MC-299115]
+[20:02:05] [main/INFO]: Successfully Debugify'd your game!
+[20:02:05] [main/INFO]: Constructing components for eternalnether:common
+[20:02:06] [Cicada thread 0/INFO]: [cicada] I used the JSON to destroy the JSON.
+[20:02:07] [main/INFO]: Registered synced config with path sereneseasons/fertility.toml
+[20:02:07] [main/INFO]: Registered synced config with path sereneseasons/seasons.toml
+[20:02:07] [main/INFO]: Registered synced config with path toughasnails/thirst.toml
+[20:02:07] [main/INFO]: Registered synced config with path toughasnails/temperature.toml
+[20:02:07] [main/INFO]: Serene Seasons detected. Enabling season modifier.
+[20:02:08] [main/INFO]: Initializing ServerSide Packet Registries
+[20:02:08] [main/INFO]: Constructing components for puzzleslib:common
+[20:02:08] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[20:02:08] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[20:02:08] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[20:02:08] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[20:02:08] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[20:02:08] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[20:02:08] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[20:02:09] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[20:02:09] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[20:02:09] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[20:02:09] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
+[20:02:09] [main/INFO]: Registered the FluidEffect with Unique ID of toughasnails:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 4
+[20:02:09] [main/INFO]: Registered the FluidEffect with Unique ID of toughasnails:water_canteen for Water (Fluid Amount Required: 200) with the ID 5
+[20:02:09] [main/INFO]: Registered the FluidEffect with Unique ID of toughasnails:water for Water (Fluid Amount Required: 81000) with the ID 6
+[20:02:09] [main/INFO]: Initializing Distant Horizons server, firing DhApiBeforeDhInitEvent event...
+[20:02:09] [main/INFO]: Distant Horizons, Version: 2.3.4-b
+[20:02:09] [main/INFO]: Registering Fabric Server Events
+[20:02:09] [main/INFO]: Distant Horizons server Initialized, adding event subscribers...
+[20:02:10] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:02:16] [main/INFO]: Loaded 1943 recipes
+[20:02:16] [main/INFO]: Loaded 2053 advancements
+[20:02:18] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[20:02:18] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[20:02:18] [main/INFO]: Applied 1 biome modifications to 1 of 136 new biomes in 24.43 ms
+[20:02:19] [Server thread/INFO]: Initialising config for DistantHorizons
+[20:02:19] [Server thread/INFO]: Config for DistantHorizons initialised
+[20:02:19] [Server thread/INFO]: Running Delayed setup...
+[20:02:19] [Server thread/INFO]: Delayed setup complete, firing DhApiAfterDhInitEvent event...
+[20:02:19] [Server thread/INFO]: Checking for Distant Horizons update
+[20:02:20] [Server thread/INFO]: Distant Horizons already up to date.
+[20:02:20] [Server thread/INFO]: Distant Horizons server Initialized at 
+[20:02:20] [Server thread/INFO]: Started [DhServerWorld] of type [SERVER_ONLY].
+[20:02:20] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[20:02:20] [Server thread/INFO]: Loading properties
+[20:02:20] [Server thread/INFO]: Default game type: SURVIVAL
+[20:02:20] [Server thread/INFO]: Generating keypair
+[20:02:20] [Server thread/INFO]: Starting Minecraft server on 100.121.112.67:25565
+[20:02:21] [Server thread/INFO]: Using default channel type
+[20:02:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:02:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:02:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:02:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:02:21] [Server thread/INFO]: Preparing level "world"
+[20:02:21] [Server thread/INFO]: Enforcing safe world random access
+[20:02:22] [DH-ApplyConfigPresetTimer/INFO]: changing preset to: BALANCED
+[20:02:22] [DH-ApplyConfigPresetTimer/INFO]: changing preset to: MEDIUM
+[20:02:22] [DH-ApplyConfigPresetTimer/INFO]: preset active: BALANCED
+[20:02:22] [DH-ApplyConfigPresetTimer/INFO]: preset active: MEDIUM
+[20:02:24] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 1.988 s
+[20:02:24] [Server thread/INFO]: Using TheSpeedyObjectFactory with Unsafe
+[20:02:25] [DH-Full Data Migration Thread[0]/INFO]: Attempting to migrate data sources for: [minecraft:overworld]-[.\world\data]...
+[20:02:25] [DH-Full Data Migration Thread[0]/INFO]: Found [0] data sources that need migration.
+[20:02:25] [Server thread/INFO]: Started DhServerLevel for [Wrapped{ServerLevel[world]@minecraft:overworld}] at [[LocalSaveStructure@(.\world\data)]].
+[20:02:25] [DH-Full Data Migration Thread[0]/INFO]: No migration necessary.
+[20:02:26] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 754.6 ms
+[20:02:26] [Server thread/INFO]: Started DhServerLevel for [Wrapped{ServerLevel[world]@minecraft:the_end}] at [[LocalSaveStructure@(.\world\data;.\world\DIM1\data)]].
+[20:02:26] [DH-Full Data Migration Thread[0]/INFO]: Attempting to migrate data sources for: [minecraft:the_end]-[.\world\DIM1\data]...
+[20:02:26] [DH-Full Data Migration Thread[0]/INFO]: Found [0] data sources that need migration.
+[20:02:26] [DH-Full Data Migration Thread[0]/INFO]: No migration necessary.
+[20:02:26] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 14.08 ms
+[20:02:26] [DH-Full Data Migration Thread[0]/INFO]: Attempting to migrate data sources for: [minecraft:the_nether]-[.\world\DIM-1\data]...
+[20:02:26] [DH-Full Data Migration Thread[0]/INFO]: Found [0] data sources that need migration.
+[20:02:26] [DH-Full Data Migration Thread[0]/INFO]: No migration necessary.
+[20:02:26] [Server thread/INFO]: Started DhServerLevel for [Wrapped{ServerLevel[world]@minecraft:the_nether}] at [[LocalSaveStructure@(.\world\data;.\world\DIM1\data;.\world\DIM-1\data)]].
+[20:02:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:02:30] [c2me-worker-3/INFO]: Preparing spawn area: 0%
+[20:02:30] [c2me-worker-3/INFO]: Preparing spawn area: 0%
+[20:02:30] [c2me-worker-3/INFO]: Preparing spawn area: 0%
+[20:02:30] [c2me-worker-3/INFO]: Preparing spawn area: 0%
+[20:02:30] [c2me-worker-3/INFO]: Preparing spawn area: 0%
+[20:02:30] [c2me-worker-3/INFO]: Preparing spawn area: 0%
+[20:02:30] [c2me-worker-3/INFO]: Preparing spawn area: 0%
+[20:02:30] [c2me-worker-0/INFO]: Preparing spawn area: 0%
+[20:02:30] [Server thread/INFO]: Preparing spawn area: 2%
+[20:02:31] [c2me-worker-9/INFO]: Preparing spawn area: 24%
+[20:02:31] [Server thread/INFO]: Time elapsed: 5015 ms
+[20:02:31] [Server thread/INFO]: Done (10.201s)! For help, type "help"
+[20:02:31] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
+[20:02:31] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@1c6e137e for service interface journeymap.api.services.ClientPlatformService
+[20:02:31] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@663d8eda for service interface journeymap.api.services.CommonPlatformService
+[20:02:32] [Server thread/INFO]: DH TerraFirmaCraft detection: false
+[20:02:32] [Server thread/INFO]: ================WORLD_GEN_STEP_INITING=============
+[20:02:32] [Server thread/INFO]: C2ME detected: DH's pre-existing chunk accessing will use methods handled by C2ME.
+[20:02:32] [Server thread/INFO]: Batch Chunk Generator initialized
+[20:02:32] [Server thread/INFO]: Creating world gen queue
+[20:02:32] [Server thread/INFO]: Created world gen queue
+[20:02:32] [Server thread/INFO]: Set world gen queue for level [minecraft:overworld].
+[20:02:32] [Server thread/INFO]: ================WORLD_GEN_STEP_INITING=============
+[20:02:32] [Server thread/INFO]: C2ME detected: DH's pre-existing chunk accessing will use methods handled by C2ME.
+[20:02:32] [Server thread/INFO]: Batch Chunk Generator initialized
+[20:02:32] [Server thread/INFO]: Creating world gen queue
+[20:02:32] [Server thread/INFO]: Created world gen queue
+[20:02:32] [Server thread/INFO]: Set world gen queue for level [minecraft:the_end].
+[20:02:32] [Server thread/INFO]: ================WORLD_GEN_STEP_INITING=============
+[20:02:32] [Server thread/INFO]: C2ME detected: DH's pre-existing chunk accessing will use methods handled by C2ME.
+[20:02:32] [Server thread/INFO]: Batch Chunk Generator initialized
+[20:02:32] [Server thread/INFO]: Creating world gen queue
+[20:02:32] [Server thread/INFO]: Created world gen queue
+[20:02:32] [Server thread/INFO]: Set world gen queue for level [minecraft:the_nether].
+[20:02:56] [Server thread/INFO]: Storyseek3r[/100.121.112.67:8697] logged in with entity id 66 at (-73.10709538932744, 176.0625, -52.217714664229106)
+[20:02:56] [Server thread/INFO]: Loading config from file...
+[20:02:56] [Server thread/INFO]: Player [Storyseek3r] joined.
+[20:02:56] [Server thread/INFO]: Storyseek3r joined the game
+[20:02:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2141ms or 42 ticks behind
+[20:03:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3367ms or 67 ticks behind
+[20:04:58] [Netty Server IO #3/INFO]: Player [Storyseek3r] disconnected.
+[20:04:58] [Server thread/INFO]: Storyseek3r lost connection: Disconnected
+[20:04:58] [Server thread/INFO]: Storyseek3r left the game
+[20:05:08] [Server thread/INFO]: Stopping server
+[20:05:08] [Server thread/INFO]: Saving players
+[20:05:08] [Server thread/INFO]: Saving worlds
+[20:05:08] [Server thread/INFO]: ServerLevel[world]/minecraft:overworld: waiting for 841 chunks to unload
+[20:05:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:05:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:05:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:05:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:05:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:05:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:05:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:05:09] [Server thread/INFO]: Unloading level DhServerLevel{kres65g4ec4s6@minecraft:overworld} 
+[20:05:09] [Server thread/INFO]: Closing world gen queue
+[20:05:09] [Server thread/INFO]: Closing WorldGenerationQueue...
+[20:05:09] [Server thread/INFO]: Awaiting world generator thread pool termination...
+[20:05:09] [Server thread/WARN]: World generator thread pool shutdown didn't complete after [3] seconds. Some world generator requests may still be running.
+[20:05:09] [Server thread/INFO]: BatchGenerator shutting down...
+[20:05:09] [Server thread/INFO]: BatchGenerationEnvironment shutting down...
+[20:05:09] [Server thread/INFO]: Canceling in progress generation event futures...
+[20:05:09] [Server thread/INFO]: BatchGenerationEnvironment shutdown complete.
+[20:05:09] [Server thread/INFO]: Finished closing WorldGenerationQueue
+[20:05:09] [Server thread/INFO]: Closing [GeneratedFullDataSourceProvider] for level: [DhServerLevel{kres65g4ec4s6@minecraft:overworld}].
+[20:05:09] [Server thread/INFO]: Closing [FullDataSourceProviderV1] for level: [DhServerLevel{kres65g4ec4s6@minecraft:overworld}].
+[20:05:09] [DH-Parent Update Queue [minecraft:overworld] Thread[0]/INFO]: Update thread [DH-Parent Update Queue [minecraft:overworld] Thread[0]] terminated.
+[20:05:09] [Server thread/INFO]: Closing database connection: [jdbc:dh_sqlite:.\world\data\DistantHorizons.sqlite]...
+[20:05:09] [Server thread/INFO]: Finished closing database connection: [jdbc:dh_sqlite:.\world\data\DistantHorizons.sqlite]
+[20:05:09] [Server thread/INFO]: Closed DHLevel for [Wrapped{ServerLevel[world]@minecraft:overworld}].
+[20:05:09] [Server thread/INFO]: Closing [GeneratedFullDataSourceProvider] for level: [DhServerLevel{kres65g4ec4s6@minecraft:overworld}].
+[20:05:09] [Server thread/INFO]: Closing [FullDataSourceProviderV1] for level: [DhServerLevel{kres65g4ec4s6@minecraft:overworld}].
+[20:05:09] [Server thread/INFO]: Closed DHLevel for [Wrapped{ServerLevel[world]@minecraft:overworld}].
+[20:05:09] [C2ME Storage #3/INFO]: Storage thread Thread[#113,C2ME Storage #3,8,main] stopped
+[20:05:09] [C2ME Storage #2/INFO]: Storage thread Thread[#112,C2ME Storage #2,8,main] stopped
+[20:05:09] [Server thread/INFO]: Unloading level DhServerLevel{kres65g4ec4s6@minecraft:the_end} 
+[20:05:09] [C2ME Storage #1/INFO]: Storage thread Thread[#111,C2ME Storage #1,8,main] stopped
+[20:05:09] [Server thread/INFO]: Closing world gen queue
+[20:05:09] [Server thread/INFO]: Closing WorldGenerationQueue...
+[20:05:09] [Server thread/INFO]: Awaiting world generator thread pool termination...
+[20:05:09] [Server thread/WARN]: World generator thread pool shutdown didn't complete after [3] seconds. Some world generator requests may still be running.
+[20:05:09] [Server thread/INFO]: BatchGenerator shutting down...
+[20:05:09] [Server thread/INFO]: BatchGenerationEnvironment shutting down...
+[20:05:09] [Server thread/INFO]: Canceling in progress generation event futures...
+[20:05:09] [Server thread/INFO]: BatchGenerationEnvironment shutdown complete.
+[20:05:09] [Server thread/INFO]: Finished closing WorldGenerationQueue
+[20:05:09] [Server thread/INFO]: Closing [GeneratedFullDataSourceProvider] for level: [DhServerLevel{kres65g4ec4s6@minecraft:the_end}].
+[20:05:09] [Server thread/INFO]: Closing [FullDataSourceProviderV1] for level: [DhServerLevel{kres65g4ec4s6@minecraft:the_end}].
+[20:05:09] [DH-Parent Update Queue [minecraft:the_end] Thread[0]/INFO]: Update thread [DH-Parent Update Queue [minecraft:the_end] Thread[0]] terminated.
+[20:05:09] [Server thread/INFO]: Closing database connection: [jdbc:dh_sqlite:.\world\DIM1\data\DistantHorizons.sqlite]...
+[20:05:09] [Server thread/INFO]: Finished closing database connection: [jdbc:dh_sqlite:.\world\DIM1\data\DistantHorizons.sqlite]
+[20:05:09] [Server thread/INFO]: Closed DHLevel for [Wrapped{ServerLevel[world]@minecraft:the_end}].
+[20:05:10] [Server thread/INFO]: Closing [GeneratedFullDataSourceProvider] for level: [DhServerLevel{kres65g4ec4s6@minecraft:the_end}].
+[20:05:10] [Server thread/INFO]: Closing [FullDataSourceProviderV1] for level: [DhServerLevel{kres65g4ec4s6@minecraft:the_end}].
+[20:05:10] [Server thread/INFO]: Closed DHLevel for [Wrapped{ServerLevel[world]@minecraft:the_end}].
+[20:05:10] [C2ME Storage #6/INFO]: Storage thread Thread[#129,C2ME Storage #6,8,main] stopped
+[20:05:10] [C2ME Storage #5/INFO]: Storage thread Thread[#128,C2ME Storage #5,8,main] stopped
+[20:05:10] [Server thread/INFO]: Unloading level DhServerLevel{kres65g4ec4s6@minecraft:the_nether} 
+[20:05:10] [C2ME Storage #4/INFO]: Storage thread Thread[#127,C2ME Storage #4,8,main] stopped
+[20:05:10] [Server thread/INFO]: Closing world gen queue
+[20:05:10] [Server thread/INFO]: Closing WorldGenerationQueue...
+[20:05:10] [Server thread/INFO]: Awaiting world generator thread pool termination...
+[20:05:10] [Server thread/WARN]: World generator thread pool shutdown didn't complete after [3] seconds. Some world generator requests may still be running.
+[20:05:10] [Server thread/INFO]: BatchGenerator shutting down...
+[20:05:10] [Server thread/INFO]: BatchGenerationEnvironment shutting down...
+[20:05:10] [Server thread/INFO]: Canceling in progress generation event futures...
+[20:05:10] [Server thread/INFO]: BatchGenerationEnvironment shutdown complete.
+[20:05:10] [Server thread/INFO]: Finished closing WorldGenerationQueue
+[20:05:10] [Server thread/INFO]: Closing [GeneratedFullDataSourceProvider] for level: [DhServerLevel{kres65g4ec4s6@minecraft:the_nether}].
+[20:05:10] [Server thread/INFO]: Closing [FullDataSourceProviderV1] for level: [DhServerLevel{kres65g4ec4s6@minecraft:the_nether}].
+[20:05:10] [DH-Parent Update Queue [minecraft:the_nether] Thread[0]/INFO]: Update thread [DH-Parent Update Queue [minecraft:the_nether] Thread[0]] terminated.
+[20:05:10] [Server thread/INFO]: Closing database connection: [jdbc:dh_sqlite:.\world\DIM-1\data\DistantHorizons.sqlite]...
+[20:05:10] [Server thread/INFO]: Finished closing database connection: [jdbc:dh_sqlite:.\world\DIM-1\data\DistantHorizons.sqlite]
+[20:05:10] [Server thread/INFO]: Closed DHLevel for [Wrapped{ServerLevel[world]@minecraft:the_nether}].
+[20:05:10] [Server thread/INFO]: Closing [GeneratedFullDataSourceProvider] for level: [DhServerLevel{kres65g4ec4s6@minecraft:the_nether}].
+[20:05:10] [Server thread/INFO]: Closing [FullDataSourceProviderV1] for level: [DhServerLevel{kres65g4ec4s6@minecraft:the_nether}].
+[20:05:10] [Server thread/INFO]: Closed DHLevel for [Wrapped{ServerLevel[world]@minecraft:the_nether}].
+[20:05:10] [C2ME Storage #9/INFO]: Storage thread Thread[#133,C2ME Storage #9,8,main] stopped
+[20:05:10] [C2ME Storage #8/INFO]: Storage thread Thread[#132,C2ME Storage #8,8,main] stopped
+[20:05:10] [C2ME Storage #7/INFO]: Storage thread Thread[#131,C2ME Storage #7,8,main] stopped
+[20:05:10] [Server thread/INFO]: Closed DhWorld of type [SERVER_ONLY].
+[20:05:10] [Server thread/INFO]: Closed DhWorld of type [SERVER_ONLY].
+[20:05:10] [Server thread/INFO]: Shutting down PriorityTaskPicker thread pool...
+[20:05:12] [Server thread/INFO]: Closing all [0] database connections...
