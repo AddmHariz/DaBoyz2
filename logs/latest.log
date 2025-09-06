@@ -1,19 +1,164 @@
-[21:26:51] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.17.2
-[21:26:52] [main/WARN]: Mod resolution failed
-[21:26:52] [main/INFO]: Immediate reason: [HARD_DEP_NO_CANDIDATE treeharvester 9.2 {depends collective @ [>=8.4]}, ROOT_FORCELOAD_SINGLE treeharvester 9.2]
-[21:26:52] [main/INFO]: Reason: [HARD_DEP treeharvester 9.2 {depends collective @ [>=8.4]}, HARD_DEP c2me-opts-natives-math 0.3.4.0.0+1.21.8 {depends java @ [>=22]}]
-[21:26:52] [main/INFO]: SERVER environment disabled: [fabric-model-loading-api-v1, fabric-renderer-api-v1, c2me-client-uncapvd, entity_model_features, waterdripsound, capes, entity_texture_features, lambdynlights, iris, bettermounthud, continuity, shouldersurfing, fabric-screen-api-v1, customskinloader, fabric-renderer-indigo, dynamic_fps, sodium, fabric-sound-api-v1, fabric-rendering-v1, fabric-key-binding-api-v1]
-[21:26:52] [main/INFO]: Fix: add [add:collective 8.4 ([[8.4,∞)])], remove [], replace []
-[21:26:52] [main/ERROR]: Incompatible mods found!
-net.fabricmc.loader.impl.FormattedException: Some of your mods are incompatible with the game or each other!
-A potential solution has been determined, this may resolve your problem:
-	 - Install collective, version 8.4 or later.
-More details:
-	 - Mod 'Tree Harvester' (treeharvester) 9.2 requires version 8.4 or later of collective, which is missing!
-	 - Mod 'Concurrent Chunk Management Engine (Optimizations/Natives Math)' (c2me-opts-natives-math) 0.3.4.0.0+1.21.8 requires version 22 or later of 'Java HotSpot(TM) 64-Bit Server VM' (java), but only the wrong version is present: 21!
-	at net.fabricmc.loader.impl.FormattedException.ofLocalized(FormattedException.java:51) ~[fabric-loader-0.17.2.jar:?]
-	at net.fabricmc.loader.impl.FabricLoaderImpl.load(FabricLoaderImpl.java:202) ~[fabric-loader-0.17.2.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.Knot.init(Knot.java:142) ~[fabric-loader-0.17.2.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:66) [fabric-loader-0.17.2.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.17.2.jar:?]
-	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.17.2.jar:?]
+[00:00:18] [Server thread/WARN]: Player umaaaaaq just tried to change non-editable sign
+[00:01:55] [Server thread/INFO]: Afaz07 has made the advancement [Best Friends Forever]
+[00:02:06] [Server thread/INFO]: [Afaz07: Gave 1 [Saddle] to Afaz07]
+[00:03:08] [Server thread/INFO]: Afaz07 lost connection: Disconnected
+[00:03:08] [Server thread/INFO]: Afaz07 left the game
+[00:03:12] [Server thread/INFO]: Afaz07[/100.99.48.98:47243] logged in with entity id 105605 at (406.46593258888095, 72.0625, -1602.9633274500225)
+[00:03:12] [Server thread/INFO]: Loading config from file...
+[00:03:12] [Server thread/INFO]: Afaz07 joined the game
+[00:06:01] [Server thread/INFO]: Afaz07 has made the advancement [Cover Me with Diamonds]
+[00:06:46] [Server thread/INFO]: [Afaz07: Gave 1 [Diamond] to Afaz07]
+[00:12:45] [Server thread/WARN]: Player umaaaaaq just tried to change non-editable sign
+[00:12:46] [Server thread/WARN]: Player umaaaaaq just tried to change non-editable sign
+[00:12:46] [Server thread/WARN]: Player umaaaaaq just tried to change non-editable sign
+[00:12:46] [Server thread/WARN]: Player umaaaaaq just tried to change non-editable sign
+[00:12:50] [Server thread/WARN]: Player umaaaaaq just tried to change non-editable sign
+[00:13:45] [Server thread/INFO]: [Afaz07: Set season to Mid Summer]
+[00:14:05] [Server thread/INFO]: ViceIsTrash lost connection: Disconnected
+[00:14:05] [Server thread/INFO]: ViceIsTrash left the game
+[00:14:15] [Server thread/INFO]: ViceIsTrash[/100.90.148.25:8795] logged in with entity id 114067 at (-4.5, 72.0, -1617.5)
+[00:14:15] [Server thread/INFO]: Loading config from file...
+[00:14:15] [Server thread/INFO]: ViceIsTrash joined the game
+[00:18:28] [Server thread/INFO]: OumaKazuya lost connection: Disconnected
+[00:18:28] [Server thread/INFO]: OumaKazuya left the game
+[00:18:35] [Server thread/INFO]: OumaKazuya[/100.75.132.49:62246] logged in with entity id 117493 at (332.29406325491414, 82.5, -1733.0790151487693)
+[00:18:35] [Server thread/INFO]: Loading config from file...
+[00:18:35] [Server thread/INFO]: OumaKazuya joined the game
+[00:22:36] [Server thread/INFO]: [Afaz07: Set season to Late Summer]
+[00:24:40] [Server thread/INFO]: Afaz07 lost connection: Disconnected
+[00:24:40] [Server thread/INFO]: Afaz07 left the game
+[00:24:46] [Server thread/INFO]: Afaz07[/100.99.48.98:48211] logged in with entity id 122379 at (350.96430839518456, 63.0, -1553.5537373522309)
+[00:24:46] [Server thread/INFO]: Loading config from file...
+[00:24:46] [Server thread/INFO]: Afaz07 joined the game
+[00:26:16] [Server thread/INFO]: Villager class_1646['Fisherman'/112163, l='ServerLevel[world]', x=333.47, y=73.00, z=-1790.62] died, message: 'Fisherman was slain by Zombie'
+[00:26:23] [Server thread/INFO]: Villager class_1646['Toolsmith'/112267, l='ServerLevel[world]', x=336.51, y=74.00, z=-1790.70] died, message: 'Toolsmith was slain by Zombie'
+[00:26:48] [Server thread/INFO]: [Afaz07: Accessing backpack of Afaz07]
+[00:27:36] [Server thread/INFO]: ViceIsTrash lost connection: Disconnected
+[00:27:36] [Server thread/INFO]: ViceIsTrash left the game
+[00:27:48] [Server thread/INFO]: ViceIsTrash[/100.90.148.25:12111] logged in with entity id 124517 at (-13.935874378472503, 71.0, -1508.4405165301196)
+[00:27:48] [Server thread/INFO]: Loading config from file...
+[00:27:48] [Server thread/INFO]: ViceIsTrash joined the game
+[00:29:38] [Server thread/INFO]: OumaKazuya has made the advancement [Hot Stuff]
+[00:30:18] [Server thread/INFO]: [Not Secure] <Afaz07> would it be alright if i were to use your bridge
+[00:30:20] [Server thread/INFO]: [Not Secure] <Afaz07> no tax
+[00:30:34] [Server thread/INFO]: [Not Secure] <Afaz07> idk if my mic is broken or i got ignored
+[00:34:30] [Server thread/INFO]: [Not Secure] <ViceIsTrash> Young knights who seek to shatter my golden age. Stand proud! For you have the privilage of falling before me and becoming yet another page in the tale of my supremacy
+[00:35:18] [Server thread/INFO]: [Not Secure] <ViceIsTrash> For I am the Overlord of Century's End
+[00:35:35] [Server thread/INFO]: [Not Secure] <ViceIsTrash> Nigga im black
+[00:35:50] [Server thread/INFO]: [Not Secure] <ViceIsTrash> No black people can write
+[00:36:08] [Server thread/INFO]: [Not Secure] <ViceIsTrash> Freedom is an illusion to peasants
+[00:37:05] [Server thread/INFO]: [Not Secure] <ViceIsTrash> Haa-ha-ha-ha! I am the strongest and most beautiful of them all, the 'Supreme King', Arryn! Now, let the legend begin!
+[00:38:14] [Server thread/INFO]: [Not Secure] <Afaz07> Es liegt der Winter, der kalte,
+[00:38:21] [Server thread/INFO]: [Not Secure] <Afaz07> In deinem Herzchen klein.
+[00:38:29] [Server thread/INFO]: [Not Secure] <Afaz07> Der Winter wird auf den Wangen,
+[00:38:37] [Server thread/INFO]: [Not Secure] <Afaz07> Der Sommer im Herzen sein.
+[00:38:38] [Server thread/INFO]: Afaz07 lost connection: Disconnected
+[00:38:38] [Server thread/INFO]: Afaz07 left the game
+[00:38:44] [Server thread/INFO]: [Not Secure] <ViceIsTrash> i love ntr
+[00:38:51] [Server thread/INFO]: [Not Secure] <ViceIsTrash> NARITA TOP ROAD
+[00:39:01] [Server thread/INFO]: [Not Secure] <umaaaaaq> WWWWWWWWWW
+[00:39:02] [Server thread/INFO]: [Not Secure] <ViceIsTrash> umaaaaaq nugga
+[00:39:07] [Server thread/INFO]: Afaz07[/100.99.48.98:48815] logged in with entity id 132526 at (-17.254890933657684, 71.84375002384186, -1436.6129653166793)
+[00:39:07] [Server thread/INFO]: Loading config from file...
+[00:39:07] [Server thread/INFO]: Afaz07 joined the game
+[00:41:22] [Server thread/INFO]: [Not Secure] <ViceIsTrash> Tachyon, let us ride into the unknow
+[00:41:28] [Server thread/INFO]: [Not Secure] <ViceIsTrash> shit typo
+[00:44:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[00:45:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4380ms or 87 ticks behind
+[00:45:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4729ms or 94 ticks behind
+[00:50:34] [Server thread/INFO]: ViceIsTrash lost connection: Disconnected
+[00:50:34] [Server thread/INFO]: ViceIsTrash left the game
+[00:50:44] [Server thread/INFO]: [Not Secure] <Afaz07> Für Kaiser, Gott und Vaterland
+[00:50:46] [Server thread/INFO]: [Not Secure] <Afaz07> Hurra
+[00:50:53] [Server thread/INFO]: OumaKazuya lost connection: Disconnected
+[00:50:53] [Server thread/INFO]: OumaKazuya left the game
+[00:51:02] [Server thread/INFO]: OumaKazuya[/100.75.132.49:54190] logged in with entity id 145009 at (332.47043427744325, 79.525, -1741.9914220406756)
+[00:51:02] [Server thread/INFO]: Loading config from file...
+[00:51:02] [Server thread/INFO]: OumaKazuya joined the game
+[00:53:51] [Server thread/INFO]: Storyseek3r has made the advancement [Voluntary Exile]
+[00:56:28] [Server thread/INFO]: Villager class_1646['Villager'/139111, l='ServerLevel[world]', x=139.30, y=63.00, z=-1726.52] died, message: 'Villager was slain by OumaKazuya'
+[01:02:10] [Server thread/INFO]: [Afaz07: Gave 2 [Gray Bed] to Afaz07]
+[01:02:33] [Server thread/INFO]: [Afaz07: Gave 2 [Light Gray Bed] to Afaz07]
+[01:02:41] [Server thread/INFO]: OumaKazuya has made the advancement [A Seedy Place]
+[01:03:21] [Server thread/INFO]: [Not Secure] <umaaaaaq> wwwwwwwwww
+[01:03:57] [Server thread/INFO]: [Afaz07: Summoned new Villager]
+[01:03:59] [Server thread/INFO]: Afaz07 lost connection: Disconnected
+[01:03:59] [Server thread/INFO]: Afaz07 left the game
+[01:04:03] [Server thread/INFO]: Afaz07[/100.99.48.98:50147] logged in with entity id 153381 at (516.7203646739289, 67.0, -1675.3148790738944)
+[01:04:03] [Server thread/INFO]: Loading config from file...
+[01:04:03] [Server thread/INFO]: Afaz07 joined the game
+[01:04:05] [Server thread/INFO]: Afaz07 lost connection: Disconnected
+[01:04:05] [Server thread/INFO]: Afaz07 left the game
+[01:04:07] [Server thread/INFO]: Afaz07[/100.99.48.98:50164] logged in with entity id 153721 at (516.7203646739289, 67.0, -1675.3148790738944)
+[01:04:07] [Server thread/INFO]: Loading config from file...
+[01:04:07] [Server thread/INFO]: Afaz07 joined the game
+[01:04:08] [Server thread/INFO]: Afaz07 lost connection: Disconnected
+[01:04:08] [Server thread/INFO]: Afaz07 left the game
+[01:04:10] [Server thread/INFO]: Afaz07[/100.99.48.98:50173] logged in with entity id 154033 at (516.7203646739289, 67.0, -1675.3148790738944)
+[01:04:10] [Server thread/INFO]: Loading config from file...
+[01:04:10] [Server thread/INFO]: Afaz07 joined the game
+[01:13:04] [Server thread/INFO]: [Afaz07: Set season to Early Autumn]
+[01:13:29] [Server thread/INFO]: Afaz07 lost connection: Disconnected
+[01:13:29] [Server thread/INFO]: Afaz07 left the game
+[01:13:33] [Server thread/INFO]: Afaz07[/100.99.48.98:50581] logged in with entity id 160103 at (349.7481156926282, 66.0, -1589.9420110782519)
+[01:13:33] [Server thread/INFO]: Loading config from file...
+[01:13:33] [Server thread/INFO]: Afaz07 joined the game
+[01:14:44] [Server thread/INFO]: [Not Secure] <Afaz07> wer nöd schlaf jetzt?
+[01:15:07] [Server thread/INFO]: [Not Secure] <Afaz07> du bist ein dumkopf umaq
+[01:15:42] [Server thread/INFO]: [Not Secure] <Afaz07> kamek sik cikuk kitak 'maq
+[01:16:01] [Server thread/INFO]: [Not Secure] <Afaz07> buto hang
+[01:17:01] [Server thread/INFO]: [Not Secure] <Afaz07> tok bahas sik nyaman tok
+[01:18:21] [Server thread/INFO]: [Not Secure] <Afaz07> bo'lle of wat'er
+[01:18:58] [Server thread/INFO]: [Not Secure] <Afaz07> ich chann schwiizdüütsch
+[01:19:40] [Server thread/INFO]: [Not Secure] <Afaz07> aok aok aok
+[01:26:26] [Server thread/INFO]: Afaz07 lost connection: Disconnected
+[01:26:26] [Server thread/INFO]: Afaz07 left the game
+[01:26:29] [Server thread/INFO]: Afaz07[/100.99.48.98:51234] logged in with entity id 169061 at (352.74632807284644, 71.0, -1647.4595884725582)
+[01:26:29] [Server thread/INFO]: Loading config from file...
+[01:26:29] [Server thread/INFO]: Afaz07 joined the game
+[01:26:41] [Server thread/INFO]: umaaaaaq lost connection: Disconnected
+[01:26:41] [Server thread/INFO]: umaaaaaq left the game
+[01:26:56] [Server thread/INFO]: umaaaaaq[/100.124.143.21:61960] logged in with entity id 169457 at (-221.6337197767436, 94.0, -1608.3016705652697)
+[01:26:56] [Server thread/INFO]: Loading config from file...
+[01:26:56] [Server thread/INFO]: umaaaaaq joined the game
+[01:26:57] [Server thread/INFO]: [Not Secure] <Afaz07> schlafzeit
+[01:27:03] [Server thread/INFO]: umaaaaaq lost connection: Disconnected
+[01:27:03] [Server thread/INFO]: umaaaaaq left the game
+[01:27:12] [Server thread/INFO]: [Not Secure] <Afaz07> bitte
+[01:27:19] [Server thread/INFO]: OumaKazuya lost connection: Disconnected
+[01:27:19] [Server thread/INFO]: OumaKazuya left the game
+[01:27:21] [Server thread/INFO]: umaaaaaq[/100.124.143.21:62000] logged in with entity id 169702 at (-221.6337197767436, 94.0, -1608.3016705652697)
+[01:27:21] [Server thread/INFO]: Loading config from file...
+[01:27:21] [Server thread/INFO]: umaaaaaq joined the game
+[01:28:37] [Server thread/INFO]: [Not Secure] <Afaz07> نم نم نم
+[01:28:59] [Server thread/INFO]: umaaaaaq has made the advancement [Take Aim]
+[01:30:45] [Server thread/INFO]: [Not Secure] <Afaz07> hä?
+[01:34:47] [Server thread/INFO]: [Afaz07: Generated structure "mvs:well/wells/spruce_well" at 357, 71, -1651]
+[01:35:07] [Server thread/INFO]: [Afaz07: Generated structure "mvs:well/wells/spruce_well" at 398, 70, -1642]
+[01:37:53] [Server thread/INFO]: umaaaaaq lost connection: Disconnected
+[01:37:53] [Server thread/INFO]: umaaaaaq left the game
+[01:38:51] [Server thread/INFO]: Afaz07 lost connection: Disconnected
+[01:38:51] [Server thread/INFO]: Afaz07 left the game
+[01:38:53] [Server thread/INFO]: Storyseek3r lost connection: Disconnected
+[01:38:53] [Server thread/INFO]: Storyseek3r left the game
+[01:39:05] [Server thread/INFO]: Stopping server
+[01:39:05] [Server thread/INFO]: Saving players
+[01:39:05] [Server thread/INFO]: Saving worlds
+[01:39:05] [Server thread/INFO]: ServerLevel[world]/minecraft:overworld: waiting for 657 chunks to unload
+[01:39:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:39:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:39:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:39:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:39:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:39:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:39:06] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:39:06] [C2ME Storage #3/INFO]: Storage thread Thread[#110,C2ME Storage #3,8,main] stopped
+[01:39:06] [C2ME Storage #2/INFO]: Storage thread Thread[#109,C2ME Storage #2,8,main] stopped
+[01:39:06] [C2ME Storage #1/INFO]: Storage thread Thread[#108,C2ME Storage #1,8,main] stopped
+[01:39:06] [C2ME Storage #6/INFO]: Storage thread Thread[#122,C2ME Storage #6,8,main] stopped
+[01:39:06] [C2ME Storage #5/INFO]: Storage thread Thread[#121,C2ME Storage #5,8,main] stopped
+[01:39:06] [C2ME Storage #4/INFO]: Storage thread Thread[#120,C2ME Storage #4,8,main] stopped
+[01:39:06] [C2ME Storage #9/INFO]: Storage thread Thread[#127,C2ME Storage #9,8,main] stopped
+[01:39:06] [C2ME Storage #8/INFO]: Storage thread Thread[#124,C2ME Storage #8,8,main] stopped
+[01:39:06] [C2ME Storage #7/INFO]: Storage thread Thread[#123,C2ME Storage #7,8,main] stopped
+[01:39:06] [Server thread/INFO]: Thread RCON Listener stopped
