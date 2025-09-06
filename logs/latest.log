@@ -1,12 +1,12 @@
-[01:40:52] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.17.2
-[01:40:53] [main/WARN]: Warnings were found!
+[21:20:32] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.17.2
+[21:20:32] [main/WARN]: Warnings were found!
  - Mod 'Debugify' (debugify) 1.21.8+1.0 recommends any version of yet_another_config_lib_v3, which is missing!
 	 - You should install any version of yet_another_config_lib_v3 for the optimal experience.
  - Mod 'Debugify' (debugify) 1.21.8+1.0 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
  - Mod 'Forge Config API Port' (forgeconfigapiport) 21.8.0 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
-[01:40:53] [main/INFO]: Loading 126 mods:
+[21:20:32] [main/INFO]: Loading 126 mods:
 	- armor_3d 0.9.0
 	- biomesoplenty 21.8.0.8
 	   \-- net_jodah_typetools 0.6.3
@@ -144,135 +144,127 @@
 	- toughasnails 21.8.0.0
 	   \-- net_jodah_typetools 0.6.3
 	- travelersbackpack 10.8.1
-[01:40:53] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/adamh/Downloads/DaBoyz2/DaBoyz2/libraries/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[01:40:53] [main/INFO]: Compatibility level set to JAVA_17
-[01:40:53] [main/INFO]: Compatibility level set to JAVA_21
-[01:40:53] [main/INFO]: Initializing com.ishland.c2me.base.mixin
-[01:40:54] [main/INFO]: Global Executor Parallelism: 10 configured, 10 evaluated, 10 default evaluated
-[01:40:54] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
-[01:40:54] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
-[01:40:54] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
-[01:40:54] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
-[01:40:54] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
-[01:40:54] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
-[01:40:54] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
-[01:40:54] [main/INFO]: Initializing com.ishland.c2me.opts.dfc.mixin
-[01:40:54] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
-[01:40:54] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
-[01:40:54] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
-[01:40:54] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
-[01:40:54] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
-[01:40:54] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
-[01:40:54] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunksystem.mixin
-[01:40:54] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
-[01:40:54] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
-[01:40:54] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
-[01:40:54] [main/WARN]: Reference map 'cristellib-common-common-refmap.json' for cristellib-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[01:40:54] [main/WARN]: Reference map 'eternalnether.fabric.refmap.json' for eternalnether.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[01:40:54] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[01:40:54] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
-[01:40:54] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[01:40:54] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
-[01:40:54] [main/INFO]: Loaded configuration file for Lithium: 160 options available, 0 override(s) found.
-[01:40:54] [main/WARN]: Error loading class: ca/spottedleaf/starlight/common/thread/SchedulingUtil (java.lang.ClassNotFoundException: ca/spottedleaf/starlight/common/thread/SchedulingUtil)
-[01:40:54] [main/WARN]: Error loading class: net/minecraft/class_938 (java.lang.ClassNotFoundException: net/minecraft/class_938)
-[01:40:54] [main/WARN]: @Mixin target net.minecraft.class_938 was not found journeymap.mixins.json:client.SalmonRendererInvoker from mod journeymap
-[01:40:54] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
-[01:40:55] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
-[01:41:09] [main/INFO]: Enabled 58 bug fixes: [MC-2025, MC-7569, MC-8187, MC-30391, MC-69216, MC-82263, MC-84661, MC-88371, MC-89146, MC-93018, MC-94054, MC-100991, MC-119417, MC-119754, MC-121706, MC-121903, MC-123450, MC-123605, MC-129909, MC-132878, MC-134110, MC-136249, MC-139041, MC-147659, MC-147784, MC-155509, MC-159283, MC-160095, MC-168573, MC-170462, MC-176806, MC-177831, MC-179072, MC-183990, MC-187100, MC-199467, MC-200418, MC-201374, MC-202637, MC-206922, MC-215530, MC-219981, MC-221257, MC-223153, MC-224729, MC-226961, MC-227008, MC-227337, MC-231743, MC-232869, MC-245394, MC-267125, MC-268617, MC-271899, MC-272431, MC-297837, MC-298066, MC-299115]
-[01:41:09] [main/INFO]: Successfully Debugify'd your game!
-[01:41:09] [main/INFO]: Constructing components for eternalnether:common
-[01:41:10] [Cicada thread 0/INFO]: [cicada] Meow
-[01:41:11] [main/INFO]: Registered synced config with path sereneseasons/fertility.toml
-[01:41:11] [main/INFO]: Registered synced config with path sereneseasons/seasons.toml
-[01:41:11] [main/INFO]: Registered synced config with path toughasnails/thirst.toml
-[01:41:11] [main/INFO]: Registered synced config with path toughasnails/temperature.toml
-[01:41:11] [main/INFO]: Serene Seasons detected. Enabling season modifier.
-[01:41:12] [main/INFO]: Initializing ServerSide Packet Registries
-[01:41:12] [main/INFO]: Constructing components for puzzleslib:common
-[01:41:12] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[01:41:12] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
-[01:41:12] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[01:41:12] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[01:41:12] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[01:41:12] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[01:41:12] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[01:41:12] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
-[01:41:12] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
-[01:41:12] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
-[01:41:12] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
-[01:41:12] [main/INFO]: Registered the FluidEffect with Unique ID of toughasnails:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 4
-[01:41:12] [main/INFO]: Registered the FluidEffect with Unique ID of toughasnails:water_canteen for Water (Fluid Amount Required: 200) with the ID 5
-[01:41:12] [main/INFO]: Registered the FluidEffect with Unique ID of toughasnails:water for Water (Fluid Amount Required: 81000) with the ID 6
-[01:41:13] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:41:19] [main/INFO]: Loaded 1943 recipes
-[01:41:19] [main/INFO]: Loaded 2053 advancements
-[01:41:21] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[01:41:21] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[01:41:21] [main/INFO]: Applied 1 biome modifications to 1 of 136 new biomes in 36.38 ms
-[01:41:22] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[01:41:22] [Server thread/INFO]: Loading properties
-[01:41:22] [Server thread/INFO]: Default game type: SURVIVAL
-[01:41:22] [Server thread/INFO]: Generating keypair
-[01:41:22] [Server thread/INFO]: Starting Minecraft server on 100.121.112.67:25565
-[01:41:22] [Server thread/INFO]: Using default channel type
-[01:41:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:41:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:41:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:41:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:41:22] [Server thread/INFO]: Preparing level "world"
-[01:41:22] [Server thread/INFO]: Enforcing safe world random access
-[01:41:25] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 1.982 s
-[01:41:26] [Server thread/INFO]: Using TheSpeedyObjectFactory with Unsafe
-[01:41:27] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 676.8 ms
-[01:41:27] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 11.56 ms
-[01:41:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:41:31] [c2me-worker-5/INFO]: Preparing spawn area: 0%
-[01:41:31] [c2me-worker-1/INFO]: Preparing spawn area: 0%
-[01:41:31] [c2me-worker-2/INFO]: Preparing spawn area: 0%
-[01:41:31] [c2me-worker-8/INFO]: Preparing spawn area: 0%
-[01:41:31] [c2me-worker-3/INFO]: Preparing spawn area: 0%
-[01:41:31] [c2me-worker-7/INFO]: Preparing spawn area: 0%
-[01:41:31] [c2me-worker-5/INFO]: Preparing spawn area: 0%
-[01:41:31] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[01:41:31] [c2me-worker-1/INFO]: Preparing spawn area: 0%
-[01:41:31] [c2me-worker-2/INFO]: Preparing spawn area: 0%
-[01:41:31] [minecraft_overworld - Light/INFO]: Preparing spawn area: 0%
-[01:41:32] [Server thread/INFO]: Preparing spawn area: 53%
-[01:41:32] [Server thread/INFO]: Time elapsed: 5485 ms
-[01:41:32] [Server thread/INFO]: Done (9.845s)! For help, type "help"
-[01:41:32] [Server thread/INFO]: Starting remote control listener
-[01:41:32] [Server thread/INFO]: Thread RCON Listener started
-[01:41:32] [Server thread/INFO]: RCON running on 100.121.112.67:25575
-[01:41:32] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
-[01:41:32] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@4fb87e0 for service interface journeymap.api.services.ClientPlatformService
-[01:41:32] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@45c1031f for service interface journeymap.api.services.CommonPlatformService
-[01:42:32] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[01:43:06] [Server thread/INFO]: Storyseek3r[/100.121.112.67:11438] logged in with entity id 3 at (-231.48721283372413, 120.0, -1676.9211628406485)
-[01:43:06] [Server thread/INFO]: Loading config from file...
-[01:43:06] [Server thread/INFO]: Storyseek3r joined the game
-[01:43:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
-[01:43:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
-[01:44:27] [Server thread/INFO]: Storyseek3r lost connection: Disconnected
-[01:44:27] [Server thread/INFO]: Storyseek3r left the game
-[01:44:38] [Server thread/INFO]: Stopping server
-[01:44:38] [Server thread/INFO]: Saving players
-[01:44:38] [Server thread/INFO]: Saving worlds
-[01:44:38] [Server thread/INFO]: ServerLevel[world]/minecraft:overworld: waiting for 841 chunks to unload
-[01:44:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:44:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:44:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:44:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:44:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:44:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:44:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[01:44:38] [C2ME Storage #3/INFO]: Storage thread Thread[#110,C2ME Storage #3,8,main] stopped
-[01:44:38] [C2ME Storage #2/INFO]: Storage thread Thread[#109,C2ME Storage #2,8,main] stopped
-[01:44:38] [C2ME Storage #1/INFO]: Storage thread Thread[#108,C2ME Storage #1,8,main] stopped
-[01:44:38] [C2ME Storage #4/INFO]: Storage thread Thread[#120,C2ME Storage #4,8,main] stopped
-[01:44:38] [C2ME Storage #6/INFO]: Storage thread Thread[#122,C2ME Storage #6,8,main] stopped
-[01:44:38] [C2ME Storage #5/INFO]: Storage thread Thread[#121,C2ME Storage #5,8,main] stopped
-[01:44:38] [C2ME Storage #8/INFO]: Storage thread Thread[#124,C2ME Storage #8,8,main] stopped
-[01:44:38] [C2ME Storage #9/INFO]: Storage thread Thread[#125,C2ME Storage #9,8,main] stopped
-[01:44:38] [C2ME Storage #7/INFO]: Storage thread Thread[#123,C2ME Storage #7,8,main] stopped
-[01:44:38] [Server thread/INFO]: Thread RCON Listener stopped
+[21:20:33] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/adamh/Downloads/DaBoyz2/DaBoyz2/libraries/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[21:20:33] [main/INFO]: Compatibility level set to JAVA_17
+[21:20:33] [main/INFO]: Compatibility level set to JAVA_21
+[21:20:33] [main/INFO]: Initializing com.ishland.c2me.base.mixin
+[21:20:33] [main/INFO]: Global Executor Parallelism: 10 configured, 10 evaluated, 10 default evaluated
+[21:20:33] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
+[21:20:33] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
+[21:20:33] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
+[21:20:33] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
+[21:20:33] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
+[21:20:33] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
+[21:20:33] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
+[21:20:33] [main/INFO]: Initializing com.ishland.c2me.opts.dfc.mixin
+[21:20:33] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
+[21:20:33] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
+[21:20:33] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
+[21:20:33] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
+[21:20:33] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
+[21:20:33] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
+[21:20:33] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunksystem.mixin
+[21:20:33] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
+[21:20:33] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
+[21:20:33] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
+[21:20:33] [main/WARN]: Reference map 'cristellib-common-common-refmap.json' for cristellib-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:20:33] [main/WARN]: Reference map 'eternalnether.fabric.refmap.json' for eternalnether.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:20:33] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:20:33] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:20:33] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:20:33] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
+[21:20:33] [main/INFO]: Loaded configuration file for Lithium: 160 options available, 0 override(s) found.
+[21:20:33] [main/WARN]: Error loading class: ca/spottedleaf/starlight/common/thread/SchedulingUtil (java.lang.ClassNotFoundException: ca/spottedleaf/starlight/common/thread/SchedulingUtil)
+[21:20:34] [main/WARN]: Error loading class: net/minecraft/class_938 (java.lang.ClassNotFoundException: net/minecraft/class_938)
+[21:20:34] [main/WARN]: @Mixin target net.minecraft.class_938 was not found journeymap.mixins.json:client.SalmonRendererInvoker from mod journeymap
+[21:20:34] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[21:20:34] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[21:20:44] [main/INFO]: Enabled 58 bug fixes: [MC-2025, MC-7569, MC-8187, MC-30391, MC-69216, MC-82263, MC-84661, MC-88371, MC-89146, MC-93018, MC-94054, MC-100991, MC-119417, MC-119754, MC-121706, MC-121903, MC-123450, MC-123605, MC-129909, MC-132878, MC-134110, MC-136249, MC-139041, MC-147659, MC-147784, MC-155509, MC-159283, MC-160095, MC-168573, MC-170462, MC-176806, MC-177831, MC-179072, MC-183990, MC-187100, MC-199467, MC-200418, MC-201374, MC-202637, MC-206922, MC-215530, MC-219981, MC-221257, MC-223153, MC-224729, MC-226961, MC-227008, MC-227337, MC-231743, MC-232869, MC-245394, MC-267125, MC-268617, MC-271899, MC-272431, MC-297837, MC-298066, MC-299115]
+[21:20:44] [main/INFO]: Successfully Debugify'd your game!
+[21:20:44] [main/INFO]: Constructing components for eternalnether:common
+[21:20:45] [main/INFO]: Registered synced config with path sereneseasons/fertility.toml
+[21:20:45] [main/INFO]: Registered synced config with path sereneseasons/seasons.toml
+[21:20:45] [main/INFO]: Registered synced config with path toughasnails/thirst.toml
+[21:20:45] [main/INFO]: Registered synced config with path toughasnails/temperature.toml
+[21:20:45] [main/INFO]: Serene Seasons detected. Enabling season modifier.
+[21:20:45] [Cicada thread 0/INFO]: 'id like to browse without fear of being shunned by friends and family'
+[21:20:46] [main/INFO]: Initializing ServerSide Packet Registries
+[21:20:46] [main/INFO]: Constructing components for puzzleslib:common
+[21:20:46] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[21:20:46] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[21:20:46] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[21:20:46] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[21:20:46] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[21:20:46] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[21:20:46] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[21:20:46] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[21:20:46] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[21:20:46] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[21:20:46] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
+[21:20:46] [main/INFO]: Registered the FluidEffect with Unique ID of toughasnails:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 4
+[21:20:46] [main/INFO]: Registered the FluidEffect with Unique ID of toughasnails:water_canteen for Water (Fluid Amount Required: 200) with the ID 5
+[21:20:46] [main/INFO]: Registered the FluidEffect with Unique ID of toughasnails:water for Water (Fluid Amount Required: 81000) with the ID 6
+[21:20:47] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:20:50] [main/INFO]: Loaded 1943 recipes
+[21:20:50] [main/INFO]: Loaded 2053 advancements
+[21:20:51] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[21:20:51] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[21:20:51] [main/INFO]: Applied 1 biome modifications to 1 of 136 new biomes in 13.31 ms
+[21:20:51] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[21:20:51] [Server thread/INFO]: Loading properties
+[21:20:51] [Server thread/INFO]: Default game type: SURVIVAL
+[21:20:51] [Server thread/INFO]: Generating keypair
+[21:20:51] [Server thread/INFO]: Starting Minecraft server on 100.121.112.67:25565
+[21:20:51] [Server thread/INFO]: Using default channel type
+[21:20:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:20:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:20:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:20:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:20:52] [Server thread/INFO]: Preparing level "world"
+[21:20:52] [Server thread/INFO]: Enforcing safe world random access
+[21:20:53] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 984.2 ms
+[21:20:53] [Server thread/INFO]: Using TheSpeedyObjectFactory with Unsafe
+[21:20:54] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 477.3 ms
+[21:20:54] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 7.904 ms
+[21:20:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:20:57] [c2me-worker-6/INFO]: Preparing spawn area: 0%
+[21:20:57] [c2me-worker-6/INFO]: Preparing spawn area: 0%
+[21:20:57] [c2me-worker-6/INFO]: Preparing spawn area: 0%
+[21:20:57] [c2me-worker-2/INFO]: Preparing spawn area: 0%
+[21:20:57] [c2me-worker-1/INFO]: Preparing spawn area: 0%
+[21:20:57] [c2me-worker-2/INFO]: Preparing spawn area: 0%
+[21:20:57] [minecraft_overworld - Light/INFO]: Preparing spawn area: 51%
+[21:20:57] [Server thread/INFO]: Time elapsed: 3293 ms
+[21:20:57] [Server thread/INFO]: Done (5.822s)! For help, type "help"
+[21:20:57] [Server thread/INFO]: Starting remote control listener
+[21:20:57] [Server thread/INFO]: Thread RCON Listener started
+[21:20:57] [Server thread/INFO]: RCON running on 100.121.112.67:25575
+[21:20:57] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
+[21:20:57] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@11d08614 for service interface journeymap.api.services.ClientPlatformService
+[21:20:57] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@19a46569 for service interface journeymap.api.services.CommonPlatformService
+[21:21:13] [Server thread/INFO]: Storyseek3r[/100.121.112.67:16336] logged in with entity id 3 at (-226.46713902720197, 119.0, -1679.2574088100625)
+[21:21:13] [Server thread/INFO]: Loading config from file...
+[21:21:13] [Server thread/INFO]: Storyseek3r joined the game
+[21:22:09] [Server thread/INFO]: Storyseek3r lost connection: Disconnected
+[21:22:09] [Server thread/INFO]: Storyseek3r left the game
+[21:22:16] [Server thread/INFO]: Stopping server
+[21:22:16] [Server thread/INFO]: Saving players
+[21:22:16] [Server thread/INFO]: Saving worlds
+[21:22:16] [Server thread/INFO]: ServerLevel[world]/minecraft:overworld: waiting for 841 chunks to unload
+[21:22:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:22:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:22:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:22:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:22:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:22:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:22:16] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:22:16] [C2ME Storage #3/INFO]: Storage thread Thread[#111,C2ME Storage #3,8,main] stopped
+[21:22:16] [C2ME Storage #2/INFO]: Storage thread Thread[#110,C2ME Storage #2,8,main] stopped
+[21:22:16] [C2ME Storage #1/INFO]: Storage thread Thread[#109,C2ME Storage #1,8,main] stopped
+[21:22:16] [C2ME Storage #6/INFO]: Storage thread Thread[#122,C2ME Storage #6,8,main] stopped
+[21:22:16] [C2ME Storage #4/INFO]: Storage thread Thread[#120,C2ME Storage #4,8,main] stopped
+[21:22:16] [C2ME Storage #5/INFO]: Storage thread Thread[#121,C2ME Storage #5,8,main] stopped
+[21:22:16] [C2ME Storage #9/INFO]: Storage thread Thread[#125,C2ME Storage #9,8,main] stopped
+[21:22:16] [C2ME Storage #7/INFO]: Storage thread Thread[#123,C2ME Storage #7,8,main] stopped
+[21:22:16] [C2ME Storage #8/INFO]: Storage thread Thread[#124,C2ME Storage #8,8,main] stopped
+[21:22:16] [Server thread/INFO]: Thread RCON Listener stopped
