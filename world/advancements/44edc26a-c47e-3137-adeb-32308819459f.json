@@ -621,7 +621,8 @@
       "minecraft:skeleton": "2025-09-06 00:40:58 +0800",
       "minecraft:witch": "2025-09-06 21:41:05 +0800",
       "minecraft:spider": "2025-09-06 00:40:37 +0800",
-      "minecraft:zombie": "2025-09-05 22:26:08 +0800"
+      "minecraft:zombie": "2025-09-05 22:26:08 +0800",
+      "minecraft:creeper": "2025-09-07 14:56:13 +0800"
     },
     "done": false
   },
@@ -639,6 +640,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-09-07 14:19:15 +0800",
       "bread": "2025-09-06 00:14:41 +0800",
       "rotten_flesh": "2025-09-05 22:26:13 +0800",
       "cooked_mutton": "2025-09-05 22:39:45 +0800",
@@ -2498,6 +2500,84 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-09-07 00:59:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-09-07 14:26:16 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-09-07 14:56:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-09-07 15:03:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-09-07 15:03:31 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-07 15:12:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-07 15:12:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-07 15:12:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-07 15:12:21 +0800"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/tools/empty_copper_canteen": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-07 15:12:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-07 15:12:21 +0800"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/decorations/water_purifier": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-07 15:12:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-09-07 15:36:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-09-07 15:36:17 +0800"
     },
     "done": true
   },
