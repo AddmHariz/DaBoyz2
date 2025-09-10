@@ -1,0 +1,51 @@
+{
+	// Whether the cannon should do block damage.
+	"cannonDoesBlockDamage": true,
+	// Whether dynamite should do block damage.
+	"dynamiteDoesBlockDamage": true,
+	// Whether the mortar should do block damage.
+	"mortarDoesBlockDamage": true,
+	// Whether the knife can be thrown.
+	"canThrowKnife": true,
+	// Whether the spear can be thrown.
+	"canThrowSpear": true,
+	// Change this to 'false' to allow only the thrower/shooter of the projectile to pick the item up. If set to 'true' everyone can pick the item up.
+	"allCanPickup": true,
+	// Show reload progress in hotbar.
+	"guiOverlayReloaded": true,
+	// Item model for entity (knife, spear, etc).
+	"itemModelForEntity": true,
+	// Changes the cannon to the legacy model from older versions of BWM!
+	"legacyCannonModel": false,
+	// Enable/disable recipes for the different weapons.
+	"enableSettings": {
+		"javelin": true,
+		"warhammer": true,
+		"crossbow": true,
+		"mortar": true,
+		"halberd": true,
+		"cannon": true,
+		"musket": true,
+		"blunderbuss": true,
+		"boomerang": true,
+		"firerod": true,
+		"blowgun": true,
+		"flintlock": true,
+		"dummy": true,
+		"spear": true,
+		"flail": true,
+		"knife": true,
+		"dynamite": true,
+		"katana": true,
+		"battleaxe": true
+	},
+	// Change the reload times of the different weapons.
+	"reloadTimeSettings": {
+		"crossbow": 15,
+		"mortar": 50,
+		"musket": 30,
+		"blunderbuss": 20,
+		"blowgun": 10,
+		"flintlock": 15
+	}
+}

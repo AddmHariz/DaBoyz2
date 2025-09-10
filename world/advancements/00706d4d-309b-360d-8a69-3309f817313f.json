@@ -2521,5 +2521,351 @@
     },
     "done": true
   },
+  "weaponmod:battleaxe.iron": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:knife.diamond": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:dynamite": {
+    "criteria": {
+      "has_c_strings": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:flail.diamond": {
+    "criteria": {
+      "has_c_strings": "2025-09-10 16:25:26 +0800",
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:knife.wood": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:knife.stone": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:spear.iron": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:firerod": {
+    "criteria": {
+      "has_minecraft_torch": "2025-09-10 16:25:26 +0800",
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": true
+  },
+  "weaponmod:battleaxe.wood": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:warhammer.gold": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:knife.iron.a": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:flail.gold": {
+    "criteria": {
+      "has_c_strings": "2025-09-10 16:25:26 +0800",
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:spear.diamond": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:halberd.iron": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:battleaxe.diamond": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:knife.diamond.a": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:halberd.stone": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:dummy": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800",
+      "has_minecraft_wool": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:halberd.diamond": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:spear.wood": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:cannon": {
+    "criteria": {
+      "has_c_tools/igniter": "2025-09-10 16:25:26 +0800",
+      "has_minecraft_logs": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:halberd.wood": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:dart.damage": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:warhammer.diamond": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:gun-stock": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:dart.hunger": {
+    "criteria": {
+      "has_minecraft_rotten_flesh": "2025-09-10 16:25:26 +0800",
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:dart.slow": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:battleaxe.stone": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:halberd.gold": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:blunder-ironpart": {
+    "criteria": {
+      "has_c_tools/igniter": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:spear.stone": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:flail.wood": {
+    "criteria": {
+      "has_c_strings": "2025-09-10 16:25:26 +0800",
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:javelin": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:mortar-ironpart": {
+    "criteria": {
+      "has_c_tools/igniter": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:flail.stone": {
+    "criteria": {
+      "has_c_strings": "2025-09-10 16:25:26 +0800",
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:warhammer.iron": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:crossbow": {
+    "criteria": {
+      "has_minecraft_bow": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:katana.gold": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:knife.gold": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:warhammer.wood": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:cannonball": {
+    "criteria": {
+      "has_minecraft_stone": "2025-09-10 16:25:26 +0800"
+    },
+    "done": true
+  },
+  "weaponmod:katana.wood": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:battleaxe.gold": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:musket-ironpart": {
+    "criteria": {
+      "has_c_tools/igniter": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:katana.stone": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:knife.stone.a": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:katana.diamond": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:knife.wood.a": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:katana.iron": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:flail.iron": {
+    "criteria": {
+      "has_c_strings": "2025-09-10 16:25:26 +0800",
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:dart": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:knife.gold.a": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:warhammer.stone": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:spear.gold": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:flintlock": {
+    "criteria": {
+      "has_c_tools/igniter": "2025-09-10 16:25:26 +0800",
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:knife.iron": {
+    "criteria": {
+      "has_c_rods/wooden": "2025-09-10 16:25:26 +0800"
+    },
+    "done": false
+  },
   "DataVersion": 4440
 }
