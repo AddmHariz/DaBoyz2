@@ -712,7 +712,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-09-05 22:38:11 +0800",
-      "sweet_berries": "2025-09-05 22:30:19 +0800"
+      "sweet_berries": "2025-09-05 22:30:19 +0800",
+      "cooked_beef": "2025-09-12 22:32:01 +0800"
     },
     "done": false
   },
@@ -2607,9 +2608,10 @@
   },
   "weaponmod:knife.diamond": {
     "criteria": {
+      "has_minecraft_diamond_tool_materials": "2025-09-12 23:34:40 +0800",
       "has_c_rods/wooden": "2025-09-11 22:54:33 +0800"
     },
-    "done": false
+    "done": true
   },
   "weaponmod:dynamite": {
     "criteria": {
@@ -2620,9 +2622,10 @@
   "weaponmod:flail.diamond": {
     "criteria": {
       "has_c_strings": "2025-09-11 22:54:33 +0800",
+      "has_minecraft_diamond_tool_materials": "2025-09-12 23:34:40 +0800",
       "has_c_rods/wooden": "2025-09-11 22:54:33 +0800"
     },
-    "done": false
+    "done": true
   },
   "weaponmod:knife.wood": {
     "criteria": {
@@ -2681,21 +2684,10 @@
   },
   "weaponmod:spear.diamond": {
     "criteria": {
+      "has_minecraft_diamond_tool_materials": "2025-09-12 23:34:40 +0800",
       "has_c_rods/wooden": "2025-09-11 22:54:33 +0800"
     },
-    "done": false
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-09-11 23:03:30 +0800"
-    },
     "done": true
-  },
-  "weaponmod:shell": {
-    "criteria": {
-      "has_c_ingots/iron": "2025-09-11 23:07:11 +0800"
-    },
-    "done": false
   },
   "weaponmod:halberd.iron": {
     "criteria": {
@@ -2706,15 +2698,17 @@
   },
   "weaponmod:battleaxe.diamond": {
     "criteria": {
+      "has_minecraft_diamond_tool_materials": "2025-09-12 23:34:40 +0800",
       "has_c_rods/wooden": "2025-09-11 22:54:33 +0800"
     },
-    "done": false
+    "done": true
   },
   "weaponmod:knife.diamond.a": {
     "criteria": {
+      "has_minecraft_diamond_tool_materials": "2025-09-12 23:34:40 +0800",
       "has_c_rods/wooden": "2025-09-11 22:54:33 +0800"
     },
-    "done": false
+    "done": true
   },
   "weaponmod:halberd.stone": {
     "criteria": {
@@ -2732,9 +2726,10 @@
   },
   "weaponmod:halberd.diamond": {
     "criteria": {
+      "has_minecraft_diamond_tool_materials": "2025-09-12 23:34:40 +0800",
       "has_c_rods/wooden": "2025-09-11 22:54:33 +0800"
     },
-    "done": false
+    "done": true
   },
   "weaponmod:spear.wood": {
     "criteria": {
@@ -2743,22 +2738,9 @@
     },
     "done": true
   },
-  "weaponmod:bolt": {
-    "criteria": {
-      "has_c_ingots/iron": "2025-09-11 23:07:11 +0800"
-    },
-    "done": false
-  },
   "weaponmod:boomerang.gold": {
     "criteria": {
       "has_minecraft_planks": "2025-09-11 22:54:33 +0800"
-    },
-    "done": false
-  },
-  "weaponmod:cannon": {
-    "criteria": {
-      "has_c_ingots/iron": "2025-09-11 23:07:11 +0800",
-      "has_minecraft_logs": "2025-09-11 23:12:49 +0800"
     },
     "done": false
   },
@@ -2784,9 +2766,10 @@
   },
   "weaponmod:warhammer.diamond": {
     "criteria": {
+      "has_minecraft_diamond_tool_materials": "2025-09-12 23:34:40 +0800",
       "has_c_rods/wooden": "2025-09-11 22:54:33 +0800"
     },
-    "done": false
+    "done": true
   },
   "weaponmod:gun-stock": {
     "criteria": {
@@ -2797,6 +2780,7 @@
   },
   "weaponmod:dart.hunger": {
     "criteria": {
+      "has_minecraft_rotten_flesh": "2025-09-12 21:57:56 +0800",
       "has_c_rods/wooden": "2025-09-11 22:54:33 +0800"
     },
     "done": false
@@ -2817,12 +2801,6 @@
   "weaponmod:halberd.gold": {
     "criteria": {
       "has_c_rods/wooden": "2025-09-11 22:54:33 +0800"
-    },
-    "done": false
-  },
-  "weaponmod:blunder-ironpart": {
-    "criteria": {
-      "has_c_ingots/iron": "2025-09-11 23:07:11 +0800"
     },
     "done": false
   },
@@ -2847,18 +2825,6 @@
     },
     "done": false
   },
-  "weaponmod:mortar-ironpart": {
-    "criteria": {
-      "has_c_ingots/iron": "2025-09-11 23:07:11 +0800"
-    },
-    "done": false
-  },
-  "weaponmod:iron.smelt": {
-    "criteria": {
-      "has_halberd.iron": "2025-09-11 23:07:54 +0800"
-    },
-    "done": true
-  },
   "weaponmod:flail.stone": {
     "criteria": {
       "has_c_strings": "2025-09-11 22:54:33 +0800",
@@ -2873,12 +2839,6 @@
       "has_minecraft_iron_tool_materials": "2025-09-11 23:07:11 +0800"
     },
     "done": true
-  },
-  "weaponmod:shell.a": {
-    "criteria": {
-      "has_c_ingots/iron": "2025-09-11 23:07:11 +0800"
-    },
-    "done": false
   },
   "weaponmod:crossbow": {
     "criteria": {
@@ -2933,12 +2893,6 @@
     },
     "done": false
   },
-  "weaponmod:musket-ironpart": {
-    "criteria": {
-      "has_c_ingots/iron": "2025-09-11 23:07:11 +0800"
-    },
-    "done": false
-  },
   "weaponmod:katana.stone": {
     "criteria": {
       "has_c_rods/wooden": "2025-09-11 22:54:33 +0800",
@@ -2955,9 +2909,10 @@
   },
   "weaponmod:katana.diamond": {
     "criteria": {
+      "has_minecraft_diamond_tool_materials": "2025-09-12 23:34:40 +0800",
       "has_c_rods/wooden": "2025-09-11 22:54:33 +0800"
     },
-    "done": false
+    "done": true
   },
   "weaponmod:knife.wood.a": {
     "criteria": {
@@ -2965,12 +2920,6 @@
       "has_c_rods/wooden": "2025-09-11 22:54:33 +0800"
     },
     "done": true
-  },
-  "weaponmod:bullet": {
-    "criteria": {
-      "has_c_ingots/iron": "2025-09-11 23:07:11 +0800"
-    },
-    "done": false
   },
   "weaponmod:katana.iron": {
     "criteria": {
@@ -2989,13 +2938,8 @@
   },
   "weaponmod:boomerang.diamond": {
     "criteria": {
-      "has_minecraft_planks": "2025-09-11 22:54:33 +0800"
-    },
-    "done": false
-  },
-  "weaponmod:iron.blast": {
-    "criteria": {
-      "has_halberd.iron": "2025-09-11 23:07:54 +0800"
+      "has_minecraft_planks": "2025-09-11 22:54:33 +0800",
+      "has_minecraft_diamond_tool_materials": "2025-09-12 23:34:40 +0800"
     },
     "done": true
   },
@@ -3036,6 +2980,103 @@
     "criteria": {
       "has_c_rods/wooden": "2025-09-11 22:54:33 +0800",
       "has_minecraft_iron_tool_materials": "2025-09-11 23:07:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-09-11 23:03:30 +0800"
+    },
+    "done": true
+  },
+  "weaponmod:shell": {
+    "criteria": {
+      "has_c_ingots/iron": "2025-09-11 23:07:11 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:bolt": {
+    "criteria": {
+      "has_c_ingots/iron": "2025-09-11 23:07:11 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:cannon": {
+    "criteria": {
+      "has_c_ingots/iron": "2025-09-11 23:07:11 +0800",
+      "has_minecraft_logs": "2025-09-11 23:12:49 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:blunder-ironpart": {
+    "criteria": {
+      "has_c_ingots/iron": "2025-09-11 23:07:11 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:mortar-ironpart": {
+    "criteria": {
+      "has_c_ingots/iron": "2025-09-11 23:07:11 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:shell.a": {
+    "criteria": {
+      "has_c_ingots/iron": "2025-09-11 23:07:11 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:musket-ironpart": {
+    "criteria": {
+      "has_c_ingots/iron": "2025-09-11 23:07:11 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:bullet": {
+    "criteria": {
+      "has_c_ingots/iron": "2025-09-11 23:07:11 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:iron.smelt": {
+    "criteria": {
+      "has_halberd.iron": "2025-09-11 23:07:54 +0800"
+    },
+    "done": true
+  },
+  "weaponmod:iron.blast": {
+    "criteria": {
+      "has_halberd.iron": "2025-09-11 23:07:54 +0800"
+    },
+    "done": true
+  },
+  "weaponmod:mortar": {
+    "criteria": {
+      "has_weaponmod_gun-stock": "2025-09-12 22:16:46 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:blunderbuss": {
+    "criteria": {
+      "has_weaponmod_gun-stock": "2025-09-12 22:16:46 +0800"
+    },
+    "done": false
+  },
+  "weaponmod:musket": {
+    "criteria": {
+      "has_weaponmod_gun-stock": "2025-09-12 22:16:46 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-09-12 22:36:24 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-09-12 22:36:24 +0800"
     },
     "done": true
   },

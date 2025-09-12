@@ -2720,9 +2720,10 @@
   },
   "weaponmod:knife.diamond": {
     "criteria": {
+      "has_minecraft_diamond_tool_materials": "2025-09-12 22:08:16 +0800",
       "has_c_rods/wooden": "2025-09-11 21:11:29 +0800"
     },
-    "done": false
+    "done": true
   },
   "weaponmod:dynamite": {
     "criteria": {
@@ -2734,9 +2735,10 @@
   "weaponmod:flail.diamond": {
     "criteria": {
       "has_c_strings": "2025-09-11 21:11:29 +0800",
+      "has_minecraft_diamond_tool_materials": "2025-09-12 22:08:16 +0800",
       "has_c_rods/wooden": "2025-09-11 21:11:29 +0800"
     },
-    "done": false
+    "done": true
   },
   "weaponmod:knife.wood": {
     "criteria": {
@@ -2795,9 +2797,10 @@
   },
   "weaponmod:spear.diamond": {
     "criteria": {
+      "has_minecraft_diamond_tool_materials": "2025-09-12 22:08:16 +0800",
       "has_c_rods/wooden": "2025-09-11 21:11:29 +0800"
     },
-    "done": false
+    "done": true
   },
   "weaponmod:shell": {
     "criteria": {
@@ -2815,15 +2818,17 @@
   },
   "weaponmod:battleaxe.diamond": {
     "criteria": {
+      "has_minecraft_diamond_tool_materials": "2025-09-12 22:08:16 +0800",
       "has_c_rods/wooden": "2025-09-11 21:11:29 +0800"
     },
-    "done": false
+    "done": true
   },
   "weaponmod:knife.diamond.a": {
     "criteria": {
+      "has_minecraft_diamond_tool_materials": "2025-09-12 22:08:16 +0800",
       "has_c_rods/wooden": "2025-09-11 21:11:29 +0800"
     },
-    "done": false
+    "done": true
   },
   "weaponmod:halberd.stone": {
     "criteria": {
@@ -2842,9 +2847,10 @@
   },
   "weaponmod:halberd.diamond": {
     "criteria": {
+      "has_minecraft_diamond_tool_materials": "2025-09-12 22:08:16 +0800",
       "has_c_rods/wooden": "2025-09-11 21:11:29 +0800"
     },
-    "done": false
+    "done": true
   },
   "weaponmod:spear.wood": {
     "criteria": {
@@ -2883,9 +2889,10 @@
   },
   "weaponmod:warhammer.diamond": {
     "criteria": {
+      "has_minecraft_diamond_tool_materials": "2025-09-12 22:08:16 +0800",
       "has_c_rods/wooden": "2025-09-11 21:11:29 +0800"
     },
-    "done": false
+    "done": true
   },
   "weaponmod:gun-stock": {
     "criteria": {
@@ -2937,9 +2944,10 @@
   },
   "weaponmod:javelin": {
     "criteria": {
+      "has_minecraft_flint": "2025-09-12 23:21:18 +0800",
       "has_c_rods/wooden": "2025-09-11 21:11:29 +0800"
     },
-    "done": false
+    "done": true
   },
   "weaponmod:flail.stone": {
     "criteria": {
@@ -2958,7 +2966,8 @@
   },
   "weaponmod:shot": {
     "criteria": {
-      "has_minecraft_gunpowder": "2025-09-11 21:11:29 +0800"
+      "has_minecraft_gunpowder": "2025-09-11 21:11:29 +0800",
+      "has_minecraft_gravel": "2025-09-12 22:57:14 +0800"
     },
     "done": false
   },
@@ -3018,9 +3027,10 @@
   },
   "weaponmod:katana.diamond": {
     "criteria": {
+      "has_minecraft_diamond_tool_materials": "2025-09-12 22:08:16 +0800",
       "has_c_rods/wooden": "2025-09-11 21:11:29 +0800"
     },
-    "done": false
+    "done": true
   },
   "weaponmod:knife.wood.a": {
     "criteria": {
@@ -3167,9 +3177,10 @@
   },
   "weaponmod:boomerang.diamond": {
     "criteria": {
-      "has_minecraft_planks": "2025-09-11 22:05:55 +0800"
+      "has_minecraft_planks": "2025-09-11 22:05:55 +0800",
+      "has_minecraft_diamond_tool_materials": "2025-09-12 22:08:16 +0800"
     },
-    "done": false
+    "done": true
   },
   "biomesoplenty:recipes/decorations/maple_hanging_sign": {
     "criteria": {
@@ -3426,6 +3437,24 @@
   "biomesoplenty:recipes/building_blocks/redwood_stairs": {
     "criteria": {
       "has_planks": "2025-09-12 00:44:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-09-12 23:21:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-09-12 23:21:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye_from_violet": {
+    "criteria": {
+      "has_violet": "2025-09-13 01:28:31 +0800"
     },
     "done": true
   },
