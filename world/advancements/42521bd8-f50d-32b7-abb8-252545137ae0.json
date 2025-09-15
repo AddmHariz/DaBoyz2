@@ -2538,9 +2538,10 @@
   },
   "weaponmod:warhammer.gold": {
     "criteria": {
-      "has_c_rods/wooden": "2025-09-11 21:18:53 +0800"
+      "has_c_rods/wooden": "2025-09-11 21:18:53 +0800",
+      "has_minecraft_gold_tool_materials": "2025-09-15 21:44:45 +0800"
     },
-    "done": false
+    "done": true
   },
   "weaponmod:knife.iron.a": {
     "criteria": {
@@ -2552,9 +2553,10 @@
   "weaponmod:flail.gold": {
     "criteria": {
       "has_c_strings": "2025-09-13 01:07:58 +0800",
-      "has_c_rods/wooden": "2025-09-11 21:18:53 +0800"
+      "has_c_rods/wooden": "2025-09-11 21:18:53 +0800",
+      "has_minecraft_gold_tool_materials": "2025-09-15 21:44:45 +0800"
     },
-    "done": false
+    "done": true
   },
   "weaponmod:spear.diamond": {
     "criteria": {
@@ -2615,9 +2617,10 @@
   },
   "weaponmod:boomerang.gold": {
     "criteria": {
-      "has_minecraft_planks": "2025-09-11 21:18:53 +0800"
+      "has_minecraft_planks": "2025-09-11 21:18:53 +0800",
+      "has_minecraft_gold_tool_materials": "2025-09-15 21:44:45 +0800"
     },
-    "done": false
+    "done": true
   },
   "weaponmod:cannon": {
     "criteria": {
@@ -2686,9 +2689,10 @@
   },
   "weaponmod:halberd.gold": {
     "criteria": {
-      "has_c_rods/wooden": "2025-09-11 21:18:53 +0800"
+      "has_c_rods/wooden": "2025-09-11 21:18:53 +0800",
+      "has_minecraft_gold_tool_materials": "2025-09-15 21:44:45 +0800"
     },
-    "done": false
+    "done": true
   },
   "weaponmod:spear.stone": {
     "criteria": {
@@ -2744,15 +2748,17 @@
   },
   "weaponmod:katana.gold": {
     "criteria": {
-      "has_c_rods/wooden": "2025-09-11 21:18:53 +0800"
+      "has_c_rods/wooden": "2025-09-11 21:18:53 +0800",
+      "has_minecraft_gold_tool_materials": "2025-09-15 21:44:45 +0800"
     },
-    "done": false
+    "done": true
   },
   "weaponmod:knife.gold": {
     "criteria": {
-      "has_c_rods/wooden": "2025-09-11 21:18:53 +0800"
+      "has_c_rods/wooden": "2025-09-11 21:18:53 +0800",
+      "has_minecraft_gold_tool_materials": "2025-09-15 21:44:45 +0800"
     },
-    "done": false
+    "done": true
   },
   "weaponmod:warhammer.wood": {
     "criteria": {
@@ -2777,9 +2783,10 @@
   },
   "weaponmod:battleaxe.gold": {
     "criteria": {
-      "has_c_rods/wooden": "2025-09-11 21:18:53 +0800"
+      "has_c_rods/wooden": "2025-09-11 21:18:53 +0800",
+      "has_minecraft_gold_tool_materials": "2025-09-15 21:44:45 +0800"
     },
-    "done": false
+    "done": true
   },
   "weaponmod:katana.stone": {
     "criteria": {
@@ -2840,9 +2847,10 @@
   },
   "weaponmod:knife.gold.a": {
     "criteria": {
-      "has_c_rods/wooden": "2025-09-11 21:18:53 +0800"
+      "has_c_rods/wooden": "2025-09-11 21:18:53 +0800",
+      "has_minecraft_gold_tool_materials": "2025-09-15 21:44:45 +0800"
     },
-    "done": false
+    "done": true
   },
   "weaponmod:warhammer.stone": {
     "criteria": {
@@ -2853,9 +2861,10 @@
   },
   "weaponmod:spear.gold": {
     "criteria": {
-      "has_c_rods/wooden": "2025-09-11 21:18:53 +0800"
+      "has_c_rods/wooden": "2025-09-11 21:18:53 +0800",
+      "has_minecraft_gold_tool_materials": "2025-09-15 21:44:45 +0800"
     },
-    "done": false
+    "done": true
   },
   "weaponmod:flintlock": {
     "criteria": {
@@ -3992,6 +4001,120 @@
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-09-15 01:43:15 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-15 21:44:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-15 21:44:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-15 21:44:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-15 21:44:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-15 21:44:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-15 21:44:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-15 21:44:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-15 21:44:45 +0800"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-15 21:44:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-15 21:44:45 +0800"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/tools/empty_gold_canteen": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-15 21:44:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-15 21:44:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-15 21:44:45 +0800"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold_tier_upgrade": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-15 21:44:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-15 21:44:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-15 21:44:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-09-15 21:44:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-09-15 21:44:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-09-15 22:50:08 +0800"
     },
     "done": true
   },
