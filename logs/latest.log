@@ -1,254 +1,256 @@
-[00:00:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18482ms or 369 ticks behind
-[00:00:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12297ms or 245 ticks behind
-[00:01:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6621ms or 132 ticks behind
-[00:01:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9029ms or 180 ticks behind
-[00:02:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9064ms or 181 ticks behind
-[00:02:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11349ms or 226 ticks behind
-[00:02:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14552ms or 291 ticks behind
-[00:03:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10789ms or 215 ticks behind
-[00:03:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2811ms or 56 ticks behind
-[00:05:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[00:05:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5409ms or 108 ticks behind
-[00:07:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
-[00:08:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[00:10:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[00:10:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8022ms or 160 ticks behind
-[00:10:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4583ms or 91 ticks behind
-[00:11:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[00:11:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
-[00:11:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[00:12:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11630ms or 232 ticks behind
-[00:12:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11266ms or 225 ticks behind
-[00:13:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12776ms or 255 ticks behind
-[00:13:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10155ms or 203 ticks behind
-[00:14:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9531ms or 190 ticks behind
-[00:14:41] [c2me-worker-1/ERROR]: Couldn't load structure mvs:nature/big_oak_tree
-net.minecraft.class_8911: Loading NBT data
-	at knot/net.minecraft.class_2487.method_10581(class_2487.java:509) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_2487$1.method_53889(class_2487.java:82) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_2487$1.method_23240(class_2487.java:69) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_2487$1.method_23262(class_2487.java:64) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_2499$1.method_53895(class_2499.java:51) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_2499$1.method_23249(class_2499.java:34) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_2499$1.method_23262(class_2499.java:29) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_2487.method_10581(class_2487.java:503) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_2487$1.method_53889(class_2487.java:82) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_2487$1.method_23240(class_2487.java:69) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_2487$1.method_23262(class_2487.java:64) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_2507.method_52892(class_2507.java:193) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_2507.method_10626(class_2507.java:188) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_2507.method_10625(class_2507.java:112) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_2507.method_10629(class_2507.java:52) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_3485.method_15090(class_3485.java:240) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_3485.method_44231(class_3485.java:230) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_3485.method_15088(class_3485.java:135) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_3485.method_44245(class_3485.java:113) ~[server-intermediary.jar:?]
-	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708) ~[?:?]
-	at knot/net.minecraft.class_3485.method_15094(class_3485.java:103) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_3485.method_15091(class_3485.java:91) ~[server-intermediary.jar:?]
-	at knot/com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-8.0.16.jar:?]
-	at knot/net.minecraft.class_3781.method_27233(class_3781.java:93) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_3781.method_16628(class_3781.java:132) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_3790.<init>(class_3790.java:57) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_6624.method_38711(class_6624.java:73) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_3449.method_41621(class_3449.java:66) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_2852.method_12392(class_2852.java:577) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_2852.method_12395(class_2852.java:305) ~[server-intermediary.jar:?]
-	at knot/com.ishland.c2me.rewrites.chunksystem.common.statuses.ReadFromDiskAsync.lambda$invokeAsyncLoad$0(ReadFromDiskAsync.java:55) ~[c2me-rewrites-chunk-system-0.3.4.0.0+1.21.8-ac8ee193d56dcb8a.jar:?]
-	at knot/io.reactivex.rxjava3.internal.operators.single.SingleMap$MapSingleObserver.onSuccess(SingleMap.java:58) ~[io_reactivex_rxjava3_rxjava-3.1.8-24e07474fe6d000e.jar:?]
-	at knot/io.reactivex.rxjava3.internal.operators.single.SingleZipArray$ZipCoordinator.innerSuccess(SingleZipArray.java:126) ~[io_reactivex_rxjava3_rxjava-3.1.8-24e07474fe6d000e.jar:?]
-	at knot/io.reactivex.rxjava3.internal.operators.single.SingleZipArray$ZipSingleObserver.onSuccess(SingleZipArray.java:178) ~[io_reactivex_rxjava3_rxjava-3.1.8-24e07474fe6d000e.jar:?]
-	at knot/io.reactivex.rxjava3.internal.operators.single.SingleMap$MapSingleObserver.onSuccess(SingleMap.java:65) ~[io_reactivex_rxjava3_rxjava-3.1.8-24e07474fe6d000e.jar:?]
-	at knot/io.reactivex.rxjava3.internal.jdk8.SingleFromCompletionStage$CompletionStageHandler.accept(SingleFromCompletionStage.java:66) ~[io_reactivex_rxjava3_rxjava-3.1.8-24e07474fe6d000e.jar:?]
-	at knot/io.reactivex.rxjava3.internal.jdk8.SingleFromCompletionStage$CompletionStageHandler.accept(SingleFromCompletionStage.java:48) ~[io_reactivex_rxjava3_rxjava-3.1.8-24e07474fe6d000e.jar:?]
-	at knot/io.reactivex.rxjava3.internal.jdk8.FlowableFromCompletionStage$BiConsumerAtomicReference.accept(FlowableFromCompletionStage.java:91) ~[io_reactivex_rxjava3_rxjava-3.1.8-24e07474fe6d000e.jar:?]
-	at knot/io.reactivex.rxjava3.internal.jdk8.FlowableFromCompletionStage$BiConsumerAtomicReference.accept(FlowableFromCompletionStage.java:82) ~[io_reactivex_rxjava3_rxjava-3.1.8-24e07474fe6d000e.jar:?]
-	at java.base/java.util.concurrent.CompletableFuture.uniWhenComplete(CompletableFuture.java:863) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$UniWhenComplete.tryFire(CompletableFuture.java:841) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2179) ~[?:?]
-	at knot/com.ishland.c2me.rewrites.chunkio.common.C2MEStorageThread.lambda$scheduleChunkRead$1(C2MEStorageThread.java:363) ~[c2me-rewrites-chunkio-0.3.4.0.0+1.21.8-7cfe8f5c4793725.jar:?]
-	at java.base/java.util.concurrent.CompletableFuture.uniHandle(CompletableFuture.java:934) [?:?]
-	at java.base/java.util.concurrent.CompletableFuture$UniHandle.tryFire(CompletableFuture.java:911) [?:?]
-	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) [?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1773) [?:?]
-	at knot/com.ishland.c2me.base.common.scheduler.WrappingTask.run(WrappingTask.java:21) [c2me-base-0.3.4.0.0+1.21.8-4e8e5e634255be72.jar:?]
-	at knot/com.ishland.flowsched.executor.WorkerThread.pollTasks(WorkerThread.java:57) [c2me-base-0.3.4.0.0+1.21.8-4e8e5e634255be72.jar:?]
-	at knot/com.ishland.flowsched.executor.WorkerThread.run(WorkerThread.java:27) [c2me-base-0.3.4.0.0+1.21.8-4e8e5e634255be72.jar:?]
-Caused by: java.io.IOException: Invalid tag id: 19
-	at knot/net.minecraft.class_4614$1.method_39878(class_4614.java:54) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4614$1.method_23264(class_4614.java:59) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_4614$1.method_23262(class_4614.java:52) ~[server-intermediary.jar:?]
-	at knot/net.minecraft.class_2487.method_10581(class_2487.java:503) ~[server-intermediary.jar:?]
-	... 50 more
-[00:14:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[00:15:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2173ms or 43 ticks behind
-[00:15:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[00:16:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4369ms or 87 ticks behind
-[00:16:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[00:16:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6293ms or 125 ticks behind
-[00:17:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[00:17:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4305ms or 86 ticks behind
-[00:18:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2694ms or 53 ticks behind
-[00:18:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2971ms or 59 ticks behind
-[00:18:39] [Server thread/INFO]: umaaaaaq lost connection: Disconnected
-[00:18:39] [Server thread/INFO]: umaaaaaq left the game
-[00:18:45] [Server thread/INFO]: umaaaaaq[/100.124.143.21:61165] logged in with entity id 296323 at (136.69999998807907, 80.1875, -2666.5668322621214)
-[00:18:45] [Server thread/INFO]: Loading config from file...
-[00:18:45] [Server thread/INFO]: umaaaaaq joined the game
-[00:18:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7001ms or 140 ticks behind
-[00:19:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11564ms or 231 ticks behind
-[00:19:16] [Server thread/INFO]: Villager class_1646['Armorer'/296402, l='ServerLevel[world]', x=110.67, y=72.00, z=-2678.23] died, message: 'Armorer was slain by Zombie'
-[00:19:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6501ms or 130 ticks behind
-[00:19:49] [Server thread/INFO]: umaaaaaq lost connection: Timed out
-[00:19:49] [Server thread/INFO]: umaaaaaq left the game
-[00:19:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3585ms or 71 ticks behind
-[00:20:16] [Server thread/INFO]: RayWolford79 lost connection: Disconnected
-[00:20:16] [Server thread/INFO]: RayWolford79 left the game
-[00:20:41] [Server thread/INFO]: RayWolford79[/100.109.194.2:5460] logged in with entity id 302774 at (692.6999999880791, 100.0, -969.3133753806061)
-[00:20:41] [Server thread/INFO]: Loading config from file...
-[00:20:41] [Server thread/INFO]: RayWolford79 joined the game
-[00:20:42] [Server thread/INFO]: Player RayWolford79 joined with a matching carpet client
-[00:27:35] [Server thread/INFO]: RayWolford79 has made the advancement [Hot Stuff]
-[00:32:51] [Server thread/INFO]: RayWolford79 lost connection: Disconnected
-[00:32:51] [Server thread/INFO]: RayWolford79 left the game
-[00:33:38] [Server thread/INFO]: RayWolford79[/100.109.194.2:5539] logged in with entity id 330313 at (1471.424076883821, 71.0, -1240.0883407437009)
-[00:33:38] [Server thread/INFO]: Loading config from file...
-[00:33:38] [Server thread/INFO]: RayWolford79 joined the game
-[00:33:39] [Server thread/INFO]: Player RayWolford79 joined with a matching carpet client
-[00:44:19] [Server thread/INFO]: RayWolford79 has made the advancement [Best Friends Forever]
-[00:49:53] [Server thread/WARN]: Storyseek3r moved too quickly! 8.847170840031595,-0.8194090094919773,4.854108788879671
-[00:49:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[00:50:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4139ms or 82 ticks behind
-[00:50:22] [c2me-worker-8/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[00:50:23] [c2me-worker-8/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[00:50:23] [c2me-worker-8/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[00:50:23] [c2me-worker-8/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[00:50:23] [c2me-worker-8/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[00:52:24] [Server thread/INFO]: RayWolford79 lost connection: Disconnected
-[00:52:24] [Server thread/INFO]: RayWolford79 left the game
-[00:52:35] [Server thread/INFO]: RayWolford79[/100.109.194.2:5646] logged in with entity id 379407 at (2644.752501556224, 77.0, -738.270462558509)
-[00:52:35] [Server thread/INFO]: Loading config from file...
-[00:52:35] [Server thread/INFO]: RayWolford79 joined the game
-[00:52:36] [Server thread/INFO]: Player RayWolford79 joined with a matching carpet client
-[00:52:46] [Server thread/INFO]: RayWolford79 lost connection: Disconnected
-[00:52:46] [Server thread/INFO]: RayWolford79 left the game
-[00:54:58] [Server thread/INFO]: RayWolford79[/100.109.194.2:5680] logged in with entity id 386093 at (2639.1324088792103, 77.0, -733.1913095923786)
-[00:54:58] [Server thread/INFO]: Loading config from file...
-[00:54:58] [Server thread/INFO]: RayWolford79 joined the game
-[00:54:58] [Server thread/INFO]: Player RayWolford79 joined with a matching carpet client
-[00:58:10] [c2me-worker-6/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[00:58:10] [c2me-worker-6/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[00:58:10] [c2me-worker-6/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[00:58:10] [c2me-worker-6/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[00:58:10] [c2me-worker-6/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[00:58:10] [c2me-worker-6/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[00:58:10] [c2me-worker-6/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[00:58:10] [c2me-worker-6/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[00:58:10] [c2me-worker-6/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[00:59:14] [c2me-worker-3/ERROR]: Block-attached entity at invalid position: class_2338{x=582, y=-60, z=284}
-[00:59:14] [c2me-worker-3/ERROR]: Block-attached entity at invalid position: class_2338{x=584, y=-59, z=285}
-[00:59:14] [c2me-worker-3/ERROR]: Block-attached entity at invalid position: class_2338{x=582, y=-60, z=284}
-[00:59:18] [c2me-worker-3/ERROR]: Block-attached entity at invalid position: class_2338{x=582, y=-60, z=284}
-[00:59:18] [c2me-worker-3/ERROR]: Block-attached entity at invalid position: class_2338{x=371, y=-59, z=320}
-[00:59:18] [c2me-worker-3/ERROR]: Block-attached entity at invalid position: class_2338{x=584, y=-59, z=285}
-[00:59:18] [c2me-worker-3/ERROR]: Block-attached entity at invalid position: class_2338{x=371, y=-59, z=320}
-[00:59:18] [c2me-worker-3/ERROR]: Block-attached entity at invalid position: class_2338{x=584, y=-59, z=285}
-[00:59:18] [c2me-worker-3/ERROR]: Block-attached entity at invalid position: class_2338{x=584, y=-59, z=285}
-[00:59:18] [c2me-worker-3/ERROR]: Block-attached entity at invalid position: class_2338{x=582, y=-60, z=284}
-[00:59:20] [c2me-worker-7/ERROR]: Block-attached entity at invalid position: class_2338{x=371, y=-59, z=320}
-[00:59:20] [c2me-worker-7/ERROR]: Block-attached entity at invalid position: class_2338{x=371, y=-59, z=320}
-[00:59:20] [c2me-worker-7/ERROR]: Block-attached entity at invalid position: class_2338{x=371, y=-59, z=320}
-[00:59:23] [c2me-worker-3/ERROR]: Block-attached entity at invalid position: class_2338{x=351, y=-59, z=281}
-[00:59:23] [c2me-worker-3/ERROR]: Block-attached entity at invalid position: class_2338{x=347, y=-59, z=281}
-[00:59:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[01:00:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[01:07:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2599ms or 51 ticks behind
-[01:08:25] [c2me-worker-1/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[01:08:25] [c2me-worker-1/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[01:08:26] [c2me-worker-1/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[01:08:26] [c2me-worker-1/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[01:08:26] [c2me-worker-1/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[01:08:26] [c2me-worker-1/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[01:08:26] [c2me-worker-1/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[01:08:26] [c2me-worker-1/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[01:08:26] [c2me-worker-1/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[01:08:26] [c2me-worker-1/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[01:09:27] [c2me-worker-9/ERROR]: Block-attached entity at invalid position: class_2338{x=371, y=-59, z=320}
-[01:09:29] [c2me-worker-6/ERROR]: Block-attached entity at invalid position: class_2338{x=351, y=-59, z=281}
-[01:09:29] [c2me-worker-6/ERROR]: Block-attached entity at invalid position: class_2338{x=347, y=-59, z=281}
-[01:09:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[01:10:21] [Server thread/INFO]: RayWolford79 lost connection: Disconnected
-[01:10:21] [Server thread/INFO]: RayWolford79 left the game
-[01:12:22] [Server thread/INFO]: RayWolford79[/100.109.194.2:5790] logged in with entity id 430230 at (4079.0705225621923, 66.0, -209.7914227009286)
-[01:12:22] [Server thread/INFO]: Loading config from file...
-[01:12:22] [Server thread/INFO]: RayWolford79 joined the game
-[01:12:22] [Server thread/INFO]: Player RayWolford79 joined with a matching carpet client
-[01:12:26] [Server thread/INFO]: RayWolford79 lost connection: Disconnected
-[01:12:26] [Server thread/INFO]: RayWolford79 left the game
-[01:14:18] [Server thread/INFO]: RayWolford79[/100.109.194.2:5833] logged in with entity id 432799 at (4079.0705225621923, 66.0, -209.7914227009286)
-[01:14:18] [Server thread/INFO]: Loading config from file...
-[01:14:18] [Server thread/INFO]: RayWolford79 joined the game
-[01:14:19] [Server thread/INFO]: Player RayWolford79 joined with a matching carpet client
-[01:18:28] [Server thread/INFO]: Storyseek3r has made the advancement [Light as a Rabbit]
-[01:18:31] [Server thread/INFO]: RayWolford79 has made the advancement [Light as a Rabbit]
-[01:19:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[01:19:28] [c2me-worker-5/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[01:19:28] [c2me-worker-5/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[01:19:29] [c2me-worker-5/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[01:19:29] [c2me-worker-5/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[01:19:29] [c2me-worker-5/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[01:19:29] [c2me-worker-5/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[01:19:29] [c2me-worker-5/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[01:19:29] [c2me-worker-5/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[01:19:29] [c2me-worker-5/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[01:19:29] [c2me-worker-5/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[01:19:29] [c2me-worker-5/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[01:19:29] [c2me-worker-5/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[01:19:29] [c2me-worker-5/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[01:19:29] [c2me-worker-5/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[01:19:29] [c2me-worker-5/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[01:19:29] [c2me-worker-5/WARN]: Couldn't find template pool reference: minecraft:village/empty
-[01:20:17] [Server thread/INFO]: umaaaaaq[/100.124.143.21:58684] logged in with entity id 442849 at (118.20597116969219, 76.5625, -2674.5725307580624)
-[01:20:17] [Server thread/INFO]: Loading config from file...
-[01:20:17] [Server thread/INFO]: umaaaaaq joined the game
-[01:20:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[01:20:22] [Server thread/INFO]: Villager class_1646['Leatherworker'/443374, l='ServerLevel[world]', x=80.81, y=72.00, z=-2638.97] died, message: 'Leatherworker was slain by Zombie'
-[01:20:41] [Server thread/INFO]: Villager class_1646['Farmer'/442877, l='ServerLevel[world]', x=119.88, y=72.00, z=-2668.95] died, message: 'Farmer was slain by Zombie'
-[01:20:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4454ms or 89 ticks behind
-[01:20:44] [Server thread/INFO]: Villager class_1646['Weaponsmith'/442855, l='ServerLevel[world]', x=122.72, y=72.00, z=-2666.68] died, message: 'Weaponsmith was slain by Zombie'
-[01:20:46] [Server thread/INFO]: Villager class_1646['Toolsmith'/442857, l='ServerLevel[world]', x=117.65, y=72.00, z=-2663.21] died, message: 'Toolsmith was slain by Zombie'
-[01:21:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3306ms or 66 ticks behind
-[01:21:18] [Server thread/INFO]: umaaaaaq lost connection: Disconnected
-[01:21:18] [Server thread/INFO]: umaaaaaq left the game
-[01:21:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4228ms or 84 ticks behind
-[01:27:23] [Server thread/INFO]: RayWolford79 lost connection: Disconnected
-[01:27:23] [Server thread/INFO]: RayWolford79 left the game
-[01:27:27] [Server thread/INFO]: Storyseek3r lost connection: Disconnected
-[01:27:27] [Server thread/INFO]: Storyseek3r left the game
-[01:28:27] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[01:43:56] [Server thread/INFO]: Stopping server
-[01:43:56] [Server thread/INFO]: Saving players
-[01:43:56] [Server thread/INFO]: Saving worlds
-[01:43:56] [Server thread/INFO]: ServerLevel[world]/minecraft:overworld: waiting for 841 chunks to unload
-[01:43:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:43:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:43:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:43:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:43:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:43:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:43:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[01:43:57] [C2ME Storage #3/INFO]: Storage thread Thread[#112,C2ME Storage #3,8,main] stopped
-[01:43:57] [C2ME Storage #2/INFO]: Storage thread Thread[#111,C2ME Storage #2,8,main] stopped
-[01:43:57] [C2ME Storage #1/INFO]: Storage thread Thread[#110,C2ME Storage #1,8,main] stopped
-[01:43:57] [C2ME Storage #5/INFO]: Storage thread Thread[#123,C2ME Storage #5,8,main] stopped
-[01:43:57] [C2ME Storage #4/INFO]: Storage thread Thread[#122,C2ME Storage #4,8,main] stopped
-[01:43:57] [C2ME Storage #6/INFO]: Storage thread Thread[#124,C2ME Storage #6,8,main] stopped
-[01:43:57] [C2ME Storage #8/INFO]: Storage thread Thread[#126,C2ME Storage #8,8,main] stopped
-[01:43:57] [C2ME Storage #7/INFO]: Storage thread Thread[#125,C2ME Storage #7,8,main] stopped
-[01:43:57] [C2ME Storage #9/INFO]: Storage thread Thread[#129,C2ME Storage #9,8,main] stopped
-[01:43:57] [Server thread/INFO]: Thread RCON Listener stopped
-[01:43:57] [RCON Client /100.102.22.51 #4/INFO]: Thread RCON Client /100.102.22.51 shutting down
-[01:43:57] [Server thread/INFO]: Thread RCON Client /100.102.22.51 stopped
-[01:43:57] [RCON Client /100.102.22.51 #20/INFO]: Thread RCON Client /100.102.22.51 shutting down
-[01:43:57] [Server thread/INFO]: Thread RCON Client /100.102.22.51 stopped
+[22:52:30] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.17.2
+[22:52:31] [main/WARN]: Warnings were found!
+ - Mod 'Debugify' (debugify) 1.21.8+1.0 recommends any version of yet_another_config_lib_v3, which is missing!
+	 - You should install any version of yet_another_config_lib_v3 for the optimal experience.
+ - Mod 'Debugify' (debugify) 1.21.8+1.0 recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+ - Mod 'Forge Config API Port' (forgeconfigapiport) 21.8.0 recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+[22:52:31] [main/INFO]: Loading 132 mods:
+	- architectury 17.0.8
+	- armor_3d 0.9.0
+	- biomesoplenty 21.8.0.8
+	   \-- net_jodah_typetools 0.6.3
+	- c2me 0.3.4.0.0+1.21.8
+	   |-- c2me-base 0.3.4.0.0+1.21.8
+	   |-- c2me-client-uncapvd 0.3.4.0.0+1.21.8
+	   |-- c2me-fixes-chunkio-threading-issues 0.3.4.0.0+1.21.8
+	   |-- c2me-fixes-general-threading-issues 0.3.4.0.0+1.21.8
+	   |-- c2me-fixes-worldgen-threading-issues 0.3.4.0.0+1.21.8
+	   |-- c2me-fixes-worldgen-vanilla-bugs 0.3.4.0.0+1.21.8
+	   |-- c2me-notickvd 0.3.4.0.0+1.21.8
+	   |-- c2me-opts-allocs 0.3.4.0.0+1.21.8
+	   |-- c2me-opts-chunkio 0.3.4.0.0+1.21.8
+	   |-- c2me-opts-dfc 0.3.4.0.0+1.21.8
+	   |-- c2me-opts-math 0.3.4.0.0+1.21.8
+	   |-- c2me-opts-scheduling 0.3.4.0.0+1.21.8
+	   |-- c2me-opts-worldgen-general 0.3.4.0.0+1.21.8
+	   |-- c2me-opts-worldgen-vanilla 0.3.4.0.0+1.21.8
+	   |-- c2me-rewrites-chunk-serializer 0.3.4.0.0+1.21.8
+	   |-- c2me-rewrites-chunk-system 0.3.4.0.0+1.21.8
+	   |-- c2me-rewrites-chunkio 0.3.4.0.0+1.21.8
+	   |-- c2me-server-utils 0.3.4.0.0+1.21.8
+	   |-- c2me-threading-lighting 0.3.4.0.0+1.21.8
+	   |-- com_ibm_async_asyncutil 0.1.0
+	   |-- io_reactivex_rxjava3_rxjava 3.1.8
+	   |-- mixinsquared 0.2.0-beta.6
+	   |-- net_objecthunter_exp4j 0.4.8
+	   |-- org_jctools_jctools-core 4.0.5
+	   \-- org_reactivestreams_reactive-streams 1.0.4
+	- cardinal-components 7.0.0-beta.1
+	   |-- cardinal-components-base 7.0.0-beta.1
+	   |-- cardinal-components-block 7.0.0-beta.1
+	   |-- cardinal-components-chunk 7.0.0-beta.1
+	   |-- cardinal-components-entity 7.0.0-beta.1
+	   |-- cardinal-components-item 7.0.0-beta.1
+	   |-- cardinal-components-level 7.0.0-beta.1
+	   |-- cardinal-components-scoreboard 7.0.0-beta.1
+	   \-- cardinal-components-world 7.0.0-beta.1
+	- carpet 1.4.177+v250630
+	- carpet-tis-addition 1.67.4
+	   \-- conditional-mixin 0.6.4
+	- cicada 0.14.2+1.21.6-and-above
+	   \-- org_yaml_snakeyaml 2.2
+	- cloth-config 19.0.147
+	   \-- cloth-basic-math 0.6.1
+	- collective 8.4
+	- continents 1.1.10
+	- cristellib 2.0.3
+	   \-- blue_endless_jankson 1.2.3
+	- debugify 1.21.8+1.0
+	- entityculling 1.8.2
+	- eternalnether 21.8.1
+	- fabric-api 0.131.0+1.21.8
+	   |-- fabric-api-base 0.5.0+cd8c0daa2c
+	   |-- fabric-api-lookup-api-v1 1.6.101+946bf4c32c
+	   |-- fabric-biome-api-v1 16.0.11+946bf4c32c
+	   |-- fabric-block-api-v1 1.1.3+946bf4c32c
+	   |-- fabric-block-view-api-v2 1.0.31+946bf4c32c
+	   |-- fabric-command-api-v2 2.3.1+52fff9ec2c
+	   |-- fabric-content-registries-v0 10.0.19+946bf4c32c
+	   |-- fabric-convention-tags-v1 2.1.41+7f945d5b2c
+	   |-- fabric-convention-tags-v2 2.15.6+eb5df52f2c
+	   |-- fabric-crash-report-info-v1 0.3.15+946bf4c32c
+	   |-- fabric-data-attachment-api-v1 1.8.11+946bf4c32c
+	   |-- fabric-data-generation-api-v1 23.2.6+0b1ef9762c
+	   |-- fabric-dimensions-v1 4.0.19+946bf4c32c
+	   |-- fabric-entity-events-v1 2.1.2+c9e472732c
+	   |-- fabric-events-interaction-v0 4.0.24+946bf4c32c
+	   |-- fabric-game-rule-api-v1 1.0.73+c64c9c5b2c
+	   |-- fabric-item-api-v1 11.5.0+02ce13f42c
+	   |-- fabric-item-group-api-v1 4.2.14+c5f9bbc12c
+	   |-- fabric-key-binding-api-v1 1.0.65+946bf4c32c
+	   |-- fabric-lifecycle-events-v1 2.6.4+db4dfd852c
+	   |-- fabric-loot-api-v2 3.0.56+3f89f5a52c
+	   |-- fabric-loot-api-v3 2.0.3+946bf4c32c
+	   |-- fabric-message-api-v1 6.1.2+946bf4c32c
+	   |-- fabric-model-loading-api-v1 5.2.6+946bf4c32c
+	   |-- fabric-networking-api-v1 5.0.2+946bf4c32c
+	   |-- fabric-object-builder-api-v1 21.1.8+946bf4c32c
+	   |-- fabric-particles-v1 4.1.8+946bf4c32c
+	   |-- fabric-recipe-api-v1 8.1.15+946bf4c32c
+	   |-- fabric-registry-sync-v0 6.1.28+946bf4c32c
+	   |-- fabric-renderer-api-v1 7.0.3+208eed172c
+	   |-- fabric-renderer-indigo 4.0.3+946bf4c32c
+	   |-- fabric-rendering-fluids-v1 3.1.31+fa6cb72b2c
+	   |-- fabric-rendering-v1 12.5.0+fbe231d52c
+	   |-- fabric-resource-conditions-api-v1 5.0.25+98e6d6db2c
+	   |-- fabric-resource-loader-v0 3.1.12+020423442c
+	   |-- fabric-screen-api-v1 2.1.1+277ecf7d2c
+	   |-- fabric-screen-handler-api-v1 1.3.137+946bf4c32c
+	   |-- fabric-sound-api-v1 1.0.42+946bf4c32c
+	   |-- fabric-tag-api-v1 1.2.2+946bf4c32c
+	   |-- fabric-transfer-api-v1 6.0.6+946bf4c32c
+	   \-- fabric-transitive-access-wideners-v1 6.4.1+ac3e15d12c
+	- fabric-language-kotlin 1.13.4+kotlin.2.2.0
+	   |-- org_jetbrains_kotlin_kotlin-reflect 2.2.0
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.2.0
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.2.0
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.2.0
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.28.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.10.2
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.10.2
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.6.2
+	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.7.0
+	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.7.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.8.1
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.8.1
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.8.1
+	- fabricloader 0.17.2
+	   \-- mixinextras 0.5.0
+	- ferritecore 8.0.0
+	- forgeconfigapiport 21.8.0
+	   |-- com_electronwill_night-config_core 3.8.2
+	   \-- com_electronwill_night-config_toml 3.8.2
+	- glitchcore 21.8.0.0
+	   \-- net_jodah_typetools 0.6.3
+	- java 21
+	- journeymap 1.21.7-6.0.0-beta.53
+	   |-- ar_com_hjg_pngj 2.1.0
+	   |-- commonnetworking 1.0.21-1.21.7
+	   \-- journeymap-api-fabric 2.0.0-1.21.7-SNAPSHOT
+	- lithium 0.18.0+mc1.21.8
+	- lithostitched 1.4.11
+	- minecraft 1.21.8
+	- mr_vanilla_structureupdate 1-v2.5
+	- mss 1.3.6-1.21.8-fabric
+	- mvs 4.4.6-1.21.8-fabric
+	- nullscape 1.2.13
+	- puzzleslib 21.8.6
+	- sereneseasons 21.8.0.0
+	   \-- net_jodah_typetools 0.6.3
+	- skinlayers3d 1.9.0
+	   |-- transition 1.0.4
+	   \-- trender 1.0.6
+	- t_and_t 1.13.5
+	- tectonic 3.0.12
+	- terrablender 6.0.0.3
+	- toughasnails 21.8.0.0
+	   \-- net_jodah_typetools 0.6.3
+	- travelersbackpack 10.8.1
+	- treeharvester 9.2
+	- weaponmod 1.24.2
+[22:52:31] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/adamh/Downloads/DaBoyz2/DaBoyz2/libraries/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[22:52:32] [main/INFO]: Compatibility level set to JAVA_16
+[22:52:32] [main/INFO]: Compatibility level set to JAVA_17
+[22:52:32] [main/INFO]: Compatibility level set to JAVA_21
+[22:52:32] [main/INFO]: Initializing com.ishland.c2me.base.mixin
+[22:52:32] [main/INFO]: Global Executor Parallelism: 10 configured, 10 evaluated, 10 default evaluated
+[22:52:32] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
+[22:52:32] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
+[22:52:32] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
+[22:52:32] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
+[22:52:32] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
+[22:52:32] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
+[22:52:32] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
+[22:52:32] [main/INFO]: Initializing com.ishland.c2me.opts.dfc.mixin
+[22:52:32] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
+[22:52:32] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
+[22:52:32] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
+[22:52:32] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
+[22:52:32] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
+[22:52:32] [main/INFO]: Disabling config ioSystem.gcFreeChunkSerializer: Incompatible with architectury@17.0.8 (*) (defined in c2me)
+[22:52:32] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
+[22:52:32] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunksystem.mixin
+[22:52:32] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
+[22:52:32] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
+[22:52:32] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
+[22:52:32] [main/WARN]: Reference map 'cristellib-common-common-refmap.json' for cristellib-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:52:32] [main/WARN]: Reference map 'eternalnether.fabric.refmap.json' for eternalnether.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:52:32] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:52:32] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:52:32] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:52:32] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
+[22:52:32] [main/INFO]: Loaded configuration file for Lithium: 160 options available, 0 override(s) found.
+[22:52:33] [main/WARN]: Error loading class: ca/spottedleaf/starlight/common/thread/SchedulingUtil (java.lang.ClassNotFoundException: ca/spottedleaf/starlight/common/thread/SchedulingUtil)
+[22:52:33] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
+[22:52:34] [main/WARN]: Error loading class: net/minecraft/class_938 (java.lang.ClassNotFoundException: net/minecraft/class_938)
+[22:52:34] [main/WARN]: @Mixin target net.minecraft.class_938 was not found journeymap.mixins.json:client.SalmonRendererInvoker from mod journeymap
+[22:52:35] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[22:52:35] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+[22:52:43] [main/WARN]: Method overwrite conflict for getClimateSettings in architectury.mixins.json:BiomeAccessor from mod architectury, previously written by carpet.mixins.Biome_scarpetMixin. Skipping method.
+[22:52:53] [main/INFO]: Loading Collective version 8.4.
+[22:52:53] [main/INFO]: Enabled 58 bug fixes: [MC-2025, MC-7569, MC-8187, MC-30391, MC-69216, MC-82263, MC-84661, MC-88371, MC-89146, MC-93018, MC-94054, MC-100991, MC-119417, MC-119754, MC-121706, MC-121903, MC-123450, MC-123605, MC-129909, MC-132878, MC-134110, MC-136249, MC-139041, MC-147659, MC-147784, MC-155509, MC-159283, MC-160095, MC-168573, MC-170462, MC-176806, MC-177831, MC-179072, MC-183990, MC-187100, MC-199467, MC-200418, MC-201374, MC-202637, MC-206922, MC-215530, MC-219981, MC-221257, MC-223153, MC-224729, MC-226961, MC-227008, MC-227337, MC-231743, MC-232869, MC-245394, MC-267125, MC-268617, MC-271899, MC-272431, MC-297837, MC-298066, MC-299115]
+[22:52:53] [main/INFO]: Successfully Debugify'd your game!
+[22:52:53] [main/INFO]: Constructing components for eternalnether:common
+[22:52:53] [TISCM Mapping/INFO]: Yarn mapping file yarn-1.21.8+build.1-v2.tiny loaded
+[22:52:54] [Cicada thread 0/INFO]: [cicada] Hello, anyone there?
+[22:52:54] [main/INFO]: Registered synced config with path sereneseasons/fertility.toml
+[22:52:54] [main/INFO]: Registered synced config with path sereneseasons/seasons.toml
+[22:52:54] [main/INFO]: Registered synced config with path toughasnails/thirst.toml
+[22:52:54] [main/INFO]: Registered synced config with path toughasnails/temperature.toml
+[22:52:54] [main/INFO]: Serene Seasons detected. Enabling season modifier.
+[22:52:55] [main/INFO]: Initializing ServerSide Packet Registries
+[22:52:55] [main/INFO]: Constructing components for puzzleslib:common
+[22:52:55] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[22:52:55] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[22:52:55] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[22:52:55] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[22:52:55] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[22:52:55] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[22:52:55] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[22:52:56] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[22:52:56] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[22:52:56] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[22:52:56] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
+[22:52:56] [main/INFO]: Registered the FluidEffect with Unique ID of toughasnails:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 4
+[22:52:56] [main/INFO]: Registered the FluidEffect with Unique ID of toughasnails:water_canteen for Water (Fluid Amount Required: 200) with the ID 5
+[22:52:56] [main/INFO]: Registered the FluidEffect with Unique ID of toughasnails:water for Water (Fluid Amount Required: 81000) with the ID 6
+[22:52:56] [main/INFO]: Registering C2S receiver with id weaponmod:cannon_fire
+[22:52:57] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:53:03] [main/INFO]: Loaded 2031 recipes
+[22:53:03] [main/INFO]: Loaded 2142 advancements
+[22:53:04] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[22:53:04] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[22:53:05] [main/INFO]: Applied 1 biome modifications to 1 of 136 new biomes in 24.09 ms
+[22:53:05] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[22:53:05] [Server thread/INFO]: Loading properties
+[22:53:05] [Server thread/INFO]: Default game type: SURVIVAL
+[22:53:05] [Server thread/ERROR]: Encountered an unexpected exception
+java.net.UnknownHostException: No such host is known (100.121.112.67w)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method) ~[?:?]
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Inet6AddressImpl.java:52) ~[?:?]
+	at java.base/java.net.InetAddress$PlatformResolver.lookupByName(InetAddress.java:1211) ~[?:?]
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1828) ~[?:?]
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:1139) ~[?:?]
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1818) ~[?:?]
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1688) ~[?:?]
+	at java.base/java.net.InetAddress.getByName(InetAddress.java:1568) ~[?:?]
+	at knot/net.minecraft.class_3176.method_3823(class_3176.java:142) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:672) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[22:53:05] [Server thread/ERROR]: This crash report has been saved to: C:\Users\adamh\Downloads\DaBoyz2\DaBoyz2\crash-reports\crash-2025-09-19_22.53.05-server.txt
+[22:53:05] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
+[22:53:05] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@259e9b7a for service interface journeymap.api.services.ClientPlatformService
+[22:53:05] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@69bc1899 for service interface journeymap.api.services.CommonPlatformService
+[22:53:05] [Server thread/INFO]: Stopping server
+[22:53:05] [Server thread/INFO]: Saving worlds
+[22:53:05] [Server thread/ERROR]: Exception stopping the server
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_3218.method_8621()" because "$$5" is null
+	at knot/net.minecraft.server.MinecraftServer.method_3723(MinecraftServer.java:569) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_3782(MinecraftServer.java:628) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3176.method_3782(class_3176.java:543) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:748) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:291) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
