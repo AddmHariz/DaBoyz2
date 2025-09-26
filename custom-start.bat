@@ -3,7 +3,7 @@ setlocal
 
 echo.
 echo ============================================
-echo   Starting Fabric Server with 14 GB RAM
+echo   Starting Fabric Server with 14 GB RAM, 16 GB RAM MAX
 echo ============================================
 echo.
 
