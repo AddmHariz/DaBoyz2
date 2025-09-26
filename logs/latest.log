@@ -1,276 +1,256 @@
-[21:35:35] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.17.2
-[21:35:36] [main/WARN]: Warnings were found!
- - Mod 'Debugify' (debugify) 1.21.8+1.0 recommends any version of yet_another_config_lib_v3, which is missing!
-	 - You should install any version of yet_another_config_lib_v3 for the optimal experience.
- - Mod 'Debugify' (debugify) 1.21.8+1.0 recommends any version of modmenu, which is missing!
-	 - You should install any version of modmenu for the optimal experience.
- - Mod 'Forge Config API Port' (forgeconfigapiport) 21.8.0 recommends any version of modmenu, which is missing!
-	 - You should install any version of modmenu for the optimal experience.
-[21:35:36] [main/INFO]: Loading 135 mods:
-	- architectury 17.0.8
-	- armor_3d 0.9.0
-	- beltborne_lanterns 1.2.1
-	- biomesoplenty 21.8.0.8
-	   \-- net_jodah_typetools 0.6.3
-	- c2me 0.3.4.0.0+1.21.8
-	   |-- c2me-base 0.3.4.0.0+1.21.8
-	   |-- c2me-client-uncapvd 0.3.4.0.0+1.21.8
-	   |-- c2me-fixes-chunkio-threading-issues 0.3.4.0.0+1.21.8
-	   |-- c2me-fixes-general-threading-issues 0.3.4.0.0+1.21.8
-	   |-- c2me-fixes-worldgen-threading-issues 0.3.4.0.0+1.21.8
-	   |-- c2me-fixes-worldgen-vanilla-bugs 0.3.4.0.0+1.21.8
-	   |-- c2me-notickvd 0.3.4.0.0+1.21.8
-	   |-- c2me-opts-allocs 0.3.4.0.0+1.21.8
-	   |-- c2me-opts-chunkio 0.3.4.0.0+1.21.8
-	   |-- c2me-opts-dfc 0.3.4.0.0+1.21.8
-	   |-- c2me-opts-math 0.3.4.0.0+1.21.8
-	   |-- c2me-opts-scheduling 0.3.4.0.0+1.21.8
-	   |-- c2me-opts-worldgen-general 0.3.4.0.0+1.21.8
-	   |-- c2me-opts-worldgen-vanilla 0.3.4.0.0+1.21.8
-	   |-- c2me-rewrites-chunk-serializer 0.3.4.0.0+1.21.8
-	   |-- c2me-rewrites-chunk-system 0.3.4.0.0+1.21.8
-	   |-- c2me-rewrites-chunkio 0.3.4.0.0+1.21.8
-	   |-- c2me-server-utils 0.3.4.0.0+1.21.8
-	   |-- c2me-threading-lighting 0.3.4.0.0+1.21.8
-	   |-- com_ibm_async_asyncutil 0.1.0
-	   |-- io_reactivex_rxjava3_rxjava 3.1.8
-	   |-- mixinsquared 0.2.0-beta.6
-	   |-- net_objecthunter_exp4j 0.4.8
-	   |-- org_jctools_jctools-core 4.0.5
-	   \-- org_reactivestreams_reactive-streams 1.0.4
-	- cardinal-components 7.0.0-beta.1
-	   |-- cardinal-components-base 7.0.0-beta.1
-	   |-- cardinal-components-block 7.0.0-beta.1
-	   |-- cardinal-components-chunk 7.0.0-beta.1
-	   |-- cardinal-components-entity 7.0.0-beta.1
-	   |-- cardinal-components-item 7.0.0-beta.1
-	   |-- cardinal-components-level 7.0.0-beta.1
-	   |-- cardinal-components-scoreboard 7.0.0-beta.1
-	   \-- cardinal-components-world 7.0.0-beta.1
-	- carpet 1.4.177+v250630
-	- carpet-tis-addition 1.67.4
-	   \-- conditional-mixin 0.6.4
-	- cicada 0.14.2+1.21.6-and-above
-	   \-- org_yaml_snakeyaml 2.2
-	- cloth-config 19.0.147
-	   \-- cloth-basic-math 0.6.1
-	- collective 8.4
-	- continents 1.1.10
-	- cristellib 2.0.3
-	   \-- blue_endless_jankson 1.2.3
-	- debugify 1.21.8+1.0
-	- entityculling 1.8.2
-	- eternalnether 21.8.1
-	- fabric-api 0.131.0+1.21.8
-	   |-- fabric-api-base 0.5.0+cd8c0daa2c
-	   |-- fabric-api-lookup-api-v1 1.6.101+946bf4c32c
-	   |-- fabric-biome-api-v1 16.0.11+946bf4c32c
-	   |-- fabric-block-api-v1 1.1.3+946bf4c32c
-	   |-- fabric-block-view-api-v2 1.0.31+946bf4c32c
-	   |-- fabric-command-api-v2 2.3.1+52fff9ec2c
-	   |-- fabric-content-registries-v0 10.0.19+946bf4c32c
-	   |-- fabric-convention-tags-v1 2.1.41+7f945d5b2c
-	   |-- fabric-convention-tags-v2 2.15.6+eb5df52f2c
-	   |-- fabric-crash-report-info-v1 0.3.15+946bf4c32c
-	   |-- fabric-data-attachment-api-v1 1.8.11+946bf4c32c
-	   |-- fabric-data-generation-api-v1 23.2.6+0b1ef9762c
-	   |-- fabric-dimensions-v1 4.0.19+946bf4c32c
-	   |-- fabric-entity-events-v1 2.1.2+c9e472732c
-	   |-- fabric-events-interaction-v0 4.0.24+946bf4c32c
-	   |-- fabric-game-rule-api-v1 1.0.73+c64c9c5b2c
-	   |-- fabric-item-api-v1 11.5.0+02ce13f42c
-	   |-- fabric-item-group-api-v1 4.2.14+c5f9bbc12c
-	   |-- fabric-key-binding-api-v1 1.0.65+946bf4c32c
-	   |-- fabric-lifecycle-events-v1 2.6.4+db4dfd852c
-	   |-- fabric-loot-api-v2 3.0.56+3f89f5a52c
-	   |-- fabric-loot-api-v3 2.0.3+946bf4c32c
-	   |-- fabric-message-api-v1 6.1.2+946bf4c32c
-	   |-- fabric-model-loading-api-v1 5.2.6+946bf4c32c
-	   |-- fabric-networking-api-v1 5.0.2+946bf4c32c
-	   |-- fabric-object-builder-api-v1 21.1.8+946bf4c32c
-	   |-- fabric-particles-v1 4.1.8+946bf4c32c
-	   |-- fabric-recipe-api-v1 8.1.15+946bf4c32c
-	   |-- fabric-registry-sync-v0 6.1.28+946bf4c32c
-	   |-- fabric-renderer-api-v1 7.0.3+208eed172c
-	   |-- fabric-renderer-indigo 4.0.3+946bf4c32c
-	   |-- fabric-rendering-fluids-v1 3.1.31+fa6cb72b2c
-	   |-- fabric-rendering-v1 12.5.0+fbe231d52c
-	   |-- fabric-resource-conditions-api-v1 5.0.25+98e6d6db2c
-	   |-- fabric-resource-loader-v0 3.1.12+020423442c
-	   |-- fabric-screen-api-v1 2.1.1+277ecf7d2c
-	   |-- fabric-screen-handler-api-v1 1.3.137+946bf4c32c
-	   |-- fabric-sound-api-v1 1.0.42+946bf4c32c
-	   |-- fabric-tag-api-v1 1.2.2+946bf4c32c
-	   |-- fabric-transfer-api-v1 6.0.6+946bf4c32c
-	   \-- fabric-transitive-access-wideners-v1 6.4.1+ac3e15d12c
-	- fabric-language-kotlin 1.13.4+kotlin.2.2.0
-	   |-- org_jetbrains_kotlin_kotlin-reflect 2.2.0
-	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.2.0
-	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.2.0
-	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.2.0
-	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.28.0
-	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.10.2
-	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.10.2
-	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.6.2
-	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.7.0
-	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.7.0
-	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.8.1
-	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.8.1
-	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.8.1
-	- fabricloader 0.17.2
-	   \-- mixinextras 0.5.0
-	- ferritecore 8.0.0
-	- forgeconfigapiport 21.8.0
-	   |-- com_electronwill_night-config_core 3.8.2
-	   \-- com_electronwill_night-config_toml 3.8.2
-	- glitchcore 21.8.0.0
-	   \-- net_jodah_typetools 0.6.3
-	- java 21
-	- journeymap 1.21.7-6.0.0-beta.53
-	   |-- ar_com_hjg_pngj 2.1.0
-	   |-- commonnetworking 1.0.21-1.21.7
-	   \-- journeymap-api-fabric 2.0.0-1.21.7-SNAPSHOT
-	- lithium 0.18.0+mc1.21.8
-	- lithostitched 1.4.11
-	- minecraft 1.21.8
-	- mr_vanilla_structureupdate 1-v2.5
-	- mss 1.3.6-1.21.8-fabric
-	- mvs 4.4.6-1.21.8-fabric
-	- nullscape 1.2.13
-	- puzzleslib 21.8.6
-	- sereneseasons 21.8.0.0
-	   \-- net_jodah_typetools 0.6.3
-	- skinlayers3d 1.9.0
-	   |-- transition 1.0.4
-	   \-- trender 1.0.6
-	- skinrestorer 2.4.3+1.21.6-fabric
-	   \-- org_mineskin_java-client 3.0.6-SNAPSHOT
-	- t_and_t 1.13.5
-	- tectonic 3.0.12
-	- terrablender 6.0.0.3
-	- toughasnails 21.8.0.0
-	   \-- net_jodah_typetools 0.6.3
-	- travelersbackpack 10.8.1
-	- treeharvester 9.2
-	- weaponmod 1.24.2
-[21:35:36] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/adamh/Downloads/DaBoyz2/DaBoyz2/libraries/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[21:35:37] [main/INFO]: Compatibility level set to JAVA_16
-[21:35:37] [main/INFO]: Compatibility level set to JAVA_21
-[21:35:37] [main/INFO]: Initializing com.ishland.c2me.base.mixin
-[21:35:37] [main/INFO]: Global Executor Parallelism: 10 configured, 10 evaluated, 10 default evaluated
-[21:35:37] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
-[21:35:37] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
-[21:35:37] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
-[21:35:37] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
-[21:35:37] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
-[21:35:37] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
-[21:35:37] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
-[21:35:37] [main/INFO]: Initializing com.ishland.c2me.opts.dfc.mixin
-[21:35:37] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
-[21:35:37] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
-[21:35:37] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
-[21:35:37] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
-[21:35:37] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
-[21:35:37] [main/INFO]: Disabling config ioSystem.gcFreeChunkSerializer: Incompatible with architectury@17.0.8 (*) (defined in c2me)
-[21:35:37] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
-[21:35:37] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunksystem.mixin
-[21:35:38] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
-[21:35:38] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
-[21:35:38] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
-[21:35:38] [main/WARN]: Reference map 'cristellib-common-common-refmap.json' for cristellib-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[21:35:38] [main/WARN]: Reference map 'eternalnether.fabric.refmap.json' for eternalnether.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[21:35:38] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[21:35:38] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.mixins.json could not be read. If this is a development environment you can ignore this message
-[21:35:38] [main/WARN]: Reference map 'journeymap-refmap.json' for journeymap.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[21:35:38] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
-[21:35:38] [main/INFO]: Loaded configuration file for Lithium: 160 options available, 0 override(s) found.
-[21:35:39] [main/WARN]: Error loading class: ca/spottedleaf/starlight/common/thread/SchedulingUtil (java.lang.ClassNotFoundException: ca/spottedleaf/starlight/common/thread/SchedulingUtil)
-[21:35:39] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
-[21:35:40] [main/WARN]: Error loading class: net/minecraft/class_938 (java.lang.ClassNotFoundException: net/minecraft/class_938)
-[21:35:40] [main/WARN]: @Mixin target net.minecraft.class_938 was not found journeymap.mixins.json:client.SalmonRendererInvoker from mod journeymap
-[21:35:42] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
-[21:35:42] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
-[21:35:55] [main/WARN]: Method overwrite conflict for getClimateSettings in architectury.mixins.json:BiomeAccessor from mod architectury, previously written by carpet.mixins.Biome_scarpetMixin. Skipping method.
-[21:36:06] [main/INFO]: Initializing v1.2.1 [Fabric]
-[21:36:06] [main/INFO]: Loading Collective version 8.4.
-[21:36:06] [main/INFO]: Enabled 58 bug fixes: [MC-2025, MC-7569, MC-8187, MC-30391, MC-69216, MC-82263, MC-84661, MC-88371, MC-89146, MC-93018, MC-94054, MC-100991, MC-119417, MC-119754, MC-121706, MC-121903, MC-123450, MC-123605, MC-129909, MC-132878, MC-134110, MC-136249, MC-139041, MC-147659, MC-147784, MC-155509, MC-159283, MC-160095, MC-168573, MC-170462, MC-176806, MC-177831, MC-179072, MC-183990, MC-187100, MC-199467, MC-200418, MC-201374, MC-202637, MC-206922, MC-215530, MC-219981, MC-221257, MC-223153, MC-224729, MC-226961, MC-227008, MC-227337, MC-231743, MC-232869, MC-245394, MC-267125, MC-268617, MC-271899, MC-272431, MC-297837, MC-298066, MC-299115]
-[21:36:06] [main/INFO]: Successfully Debugify'd your game!
-[21:36:06] [main/INFO]: Constructing components for eternalnether:common
-[21:36:06] [TISCM Mapping/INFO]: Yarn mapping file yarn-1.21.8+build.1-v2.tiny loaded
-[21:36:07] [main/INFO]: Registered synced config with path sereneseasons/fertility.toml
-[21:36:07] [main/INFO]: Registered synced config with path sereneseasons/seasons.toml
-[21:36:07] [main/INFO]: Registered synced config with path toughasnails/thirst.toml
-[21:36:07] [main/INFO]: Registered synced config with path toughasnails/temperature.toml
-[21:36:07] [main/INFO]: Serene Seasons detected. Enabling season modifier.
-[21:36:08] [main/INFO]: Initializing ServerSide Packet Registries
-[21:36:08] [main/INFO]: Constructing components for puzzleslib:common
-[21:36:08] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[21:36:08] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
-[21:36:08] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[21:36:08] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[21:36:08] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[21:36:08] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[21:36:08] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[21:36:08] [Cicada thread 0/INFO]: 'ban yourself'
-[21:36:08] [Cicada thread 0/INFO]: 'uwu'
-[21:36:08] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
-[21:36:08] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
-[21:36:08] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
-[21:36:08] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
-[21:36:08] [main/INFO]: Registered the FluidEffect with Unique ID of toughasnails:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 4
-[21:36:08] [main/INFO]: Registered the FluidEffect with Unique ID of toughasnails:water_canteen for Water (Fluid Amount Required: 200) with the ID 5
-[21:36:08] [main/INFO]: Registered the FluidEffect with Unique ID of toughasnails:water for Water (Fluid Amount Required: 81000) with the ID 6
-[21:36:09] [main/INFO]: Registering C2S receiver with id weaponmod:cannon_fire
-[21:36:09] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:36:14] [main/INFO]: Loaded 2031 recipes
-[21:36:14] [main/INFO]: Loaded 2142 advancements
-[21:36:15] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[21:36:16] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[21:36:16] [main/INFO]: Applied 1 biome modifications to 1 of 136 new biomes in 21.10 ms
-[21:36:16] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[21:36:16] [Server thread/INFO]: Loading properties
-[21:36:16] [Server thread/INFO]: Default game type: SURVIVAL
-[21:36:16] [Server thread/INFO]: Generating keypair
-[21:36:16] [Server thread/INFO]: Starting Minecraft server on 100.121.112.67:25565
-[21:36:16] [Server thread/INFO]: Using default channel type
-[21:36:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:36:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:36:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:36:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:36:16] [Server thread/INFO]: Preparing level "world"
-[21:36:16] [Server thread/INFO]: Enforcing safe world random access
-[21:36:18] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 1.482 s
-[21:36:18] [Server thread/INFO]: Using TheSpeedyObjectFactory with Unsafe
-[21:36:19] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 34.63 ms
-[21:36:20] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 701.9 ms
-[21:36:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:36:24] [c2me-worker-1/INFO]: Preparing spawn area: 0%
-[21:36:24] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[21:36:24] [c2me-worker-3/INFO]: Preparing spawn area: 0%
-[21:36:24] [c2me-worker-7/INFO]: Preparing spawn area: 0%
-[21:36:24] [c2me-worker-1/INFO]: Preparing spawn area: 0%
-[21:36:24] [c2me-worker-7/INFO]: Preparing spawn area: 0%
-[21:36:24] [c2me-worker-3/INFO]: Preparing spawn area: 0%
-[21:36:24] [c2me-worker-0/INFO]: Preparing spawn area: 0%
-[21:36:24] [c2me-worker-2/INFO]: Preparing spawn area: 0%
-[21:36:24] [c2me-worker-1/INFO]: Preparing spawn area: 0%
-[21:36:24] [c2me-worker-7/INFO]: Preparing spawn area: 0%
-[21:36:24] [c2me-worker-3/INFO]: Preparing spawn area: 0%
-[21:36:25] [Server thread/INFO]: Preparing spawn area: 4%
-[21:36:25] [Server thread/INFO]: Time elapsed: 5647 ms
-[21:36:26] [Server thread/INFO]: Done (9.559s)! For help, type "help"
-[21:36:26] [Server thread/INFO]: Starting remote control listener
-[21:36:26] [Server thread/INFO]: Thread RCON Listener started
-[21:36:26] [Server thread/INFO]: RCON running on 100.121.112.67:25575
-[21:36:26] [Server thread/INFO]: Lamp registry ready: 2 items (2 builtin, 0 extra)
-[21:36:26] [Server thread/INFO]: Loaded null for service interface journeymap.api.services.WebMapService
-[21:36:26] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricClientHooks@419642fa for service interface journeymap.api.services.ClientPlatformService
-[21:36:26] [Server thread/INFO]: Loaded journeymap.common.helpers.FabricHooks@72beae1a for service interface journeymap.api.services.CommonPlatformService
-[21:37:26] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[21:37:53] [Server thread/INFO]: Storyseek3r[/100.121.112.67:43977] logged in with entity id 3 at (7880.699999988079, 62.0, 2294.300000011921)
-[21:37:53] [Server thread/INFO]: Loading config from file...
-[21:37:54] [Server thread/INFO]: Storyseek3r joined the game
-[21:38:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6751ms or 135 ticks behind
-[21:38:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2240ms or 44 ticks behind
-[21:38:20] [Server thread/INFO]: Storyseek3r lost connection: Disconnected
-[21:38:20] [Server thread/INFO]: Storyseek3r left the game
+[00:00:10] [Server thread/WARN]: Rejecting UseItemOnPacket from umaaaaaq: Location (207.29999923706055, 78.99000000953674, -1357.8670177161694) too far away from hit block class_2338{x=173, y=78, z=-1358}.
+[00:00:11] [Server thread/WARN]: Rejecting UseItemOnPacket from umaaaaaq: Location (207.1683235168457, 78.99000000953674, -1358.077495276928) too far away from hit block class_2338{x=173, y=78, z=-1359}.
+[00:00:19] [Server thread/INFO]: Afaz-Dev[/100.99.48.98:59403] logged in with entity id 232692 at (8.548326261489805, 174.0, 14.26484229897191)
+[00:00:19] [Server thread/INFO]: Loading config from file...
+[00:00:19] [Server thread/INFO]: Afaz-Dev joined the game
+[00:00:20] [Server thread/INFO]: Player Afaz-Dev joined with a matching carpet client
+[00:00:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6441ms or 128 ticks behind
+[00:00:30] [Server thread/WARN]: Rejecting UseItemOnPacket from umaaaaaq: Location (207.88471603393555, 78.99000000953674, -1360.2197865247726) too far away from hit block class_2338{x=173, y=78, z=-1361}.
+[00:00:34] [Server thread/WARN]: Rejecting UseItemOnPacket from umaaaaaq: Location (207.4258041381836, 78.99000000953674, -1351.4782679080963) too far away from hit block class_2338{x=173, y=78, z=-1352}.
+[00:00:34] [Server thread/WARN]: Rejecting UseItemOnPacket from umaaaaaq: Location (206.5649871826172, 78.99000000953674, -1351.363221526146) too far away from hit block class_2338{x=172, y=78, z=-1352}.
+[00:00:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10146ms or 202 ticks behind
+[00:01:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11277ms or 225 ticks behind
+[00:01:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12670ms or 253 ticks behind
+[00:02:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12855ms or 257 ticks behind
+[00:02:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10858ms or 217 ticks behind
+[00:02:36] [Server thread/INFO]: [Not Secure] <Afaz-Dev> if only i have the n pass
+[00:02:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8961ms or 179 ticks behind
+[00:03:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9648ms or 192 ticks behind
+[00:03:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15197ms or 303 ticks behind
+[00:04:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15115ms or 302 ticks behind
+[00:04:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12716ms or 254 ticks behind
+[00:05:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14610ms or 292 ticks behind
+[00:05:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15628ms or 312 ticks behind
+[00:06:20] [Server thread/WARN]: umaaaaaq moved too quickly! -0.7901908583492343,10.230570655818582,0.0859228672734389
+[00:06:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20507ms or 410 ticks behind
+[00:06:49] [Server thread/WARN]: umaaaaaq moved too quickly! -0.049519966392779224,-10.722248667987472,-0.034397412046928366
+[00:06:51] [Server thread/WARN]: umaaaaaq moved too quickly! -0.08762940415601861,-10.408991223757695,0.1338401311409143
+[00:06:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14037ms or 280 ticks behind
+[00:07:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10710ms or 214 ticks behind
+[00:07:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11665ms or 233 ticks behind
+[00:08:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13075ms or 261 ticks behind
+[00:08:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13277ms or 265 ticks behind
+[00:09:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13201ms or 264 ticks behind
+[00:09:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11896ms or 237 ticks behind
+[00:10:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11385ms or 227 ticks behind
+[00:10:21] [Server thread/INFO]: Storyseek3r lost connection: Disconnected
+[00:10:21] [Server thread/INFO]: Storyseek3r left the game
+[00:10:25] [Server thread/INFO]: Afaz-Dev has made the advancement [Stone Age]
+[00:10:27] [Server thread/INFO]: umaaaaaq lost connection: Disconnected
+[00:10:27] [Server thread/INFO]: umaaaaaq left the game
+[00:10:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8784ms or 175 ticks behind
+[00:10:38] [Server thread/INFO]: Afaz-Dev lost connection: Disconnected
+[00:10:38] [Server thread/INFO]: Afaz-Dev left the game
+[00:10:50] [Server thread/INFO]: Afaz-Dev[/100.99.48.98:59550] logged in with entity id 267338 at (271.77243689476234, 75.0, -1014.7527482627942)
+[00:10:50] [Server thread/INFO]: Loading config from file...
+[00:10:50] [Server thread/INFO]: Afaz-Dev joined the game
+[00:10:50] [Server thread/INFO]: umaaaaaq[/100.124.143.21:59820] logged in with entity id 267337 at (181.41959501055112, 70.5935105462781, -1342.5058004769305)
+[00:10:50] [Server thread/INFO]: Loading config from file...
+[00:10:50] [Server thread/INFO]: umaaaaaq joined the game
+[00:10:51] [Server thread/INFO]: Player Afaz-Dev joined with a matching carpet client
+[00:11:04] [Server thread/INFO]: Afaz-Dev has made the advancement [Getting an Upgrade]
+[00:11:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[00:11:47] [Server thread/INFO]: Storyseek3r[/100.121.112.67:34536] logged in with entity id 270946 at (9885.13678409515, 62.110764312744145, -3003.787061617471)
+[00:11:47] [Server thread/INFO]: Loading config from file...
+[00:11:47] [Server thread/INFO]: Storyseek3r joined the game
+[00:11:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[00:11:54] [Server thread/INFO]: Afaz-Dev has made the advancement [Acquire Hardware]
+[00:12:18] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.37536442496093514
+[00:12:18] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.43938577543121937
+[00:12:18] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.4882104180378519
+[00:12:18] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.2586794732942508
+[00:12:18] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.2664446885846701
+[00:12:18] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.5392241332865524
+[00:12:18] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.2785456941182929
+[00:12:18] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.561733543912851
+[00:12:18] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.28742159836474457
+[00:12:18] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.5781950318105373
+[00:12:18] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.293835801701789
+[00:12:18] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.2962135627731186
+[00:12:18] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.5942212880308944
+[00:12:18] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.2996556749621959
+[00:12:18] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.600510458685676
+[00:12:19] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.3019628097390523
+[00:12:19] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.6046886394524336
+[00:12:19] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.303436816075191
+[00:12:19] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.6073210210706748
+[00:12:19] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.30430642768988037
+[00:12:19] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.6088382208563416
+[00:12:19] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.2547493958445557
+[00:12:19] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.4341520044308709
+[00:12:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20051ms or 401 ticks behind
+[00:12:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9171ms or 183 ticks behind
+[00:13:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9391ms or 187 ticks behind
+[00:13:25] [Server thread/INFO]: Villager class_1646['Cleric'/267391, l='ServerLevel[world]', x=262.30, y=67.42, z=-1010.47] died, message: 'Cleric was slain by Zombie'
+[00:13:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14438ms or 288 ticks behind
+[00:14:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13663ms or 273 ticks behind
+[00:14:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10329ms or 206 ticks behind
+[00:15:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8735ms or 174 ticks behind
+[00:15:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12369ms or 247 ticks behind
+[00:15:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15706ms or 314 ticks behind
+[00:16:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10780ms or 215 ticks behind
+[00:16:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12497ms or 249 ticks behind
+[00:17:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14471ms or 289 ticks behind
+[00:17:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14787ms or 295 ticks behind
+[00:17:56] [c2me-worker-7/ERROR]: Block-attached entity at invalid position: class_2338{x=215, y=-53, z=262}
+[00:18:07] [c2me-worker-1/ERROR]: Block-attached entity at invalid position: class_2338{x=216, y=-57, z=225}
+[00:18:11] [c2me-worker-9/ERROR]: Block-attached entity at invalid position: class_2338{x=216, y=-57, z=225}
+[00:18:12] [c2me-worker-8/ERROR]: Block-attached entity at invalid position: class_2338{x=215, y=-53, z=262}
+[00:18:13] [c2me-worker-8/ERROR]: Block-attached entity at invalid position: class_2338{x=216, y=-57, z=225}
+[00:18:16] [c2me-worker-9/ERROR]: Block-attached entity at invalid position: class_2338{x=216, y=-57, z=225}
+[00:18:16] [c2me-worker-9/ERROR]: Block-attached entity at invalid position: class_2338{x=216, y=-57, z=225}
+[00:18:16] [c2me-worker-9/ERROR]: Block-attached entity at invalid position: class_2338{x=216, y=-57, z=225}
+[00:18:22] [c2me-worker-7/ERROR]: Block-attached entity at invalid position: class_2338{x=216, y=-57, z=225}
+[00:18:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20033ms or 400 ticks behind
+[00:18:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10826ms or 216 ticks behind
+[00:19:04] [c2me-worker-6/ERROR]: Block-attached entity at invalid position: class_2338{x=216, y=-57, z=225}
+[00:19:14] [Server thread/INFO]: Afaz-Dev has made the advancement [Diamonds!]
+[00:19:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15663ms or 313 ticks behind
+[00:19:37] [Server thread/INFO]: Afaz-Dev has made the advancement [Cover Me with Diamonds]
+[00:19:46] [Server thread/INFO]: [Not Secure] <Storyseek3r> w
+[00:19:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18383ms or 367 ticks behind
+[00:20:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16324ms or 326 ticks behind
+[00:20:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15396ms or 307 ticks behind
+[00:21:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14085ms or 281 ticks behind
+[00:21:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17796ms or 355 ticks behind
+[00:22:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18995ms or 379 ticks behind
+[00:23:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20234ms or 404 ticks behind
+[00:23:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14591ms or 291 ticks behind
+[00:24:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15188ms or 303 ticks behind
+[00:24:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11607ms or 232 ticks behind
+[00:25:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11618ms or 232 ticks behind
+[00:25:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11065ms or 221 ticks behind
+[00:26:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18207ms or 364 ticks behind
+[00:26:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19297ms or 385 ticks behind
+[00:27:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18058ms or 361 ticks behind
+[00:27:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13405ms or 268 ticks behind
+[00:28:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13291ms or 265 ticks behind
+[00:28:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15468ms or 309 ticks behind
+[00:29:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15394ms or 307 ticks behind
+[00:29:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13353ms or 267 ticks behind
+[00:30:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23041ms or 460 ticks behind
+[00:30:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13473ms or 269 ticks behind
+[00:30:47] [Server thread/INFO]: Afaz-Dev has made the advancement [Sweet Dreams]
+[00:31:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8943ms or 178 ticks behind
+[00:31:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17831ms or 356 ticks behind
+[00:32:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10562ms or 211 ticks behind
+[00:32:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11346ms or 226 ticks behind
+[00:33:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16181ms or 323 ticks behind
+[00:33:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10947ms or 218 ticks behind
+[00:33:38] [Server thread/INFO]: [Not Secure] <Storyseek3r> [name:"lavender and protal", x:7379, y:66, z:-2523, dim:minecraft:overworld]
+[00:33:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15181ms or 303 ticks behind
+[00:34:15] [Server thread/INFO]: OumaKazuya lost connection: Disconnected
+[00:34:15] [Server thread/INFO]: OumaKazuya left the game
+[00:34:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14732ms or 294 ticks behind
+[00:34:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6520ms or 130 ticks behind
+[00:35:10] [Server thread/INFO]: OumaKazuya[/100.75.132.49:49304] logged in with entity id 331905 at (-9.5, 71.0, -1499.5)
+[00:35:10] [Server thread/INFO]: Loading config from file...
+[00:35:10] [Server thread/INFO]: OumaKazuya joined the game
+[00:35:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11449ms or 228 ticks behind
+[00:35:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17880ms or 357 ticks behind
+[00:36:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14010ms or 280 ticks behind
+[00:36:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10490ms or 209 ticks behind
+[00:37:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8840ms or 176 ticks behind
+[00:37:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8954ms or 179 ticks behind
+[00:37:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14183ms or 283 ticks behind
+[00:38:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14113ms or 282 ticks behind
+[00:38:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13387ms or 267 ticks behind
+[00:39:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19054ms or 381 ticks behind
+[00:39:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13771ms or 275 ticks behind
+[00:40:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12488ms or 249 ticks behind
+[00:40:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14344ms or 286 ticks behind
+[00:40:59] [c2me-worker-0/ERROR]: Block-attached entity at invalid position: class_2338{x=216, y=-57, z=225}
+[00:40:59] [c2me-worker-0/ERROR]: Block-attached entity at invalid position: class_2338{x=215, y=-53, z=262}
+[00:41:04] [c2me-worker-6/ERROR]: Block-attached entity at invalid position: class_2338{x=215, y=-53, z=262}
+[00:41:04] [c2me-worker-9/ERROR]: Block-attached entity at invalid position: class_2338{x=215, y=-53, z=262}
+[00:41:04] [c2me-worker-3/ERROR]: Block-attached entity at invalid position: class_2338{x=215, y=-53, z=262}
+[00:41:04] [c2me-worker-5/ERROR]: Block-attached entity at invalid position: class_2338{x=216, y=-57, z=225}
+[00:41:07] [c2me-worker-4/ERROR]: Block-attached entity at invalid position: class_2338{x=216, y=-57, z=225}
+[00:41:07] [c2me-worker-8/ERROR]: Block-attached entity at invalid position: class_2338{x=216, y=-57, z=225}
+[00:41:15] [c2me-worker-4/ERROR]: Block-attached entity at invalid position: class_2338{x=215, y=-53, z=262}
+[00:41:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12676ms or 253 ticks behind
+[00:41:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19403ms or 388 ticks behind
+[00:42:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14489ms or 289 ticks behind
+[00:42:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16234ms or 324 ticks behind
+[00:42:58] [Server thread/WARN]: umaaaaaq moved too quickly! 8.977588604435482,1.0,-4.61557407244095
+[00:43:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13630ms or 272 ticks behind
+[00:43:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9339ms or 186 ticks behind
+[00:44:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5916ms or 118 ticks behind
+[00:44:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8259ms or 165 ticks behind
+[00:44:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8726ms or 174 ticks behind
+[00:45:04] [c2me-worker-0/ERROR]: Block-attached entity at invalid position: class_2338{x=-107, y=-51, z=186}
+[00:45:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14902ms or 298 ticks behind
+[00:45:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8425ms or 168 ticks behind
+[00:46:04] [Server thread/INFO]: Afaz-Dev fell off some vines
+[00:46:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11440ms or 228 ticks behind
+[00:46:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9940ms or 198 ticks behind
+[00:47:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15013ms or 300 ticks behind
+[00:47:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19727ms or 394 ticks behind
+[00:48:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18021ms or 360 ticks behind
+[00:48:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14062ms or 281 ticks behind
+[00:49:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10646ms or 212 ticks behind
+[00:49:32] [Server thread/WARN]: Afaz-Dev moved too quickly! 0.8155488254019474,-11.06576491203981,0.9158846631280539
+[00:49:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14740ms or 294 ticks behind
+[00:50:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20598ms or 411 ticks behind
+[00:50:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18954ms or 379 ticks behind
+[00:51:10] [Server thread/INFO]: Storyseek3r lost connection: Disconnected
+[00:51:10] [Server thread/INFO]: Storyseek3r left the game
+[00:51:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11398ms or 227 ticks behind
+[00:52:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25328ms or 506 ticks behind
+[00:52:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19632ms or 392 ticks behind
+[00:52:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3568ms or 71 ticks behind
+[00:53:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:53:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[00:53:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3187ms or 63 ticks behind
+[00:54:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4270ms or 85 ticks behind
+[00:54:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4222ms or 84 ticks behind
+[00:54:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4495ms or 89 ticks behind
+[00:55:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3241ms or 64 ticks behind
+[00:55:19] [Server thread/INFO]: umaaaaaq lost connection: Disconnected
+[00:55:19] [Server thread/INFO]: umaaaaaq left the game
+[00:56:49] [Server thread/INFO]: [Not Secure] <Afaz-Dev> schlaf bitte
+[00:56:54] [Server thread/INFO]: [Not Secure] <Afaz-Dev> bitte zzz
+[00:56:57] [Server thread/INFO]: [Not Secure] <Afaz-Dev> komm
+[01:01:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[01:09:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[01:09:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4067ms or 81 ticks behind
+[01:10:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[01:10:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[01:10:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[01:10:48] [Server thread/INFO]: OumaKazuya lost connection: Disconnected
+[01:10:48] [Server thread/INFO]: OumaKazuya left the game
+[01:14:33] [Server thread/INFO]: Afaz-Dev has made the advancement [Monster Hunter]
+[01:18:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[01:19:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8106ms or 162 ticks behind
+[01:19:34] [Server thread/INFO]: Villager class_1646['Leatherworker'/373606, l='ServerLevel[world]', x=403.29, y=71.00, z=-1623.30] died, message: 'Leatherworker was slain by Zombie'
+[01:19:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7153ms or 143 ticks behind
+[01:19:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7709ms or 154 ticks behind
+[01:20:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5919ms or 118 ticks behind
+[01:21:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[01:21:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2541ms or 50 ticks behind
+[01:22:38] [Server thread/INFO]: Afaz-Dev lost connection: Disconnected
+[01:22:38] [Server thread/INFO]: Afaz-Dev left the game
+[01:22:38] [Server thread/WARN]: handleDisconnection() called twice
+[01:22:55] [Server thread/INFO]: Stopping server
+[01:22:55] [Server thread/INFO]: Saving players
+[01:22:55] [Server thread/INFO]: Saving worlds
+[01:22:55] [Server thread/INFO]: ServerLevel[world]/minecraft:overworld: waiting for 841 chunks to unload
+[01:22:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:22:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:22:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:22:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:22:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:22:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:22:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:22:56] [C2ME Storage #3/INFO]: Storage thread Thread[#114,C2ME Storage #3,8,main] stopped
+[01:22:57] [C2ME Storage #2/INFO]: Storage thread Thread[#113,C2ME Storage #2,8,main] stopped
+[01:22:57] [C2ME Storage #1/INFO]: Storage thread Thread[#112,C2ME Storage #1,8,main] stopped
+[01:22:57] [C2ME Storage #5/INFO]: Storage thread Thread[#125,C2ME Storage #5,8,main] stopped
+[01:22:57] [C2ME Storage #4/INFO]: Storage thread Thread[#124,C2ME Storage #4,8,main] stopped
+[01:22:57] [C2ME Storage #6/INFO]: Storage thread Thread[#126,C2ME Storage #6,8,main] stopped
+[01:22:57] [C2ME Storage #9/INFO]: Storage thread Thread[#129,C2ME Storage #9,8,main] stopped
+[01:22:57] [C2ME Storage #7/INFO]: Storage thread Thread[#127,C2ME Storage #7,8,main] stopped
+[01:22:57] [C2ME Storage #8/INFO]: Storage thread Thread[#128,C2ME Storage #8,8,main] stopped
+[01:22:57] [Server thread/INFO]: Thread RCON Listener stopped
+[01:22:57] [RCON Client /100.99.48.98 #2/INFO]: Thread RCON Client /100.99.48.98 shutting down
+[01:22:57] [Server thread/INFO]: Thread RCON Client /100.99.48.98 stopped

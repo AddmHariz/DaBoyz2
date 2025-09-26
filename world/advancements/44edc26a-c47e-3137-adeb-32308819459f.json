@@ -9,19 +9,31 @@
     "criteria": {
       "spider_nest": "2025-09-05 22:45:46 +0800",
       "muskeg": "2025-09-11 23:09:56 +0800",
+      "woodland": "2025-09-26 23:02:06 +0800",
+      "dryland": "2025-09-26 22:51:34 +0800",
+      "wasteland": "2025-09-26 22:50:43 +0800",
       "shrubland": "2025-09-05 23:23:01 +0800",
       "snowblossom_grove": "2025-09-11 23:09:03 +0800",
       "rocky_shrubland": "2025-09-06 00:46:19 +0800",
       "old_growth_dead_forest": "2025-09-11 23:08:15 +0800",
+      "lush_desert": "2025-09-26 22:52:11 +0800",
       "redwood_forest": "2025-09-12 00:02:39 +0800",
+      "scrubland": "2025-09-26 23:16:31 +0800",
+      "fungal_jungle": "2025-09-26 23:30:32 +0800",
       "dune_beach": "2025-09-11 23:43:34 +0800",
+      "floodplain": "2025-09-26 23:25:50 +0800",
       "seasonal_forest": "2025-09-06 00:21:12 +0800",
       "auroral_garden": "2025-09-19 23:13:13 +0800",
       "highland": "2025-09-05 22:34:21 +0800",
       "dead_forest": "2025-09-18 00:25:17 +0800",
+      "volcano": "2025-09-26 23:07:05 +0800",
       "rocky_rainforest": "2025-09-20 00:13:34 +0800",
+      "pasture": "2025-09-27 00:23:23 +0800",
       "jade_cliffs": "2025-09-05 23:24:45 +0800",
+      "volcanic_plains": "2025-09-26 23:28:08 +0800",
+      "mystic_grove": "2025-09-26 22:27:42 +0800",
       "cold_desert": "2025-09-05 21:49:08 +0800",
+      "lavender_field": "2025-09-26 23:43:24 +0800",
       "old_growth_woodland": "2025-09-11 23:53:22 +0800",
       "maple_woods": "2025-09-05 22:46:03 +0800",
       "fir_clearing": "2025-09-07 00:21:21 +0800",
@@ -113,6 +125,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-09-11 23:36:59 +0800",
+      "minecraft:snowy_slopes": "2025-09-26 23:48:02 +0800",
       "minecraft:old_growth_pine_taiga": "2025-09-11 23:32:20 +0800",
       "minecraft:forest": "2025-09-05 22:30:05 +0800",
       "minecraft:taiga": "2025-09-05 22:30:08 +0800",
@@ -123,9 +136,15 @@
       "minecraft:frozen_river": "2025-09-11 23:07:58 +0800",
       "minecraft:windswept_forest": "2025-09-18 00:22:20 +0800",
       "minecraft:ocean": "2025-09-11 23:37:19 +0800",
+      "minecraft:jungle": "2025-09-26 23:04:28 +0800",
+      "minecraft:cherry_grove": "2025-09-26 23:48:29 +0800",
+      "minecraft:sunflower_plains": "2025-09-27 00:23:21 +0800",
       "minecraft:birch_forest": "2025-09-11 23:41:38 +0800",
       "minecraft:old_growth_spruce_taiga": "2025-09-11 23:35:48 +0800",
+      "minecraft:warm_ocean": "2025-09-26 22:49:46 +0800",
       "minecraft:deep_lukewarm_ocean": "2025-09-12 00:08:24 +0800",
+      "minecraft:savanna_plateau": "2025-09-26 23:48:32 +0800",
+      "minecraft:beach": "2025-09-26 22:36:34 +0800",
       "minecraft:dark_forest": "2025-09-20 00:12:32 +0800",
       "minecraft:sparse_jungle": "2025-09-11 23:51:57 +0800",
       "minecraft:river": "2025-09-05 22:43:23 +0800",
@@ -668,6 +687,7 @@
       "minecraft:creeper": "2025-09-07 14:56:13 +0800",
       "minecraft:drowned": "2025-09-17 23:42:32 +0800",
       "minecraft:zombie_villager": "2025-09-15 00:15:47 +0800",
+      "minecraft:husk": "2025-09-26 22:59:04 +0800",
       "minecraft:slime": "2025-09-13 16:53:31 +0800"
     },
     "done": false
@@ -690,6 +710,7 @@
       "apple": "2025-09-07 14:19:15 +0800",
       "bread": "2025-09-06 00:14:41 +0800",
       "rotten_flesh": "2025-09-05 22:26:13 +0800",
+      "suspicious_stew": "2025-09-26 21:51:13 +0800",
       "cooked_mutton": "2025-09-05 22:39:45 +0800",
       "sweet_berries": "2025-09-05 22:30:41 +0800",
       "cooked_beef": "2025-09-05 22:58:39 +0800",
@@ -3094,9 +3115,10 @@
   "weaponmod:dart": {
     "criteria": {
       "has_minecraft_feather": "2025-09-18 00:17:35 +0800",
+      "has_c_crops/cactus": "2025-09-26 23:01:43 +0800",
       "has_c_rods/wooden": "2025-09-11 21:11:29 +0800"
     },
-    "done": false
+    "done": true
   },
   "weaponmod:knife.gold.a": {
     "criteria": {
@@ -4595,6 +4617,360 @@
   "minecraft:recipes/misc/pink_dye_from_pink_daffodil": {
     "criteria": {
       "has_pink_daffodil": "2025-09-20 00:56:35 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-09-26 21:51:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-09-26 21:51:08 +0800"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sponge": {
+    "criteria": {
+      "has_sponge": "2025-09-26 21:51:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-09-26 21:51:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_pillar": "2025-09-26 22:04:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_pillar": "2025-09-26 22:04:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_pillar": "2025-09-26 22:04:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_pillar": "2025-09-26 22:04:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-09-26 22:06:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-09-26 22:06:59 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye_from_glowflower": {
+    "criteria": {
+      "has_glowflower": "2025-09-26 22:28:02 +0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_wood": {
+    "criteria": {
+      "has_log": "2025-09-26 22:28:58 +0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_planks": {
+    "criteria": {
+      "has_logs": "2025-09-26 22:28:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_hydrangea": {
+    "criteria": {
+      "has_blue_hydrangea": "2025-09-26 22:32:45 +0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/palm_planks": {
+    "criteria": {
+      "has_logs": "2025-09-26 22:59:23 +0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/palm_wood": {
+    "criteria": {
+      "has_log": "2025-09-26 22:59:23 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-09-26 23:00:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-09-26 23:00:53 +0800"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cactus": {
+    "criteria": {
+      "has_cactus": "2025-09-26 23:01:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-09-26 23:01:43 +0800"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/cactus_juice": {
+    "criteria": {
+      "has_cactus": "2025-09-26 23:01:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_cactus_flower": {
+    "criteria": {
+      "has_cactus_flower": "2025-09-26 23:01:57 +0800"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/leaf_helmet": {
+    "criteria": {
+      "has_leaves": "2025-09-26 23:03:24 +0800"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/leaf_leggings": {
+    "criteria": {
+      "has_leaves": "2025-09-26 23:03:24 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leaf_litter": {
+    "criteria": {
+      "has_leaves": "2025-09-26 23:03:24 +0800"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/leaf_chestplate": {
+    "criteria": {
+      "has_leaves": "2025-09-26 23:03:24 +0800"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/leaf_boots": {
+    "criteria": {
+      "has_leaves": "2025-09-26 23:03:24 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-09-26 23:05:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-09-26 23:05:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-09-26 23:05:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_stairs": {
+    "criteria": {
+      "has_tuff": "2025-09-26 23:05:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-09-26 23:05:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-09-26 23:05:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-09-26 23:05:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-09-26 23:05:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-09-26 23:05:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-09-26 23:05:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_slab": {
+    "criteria": {
+      "has_tuff": "2025-09-26 23:05:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-09-26 23:05:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-09-26 23:05:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_wall": {
+    "criteria": {
+      "has_tuff": "2025-09-26 23:05:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-09-26 23:05:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-09-26 23:05:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff": {
+    "criteria": {
+      "has_tuff": "2025-09-26 23:05:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_black_sandstone_slab_from_black_sandstone_stonecutting": {
+    "criteria": {
+      "has_black_sandstone": "2025-09-26 23:07:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_sandstone_slab_from_black_sandstone_stonecutting": {
+    "criteria": {
+      "has_black_sandstone": "2025-09-26 23:07:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_sandstone_wall_from_black_sandstone_stonecutting": {
+    "criteria": {
+      "has_black_sandstone": "2025-09-26 23:07:13 +0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/smooth_black_sandstone": {
+    "criteria": {
+      "has_black_sandstone": "2025-09-26 23:07:13 +0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/cut_black_sandstone": {
+    "criteria": {
+      "has_black_sandstone": "2025-09-26 23:07:13 +0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/black_sandstone_slab": {
+    "criteria": {
+      "has_black_sandstone": "2025-09-26 23:07:13 +0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/black_sandstone_stairs": {
+    "criteria": {
+      "has_black_sandstone": "2025-09-26 23:07:13 +0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/black_sandstone_wall": {
+    "criteria": {
+      "has_black_sandstone": "2025-09-26 23:07:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_black_sandstone_from_black_sandstone_stonecutting": {
+    "criteria": {
+      "has_black_sandstone": "2025-09-26 23:07:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_black_sandstone_from_black_sandstone_stonecutting": {
+    "criteria": {
+      "has_black_sandstone": "2025-09-26 23:07:13 +0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/chiseled_black_sandstone": {
+    "criteria": {
+      "has_black_sandstone": "2025-09-26 23:07:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_sandstone_stairs_from_black_sandstone_stonecutting": {
+    "criteria": {
+      "has_black_sandstone": "2025-09-26 23:07:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_cosmos": {
+    "criteria": {
+      "has_orange_cosmos": "2025-09-26 23:10:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_waterlily": {
+    "criteria": {
+      "has_waterlily": "2025-09-26 23:26:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_lavender": "2025-09-26 23:43:37 +0800"
     },
     "done": true
   },

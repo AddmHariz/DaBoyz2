@@ -61,6 +61,7 @@
       "minecraft:skeleton": "2025-09-07 01:28:31 +0800",
       "minecraft:phantom": "2025-09-15 23:07:58 +0800",
       "minecraft:enderman": "2025-09-17 22:27:41 +0800",
+      "minecraft:witch": "2025-09-26 23:11:31 +0800",
       "minecraft:spider": "2025-09-06 21:59:36 +0800",
       "minecraft:zombie": "2025-09-05 22:06:54 +0800",
       "minecraft:creeper": "2025-09-17 23:24:56 +0800",
@@ -986,9 +987,11 @@
       "minecraft:frozen_ocean": "2025-09-14 01:19:48 +0800",
       "minecraft:frozen_river": "2025-09-14 01:32:32 +0800",
       "minecraft:deep_frozen_ocean": "2025-09-14 01:21:44 +0800",
+      "minecraft:windswept_forest": "2025-09-27 00:48:53 +0800",
       "minecraft:ocean": "2025-09-07 16:37:48 +0800",
       "minecraft:jungle": "2025-09-14 23:27:39 +0800",
       "minecraft:cherry_grove": "2025-09-15 00:03:34 +0800",
+      "minecraft:windswept_hills": "2025-09-27 00:48:45 +0800",
       "minecraft:snowy_beach": "2025-09-14 01:34:53 +0800",
       "minecraft:bamboo_jungle": "2025-09-14 23:31:16 +0800",
       "minecraft:deep_lukewarm_ocean": "2025-09-07 16:42:25 +0800",
@@ -999,7 +1002,9 @@
       "minecraft:river": "2025-09-05 23:10:08 +0800",
       "minecraft:lukewarm_ocean": "2025-09-07 16:42:00 +0800",
       "minecraft:stony_shore": "2025-09-07 16:38:30 +0800",
+      "minecraft:snowy_plains": "2025-09-27 00:48:12 +0800",
       "minecraft:dripstone_caves": "2025-09-05 23:13:41 +0800",
+      "minecraft:snowy_taiga": "2025-09-27 00:49:45 +0800",
       "minecraft:frozen_peaks": "2025-09-14 00:50:52 +0800",
       "minecraft:old_growth_birch_forest": "2025-09-14 01:09:41 +0800",
       "minecraft:grove": "2025-09-05 23:14:25 +0800",
@@ -4124,6 +4129,144 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_boots": "2025-09-17 23:46:16 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-26 23:26:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-26 23:26:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-26 23:26:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-26 23:26:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-26 23:26:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-26 23:26:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-26 23:26:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-26 23:26:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-26 23:26:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-26 23:26:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-26 23:26:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-09-26 23:26:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-09-26 23:48:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-09-26 23:48:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-27 00:25:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-27 00:25:47 +0800"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-09-27 00:46:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-27 00:25:47 +0800"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/sweet_berry_juice": {
+    "criteria": {
+      "has_sweet_berries": "2025-09-27 00:46:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-27 00:25:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-27 00:25:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-27 00:25:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-09-27 00:25:47 +0800"
     },
     "done": true
   },
