@@ -33,7 +33,7 @@ set JAVA_OPTS=-XX:+UseG1GC ^
  -Dio.netty.eventLoopThreads=6
 
 REM ===== SERVER LAUNCH =====
-java -Xms%MIN_RAM% -Xmx%MAX_RAM% %JAVA_OPTS% -jar fabric-server-launch.jar nogui
+java -Xms%MIN_RAM% -Xmx%MAX_RAM% %JAVA_OPTS% -jar fabric-server-launch.jar
 
 echo.
 echo Server process has exited.
