@@ -4526,21 +4526,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_pink_daffodil": {
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
-      "has_pink_daffodil": "2025-09-20 00:56:35 +0800"
+      "has_kelp": "2025-09-20 00:45:37 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal": {
+  "travelersbackpack:recipes/misc/enderman": {
     "criteria": {
-      "has_coal_block": "2025-09-20 00:53:55 +0800"
+      "has_ender_pearl": "2025-09-20 00:53:04 +0800"
     },
     "done": true
   },
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2025-09-20 00:53:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-09-20 00:53:55 +0800"
     },
     "done": true
   },
@@ -4574,12 +4580,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-09-20 00:45:37 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-09-20 00:55:28 +0800"
@@ -4592,9 +4592,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/enderman": {
+  "minecraft:recipes/misc/pink_dye_from_pink_daffodil": {
     "criteria": {
-      "has_ender_pearl": "2025-09-20 00:53:04 +0800"
+      "has_pink_daffodil": "2025-09-20 00:56:35 +0800"
     },
     "done": true
   },
