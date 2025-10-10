@@ -1,256 +1,182 @@
-[00:00:10] [Server thread/WARN]: Rejecting UseItemOnPacket from umaaaaaq: Location (207.29999923706055, 78.99000000953674, -1357.8670177161694) too far away from hit block class_2338{x=173, y=78, z=-1358}.
-[00:00:11] [Server thread/WARN]: Rejecting UseItemOnPacket from umaaaaaq: Location (207.1683235168457, 78.99000000953674, -1358.077495276928) too far away from hit block class_2338{x=173, y=78, z=-1359}.
-[00:00:19] [Server thread/INFO]: Afaz-Dev[/100.99.48.98:59403] logged in with entity id 232692 at (8.548326261489805, 174.0, 14.26484229897191)
-[00:00:19] [Server thread/INFO]: Loading config from file...
-[00:00:19] [Server thread/INFO]: Afaz-Dev joined the game
-[00:00:20] [Server thread/INFO]: Player Afaz-Dev joined with a matching carpet client
-[00:00:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6441ms or 128 ticks behind
-[00:00:30] [Server thread/WARN]: Rejecting UseItemOnPacket from umaaaaaq: Location (207.88471603393555, 78.99000000953674, -1360.2197865247726) too far away from hit block class_2338{x=173, y=78, z=-1361}.
-[00:00:34] [Server thread/WARN]: Rejecting UseItemOnPacket from umaaaaaq: Location (207.4258041381836, 78.99000000953674, -1351.4782679080963) too far away from hit block class_2338{x=173, y=78, z=-1352}.
-[00:00:34] [Server thread/WARN]: Rejecting UseItemOnPacket from umaaaaaq: Location (206.5649871826172, 78.99000000953674, -1351.363221526146) too far away from hit block class_2338{x=172, y=78, z=-1352}.
-[00:00:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10146ms or 202 ticks behind
-[00:01:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11277ms or 225 ticks behind
-[00:01:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12670ms or 253 ticks behind
-[00:02:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12855ms or 257 ticks behind
-[00:02:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10858ms or 217 ticks behind
-[00:02:36] [Server thread/INFO]: [Not Secure] <Afaz-Dev> if only i have the n pass
-[00:02:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8961ms or 179 ticks behind
-[00:03:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9648ms or 192 ticks behind
-[00:03:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15197ms or 303 ticks behind
-[00:04:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15115ms or 302 ticks behind
-[00:04:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12716ms or 254 ticks behind
-[00:05:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14610ms or 292 ticks behind
-[00:05:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15628ms or 312 ticks behind
-[00:06:20] [Server thread/WARN]: umaaaaaq moved too quickly! -0.7901908583492343,10.230570655818582,0.0859228672734389
-[00:06:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20507ms or 410 ticks behind
-[00:06:49] [Server thread/WARN]: umaaaaaq moved too quickly! -0.049519966392779224,-10.722248667987472,-0.034397412046928366
-[00:06:51] [Server thread/WARN]: umaaaaaq moved too quickly! -0.08762940415601861,-10.408991223757695,0.1338401311409143
-[00:06:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14037ms or 280 ticks behind
-[00:07:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10710ms or 214 ticks behind
-[00:07:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11665ms or 233 ticks behind
-[00:08:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13075ms or 261 ticks behind
-[00:08:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13277ms or 265 ticks behind
-[00:09:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13201ms or 264 ticks behind
-[00:09:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11896ms or 237 ticks behind
-[00:10:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11385ms or 227 ticks behind
-[00:10:21] [Server thread/INFO]: Storyseek3r lost connection: Disconnected
-[00:10:21] [Server thread/INFO]: Storyseek3r left the game
-[00:10:25] [Server thread/INFO]: Afaz-Dev has made the advancement [Stone Age]
-[00:10:27] [Server thread/INFO]: umaaaaaq lost connection: Disconnected
-[00:10:27] [Server thread/INFO]: umaaaaaq left the game
-[00:10:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8784ms or 175 ticks behind
-[00:10:38] [Server thread/INFO]: Afaz-Dev lost connection: Disconnected
-[00:10:38] [Server thread/INFO]: Afaz-Dev left the game
-[00:10:50] [Server thread/INFO]: Afaz-Dev[/100.99.48.98:59550] logged in with entity id 267338 at (271.77243689476234, 75.0, -1014.7527482627942)
-[00:10:50] [Server thread/INFO]: Loading config from file...
-[00:10:50] [Server thread/INFO]: Afaz-Dev joined the game
-[00:10:50] [Server thread/INFO]: umaaaaaq[/100.124.143.21:59820] logged in with entity id 267337 at (181.41959501055112, 70.5935105462781, -1342.5058004769305)
-[00:10:50] [Server thread/INFO]: Loading config from file...
-[00:10:50] [Server thread/INFO]: umaaaaaq joined the game
-[00:10:51] [Server thread/INFO]: Player Afaz-Dev joined with a matching carpet client
-[00:11:04] [Server thread/INFO]: Afaz-Dev has made the advancement [Getting an Upgrade]
-[00:11:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[00:11:47] [Server thread/INFO]: Storyseek3r[/100.121.112.67:34536] logged in with entity id 270946 at (9885.13678409515, 62.110764312744145, -3003.787061617471)
-[00:11:47] [Server thread/INFO]: Loading config from file...
-[00:11:47] [Server thread/INFO]: Storyseek3r joined the game
-[00:11:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
-[00:11:54] [Server thread/INFO]: Afaz-Dev has made the advancement [Acquire Hardware]
-[00:12:18] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.37536442496093514
-[00:12:18] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.43938577543121937
-[00:12:18] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.4882104180378519
-[00:12:18] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.2586794732942508
-[00:12:18] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.2664446885846701
-[00:12:18] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.5392241332865524
-[00:12:18] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.2785456941182929
-[00:12:18] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.561733543912851
-[00:12:18] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.28742159836474457
-[00:12:18] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.5781950318105373
-[00:12:18] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.293835801701789
-[00:12:18] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.2962135627731186
-[00:12:18] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.5942212880308944
-[00:12:18] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.2996556749621959
-[00:12:18] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.600510458685676
-[00:12:19] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.3019628097390523
-[00:12:19] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.6046886394524336
-[00:12:19] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.303436816075191
-[00:12:19] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.6073210210706748
-[00:12:19] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.30430642768988037
-[00:12:19] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.6088382208563416
-[00:12:19] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.2547493958445557
-[00:12:19] [Server thread/WARN]: Jacaranda Boat (vehicle of Storyseek3r) moved wrongly! 0.4341520044308709
-[00:12:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20051ms or 401 ticks behind
-[00:12:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9171ms or 183 ticks behind
-[00:13:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9391ms or 187 ticks behind
-[00:13:25] [Server thread/INFO]: Villager class_1646['Cleric'/267391, l='ServerLevel[world]', x=262.30, y=67.42, z=-1010.47] died, message: 'Cleric was slain by Zombie'
-[00:13:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14438ms or 288 ticks behind
-[00:14:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13663ms or 273 ticks behind
-[00:14:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10329ms or 206 ticks behind
-[00:15:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8735ms or 174 ticks behind
-[00:15:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12369ms or 247 ticks behind
-[00:15:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15706ms or 314 ticks behind
-[00:16:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10780ms or 215 ticks behind
-[00:16:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12497ms or 249 ticks behind
-[00:17:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14471ms or 289 ticks behind
-[00:17:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14787ms or 295 ticks behind
-[00:17:56] [c2me-worker-7/ERROR]: Block-attached entity at invalid position: class_2338{x=215, y=-53, z=262}
-[00:18:07] [c2me-worker-1/ERROR]: Block-attached entity at invalid position: class_2338{x=216, y=-57, z=225}
-[00:18:11] [c2me-worker-9/ERROR]: Block-attached entity at invalid position: class_2338{x=216, y=-57, z=225}
-[00:18:12] [c2me-worker-8/ERROR]: Block-attached entity at invalid position: class_2338{x=215, y=-53, z=262}
-[00:18:13] [c2me-worker-8/ERROR]: Block-attached entity at invalid position: class_2338{x=216, y=-57, z=225}
-[00:18:16] [c2me-worker-9/ERROR]: Block-attached entity at invalid position: class_2338{x=216, y=-57, z=225}
-[00:18:16] [c2me-worker-9/ERROR]: Block-attached entity at invalid position: class_2338{x=216, y=-57, z=225}
-[00:18:16] [c2me-worker-9/ERROR]: Block-attached entity at invalid position: class_2338{x=216, y=-57, z=225}
-[00:18:22] [c2me-worker-7/ERROR]: Block-attached entity at invalid position: class_2338{x=216, y=-57, z=225}
-[00:18:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20033ms or 400 ticks behind
-[00:18:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10826ms or 216 ticks behind
-[00:19:04] [c2me-worker-6/ERROR]: Block-attached entity at invalid position: class_2338{x=216, y=-57, z=225}
-[00:19:14] [Server thread/INFO]: Afaz-Dev has made the advancement [Diamonds!]
-[00:19:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15663ms or 313 ticks behind
-[00:19:37] [Server thread/INFO]: Afaz-Dev has made the advancement [Cover Me with Diamonds]
-[00:19:46] [Server thread/INFO]: [Not Secure] <Storyseek3r> w
-[00:19:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18383ms or 367 ticks behind
-[00:20:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16324ms or 326 ticks behind
-[00:20:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15396ms or 307 ticks behind
-[00:21:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14085ms or 281 ticks behind
-[00:21:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17796ms or 355 ticks behind
-[00:22:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18995ms or 379 ticks behind
-[00:23:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20234ms or 404 ticks behind
-[00:23:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14591ms or 291 ticks behind
-[00:24:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15188ms or 303 ticks behind
-[00:24:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11607ms or 232 ticks behind
-[00:25:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11618ms or 232 ticks behind
-[00:25:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11065ms or 221 ticks behind
-[00:26:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18207ms or 364 ticks behind
-[00:26:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19297ms or 385 ticks behind
-[00:27:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18058ms or 361 ticks behind
-[00:27:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13405ms or 268 ticks behind
-[00:28:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13291ms or 265 ticks behind
-[00:28:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15468ms or 309 ticks behind
-[00:29:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15394ms or 307 ticks behind
-[00:29:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13353ms or 267 ticks behind
-[00:30:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23041ms or 460 ticks behind
-[00:30:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13473ms or 269 ticks behind
-[00:30:47] [Server thread/INFO]: Afaz-Dev has made the advancement [Sweet Dreams]
-[00:31:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8943ms or 178 ticks behind
-[00:31:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17831ms or 356 ticks behind
-[00:32:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10562ms or 211 ticks behind
-[00:32:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11346ms or 226 ticks behind
-[00:33:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16181ms or 323 ticks behind
-[00:33:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10947ms or 218 ticks behind
-[00:33:38] [Server thread/INFO]: [Not Secure] <Storyseek3r> [name:"lavender and protal", x:7379, y:66, z:-2523, dim:minecraft:overworld]
-[00:33:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15181ms or 303 ticks behind
-[00:34:15] [Server thread/INFO]: OumaKazuya lost connection: Disconnected
-[00:34:15] [Server thread/INFO]: OumaKazuya left the game
-[00:34:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14732ms or 294 ticks behind
-[00:34:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6520ms or 130 ticks behind
-[00:35:10] [Server thread/INFO]: OumaKazuya[/100.75.132.49:49304] logged in with entity id 331905 at (-9.5, 71.0, -1499.5)
-[00:35:10] [Server thread/INFO]: Loading config from file...
-[00:35:10] [Server thread/INFO]: OumaKazuya joined the game
-[00:35:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11449ms or 228 ticks behind
-[00:35:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17880ms or 357 ticks behind
-[00:36:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14010ms or 280 ticks behind
-[00:36:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10490ms or 209 ticks behind
-[00:37:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8840ms or 176 ticks behind
-[00:37:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8954ms or 179 ticks behind
-[00:37:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14183ms or 283 ticks behind
-[00:38:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14113ms or 282 ticks behind
-[00:38:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13387ms or 267 ticks behind
-[00:39:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19054ms or 381 ticks behind
-[00:39:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13771ms or 275 ticks behind
-[00:40:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12488ms or 249 ticks behind
-[00:40:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14344ms or 286 ticks behind
-[00:40:59] [c2me-worker-0/ERROR]: Block-attached entity at invalid position: class_2338{x=216, y=-57, z=225}
-[00:40:59] [c2me-worker-0/ERROR]: Block-attached entity at invalid position: class_2338{x=215, y=-53, z=262}
-[00:41:04] [c2me-worker-6/ERROR]: Block-attached entity at invalid position: class_2338{x=215, y=-53, z=262}
-[00:41:04] [c2me-worker-9/ERROR]: Block-attached entity at invalid position: class_2338{x=215, y=-53, z=262}
-[00:41:04] [c2me-worker-3/ERROR]: Block-attached entity at invalid position: class_2338{x=215, y=-53, z=262}
-[00:41:04] [c2me-worker-5/ERROR]: Block-attached entity at invalid position: class_2338{x=216, y=-57, z=225}
-[00:41:07] [c2me-worker-4/ERROR]: Block-attached entity at invalid position: class_2338{x=216, y=-57, z=225}
-[00:41:07] [c2me-worker-8/ERROR]: Block-attached entity at invalid position: class_2338{x=216, y=-57, z=225}
-[00:41:15] [c2me-worker-4/ERROR]: Block-attached entity at invalid position: class_2338{x=215, y=-53, z=262}
-[00:41:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12676ms or 253 ticks behind
-[00:41:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19403ms or 388 ticks behind
-[00:42:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14489ms or 289 ticks behind
-[00:42:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16234ms or 324 ticks behind
-[00:42:58] [Server thread/WARN]: umaaaaaq moved too quickly! 8.977588604435482,1.0,-4.61557407244095
-[00:43:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13630ms or 272 ticks behind
-[00:43:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9339ms or 186 ticks behind
-[00:44:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5916ms or 118 ticks behind
-[00:44:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8259ms or 165 ticks behind
-[00:44:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8726ms or 174 ticks behind
-[00:45:04] [c2me-worker-0/ERROR]: Block-attached entity at invalid position: class_2338{x=-107, y=-51, z=186}
-[00:45:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14902ms or 298 ticks behind
-[00:45:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8425ms or 168 ticks behind
-[00:46:04] [Server thread/INFO]: Afaz-Dev fell off some vines
-[00:46:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11440ms or 228 ticks behind
-[00:46:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9940ms or 198 ticks behind
-[00:47:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15013ms or 300 ticks behind
-[00:47:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19727ms or 394 ticks behind
-[00:48:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18021ms or 360 ticks behind
-[00:48:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14062ms or 281 ticks behind
-[00:49:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10646ms or 212 ticks behind
-[00:49:32] [Server thread/WARN]: Afaz-Dev moved too quickly! 0.8155488254019474,-11.06576491203981,0.9158846631280539
-[00:49:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14740ms or 294 ticks behind
-[00:50:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20598ms or 411 ticks behind
-[00:50:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18954ms or 379 ticks behind
-[00:51:10] [Server thread/INFO]: Storyseek3r lost connection: Disconnected
-[00:51:10] [Server thread/INFO]: Storyseek3r left the game
-[00:51:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11398ms or 227 ticks behind
-[00:52:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25328ms or 506 ticks behind
-[00:52:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19632ms or 392 ticks behind
-[00:52:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3568ms or 71 ticks behind
-[00:53:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[00:53:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[00:53:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3187ms or 63 ticks behind
-[00:54:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4270ms or 85 ticks behind
-[00:54:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4222ms or 84 ticks behind
-[00:54:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4495ms or 89 ticks behind
-[00:55:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3241ms or 64 ticks behind
-[00:55:19] [Server thread/INFO]: umaaaaaq lost connection: Disconnected
-[00:55:19] [Server thread/INFO]: umaaaaaq left the game
-[00:56:49] [Server thread/INFO]: [Not Secure] <Afaz-Dev> schlaf bitte
-[00:56:54] [Server thread/INFO]: [Not Secure] <Afaz-Dev> bitte zzz
-[00:56:57] [Server thread/INFO]: [Not Secure] <Afaz-Dev> komm
-[01:01:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[01:09:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[01:09:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4067ms or 81 ticks behind
-[01:10:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[01:10:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
-[01:10:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
-[01:10:48] [Server thread/INFO]: OumaKazuya lost connection: Disconnected
-[01:10:48] [Server thread/INFO]: OumaKazuya left the game
-[01:14:33] [Server thread/INFO]: Afaz-Dev has made the advancement [Monster Hunter]
-[01:18:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[01:19:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8106ms or 162 ticks behind
-[01:19:34] [Server thread/INFO]: Villager class_1646['Leatherworker'/373606, l='ServerLevel[world]', x=403.29, y=71.00, z=-1623.30] died, message: 'Leatherworker was slain by Zombie'
-[01:19:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7153ms or 143 ticks behind
-[01:19:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7709ms or 154 ticks behind
-[01:20:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5919ms or 118 ticks behind
-[01:21:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
-[01:21:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2541ms or 50 ticks behind
-[01:22:38] [Server thread/INFO]: Afaz-Dev lost connection: Disconnected
-[01:22:38] [Server thread/INFO]: Afaz-Dev left the game
-[01:22:38] [Server thread/WARN]: handleDisconnection() called twice
-[01:22:55] [Server thread/INFO]: Stopping server
-[01:22:55] [Server thread/INFO]: Saving players
-[01:22:55] [Server thread/INFO]: Saving worlds
-[01:22:55] [Server thread/INFO]: ServerLevel[world]/minecraft:overworld: waiting for 841 chunks to unload
-[01:22:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:22:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:22:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:22:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:22:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:22:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:22:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[01:22:56] [C2ME Storage #3/INFO]: Storage thread Thread[#114,C2ME Storage #3,8,main] stopped
-[01:22:57] [C2ME Storage #2/INFO]: Storage thread Thread[#113,C2ME Storage #2,8,main] stopped
-[01:22:57] [C2ME Storage #1/INFO]: Storage thread Thread[#112,C2ME Storage #1,8,main] stopped
-[01:22:57] [C2ME Storage #5/INFO]: Storage thread Thread[#125,C2ME Storage #5,8,main] stopped
-[01:22:57] [C2ME Storage #4/INFO]: Storage thread Thread[#124,C2ME Storage #4,8,main] stopped
-[01:22:57] [C2ME Storage #6/INFO]: Storage thread Thread[#126,C2ME Storage #6,8,main] stopped
-[01:22:57] [C2ME Storage #9/INFO]: Storage thread Thread[#129,C2ME Storage #9,8,main] stopped
-[01:22:57] [C2ME Storage #7/INFO]: Storage thread Thread[#127,C2ME Storage #7,8,main] stopped
-[01:22:57] [C2ME Storage #8/INFO]: Storage thread Thread[#128,C2ME Storage #8,8,main] stopped
-[01:22:57] [Server thread/INFO]: Thread RCON Listener stopped
-[01:22:57] [RCON Client /100.99.48.98 #2/INFO]: Thread RCON Client /100.99.48.98 shutting down
-[01:22:57] [Server thread/INFO]: Thread RCON Client /100.99.48.98 stopped
+[00:01:24] [c2me-worker-0/WARN]: Couldn't find template pool reference: minecraft:village/empty
+[00:01:25] [c2me-worker-0/WARN]: Couldn't find template pool reference: minecraft:village/empty
+[00:01:25] [c2me-worker-0/WARN]: Couldn't find template pool reference: minecraft:village/empty
+[00:01:25] [c2me-worker-0/WARN]: Couldn't find template pool reference: minecraft:village/empty
+[00:01:25] [c2me-worker-0/WARN]: Couldn't find template pool reference: minecraft:village/empty
+[00:01:25] [c2me-worker-0/WARN]: Couldn't find template pool reference: minecraft:village/empty
+[00:01:25] [c2me-worker-0/WARN]: Couldn't find template pool reference: minecraft:village/empty
+[00:01:25] [c2me-worker-0/WARN]: Couldn't find template pool reference: minecraft:village/empty
+[00:01:25] [c2me-worker-0/WARN]: Couldn't find template pool reference: minecraft:village/empty
+[00:01:25] [c2me-worker-0/WARN]: Couldn't find template pool reference: minecraft:village/empty
+[00:01:25] [c2me-worker-0/WARN]: Couldn't find template pool reference: minecraft:village/empty
+[00:01:25] [c2me-worker-0/WARN]: Couldn't find template pool reference: minecraft:village/empty
+[00:01:25] [c2me-worker-0/WARN]: Couldn't find template pool reference: minecraft:village/empty
+[00:01:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2215ms or 44 ticks behind
+[00:02:02] [c2me-worker-8/ERROR]: Block-attached entity at invalid position: class_2338{x=351, y=-59, z=281}
+[00:02:02] [c2me-worker-8/ERROR]: Block-attached entity at invalid position: class_2338{x=347, y=-59, z=281}
+[00:02:20] [c2me-worker-2/ERROR]: Block-attached entity at invalid position: class_2338{x=371, y=-59, z=320}
+[00:02:26] [c2me-worker-9/ERROR]: Block-attached entity at invalid position: class_2338{x=584, y=-59, z=285}
+[00:02:26] [c2me-worker-9/ERROR]: Block-attached entity at invalid position: class_2338{x=582, y=-60, z=284}
+[00:02:26] [c2me-worker-9/ERROR]: Block-attached entity at invalid position: class_2338{x=371, y=-59, z=320}
+[00:02:26] [c2me-worker-9/ERROR]: Block-attached entity at invalid position: class_2338{x=371, y=-59, z=320}
+[00:02:26] [c2me-worker-5/ERROR]: Block-attached entity at invalid position: class_2338{x=371, y=-59, z=320}
+[00:03:55] [c2me-worker-0/WARN]: Couldn't find template pool reference: minecraft:village/empty
+[00:03:55] [c2me-worker-0/WARN]: Couldn't find template pool reference: minecraft:village/empty
+[00:03:56] [c2me-worker-0/WARN]: Couldn't find template pool reference: minecraft:village/empty
+[00:03:56] [c2me-worker-0/WARN]: Couldn't find template pool reference: minecraft:village/empty
+[00:03:56] [c2me-worker-0/WARN]: Couldn't find template pool reference: minecraft:village/empty
+[00:03:56] [c2me-worker-0/WARN]: Couldn't find template pool reference: minecraft:village/empty
+[00:03:56] [c2me-worker-0/WARN]: Couldn't find template pool reference: minecraft:village/empty
+[00:03:56] [c2me-worker-0/WARN]: Couldn't find template pool reference: minecraft:village/empty
+[00:03:56] [c2me-worker-0/WARN]: Couldn't find template pool reference: minecraft:village/empty
+[00:03:56] [c2me-worker-0/WARN]: Couldn't find template pool reference: minecraft:village/empty
+[00:03:56] [c2me-worker-0/WARN]: Couldn't find template pool reference: minecraft:village/empty
+[00:03:56] [c2me-worker-0/WARN]: Couldn't find template pool reference: minecraft:village/empty
+[00:03:56] [c2me-worker-0/WARN]: Couldn't find template pool reference: minecraft:village/empty
+[00:03:56] [c2me-worker-0/WARN]: Couldn't find template pool reference: minecraft:village/empty
+[00:09:23] [Server thread/INFO]: [Not Secure] <Storyseek3r> sleep nigga
+[00:09:29] [Server thread/INFO]: Afaz-Dev lost connection: Disconnected
+[00:09:29] [Server thread/INFO]: Afaz-Dev left the game
+[00:09:59] [Server thread/INFO]: Afaz-Dev[/100.99.48.98:49695] logged in with entity id 31551 at (503.22096607225683, -25.0, -1701.056597229422)
+[00:09:59] [Server thread/INFO]: Loading config from file...
+[00:09:59] [Server thread/INFO]: Afaz-Dev joined the game
+[00:10:00] [Server thread/INFO]: Player Afaz-Dev joined with a matching carpet client
+[00:21:42] [Server thread/INFO]: OumaKazuya[/100.75.132.49:50096] logged in with entity id 41315 at (-11.699999988079071, 71.0, -1499.3134089468228)
+[00:21:42] [Server thread/INFO]: Loading config from file...
+[00:21:42] [Server thread/INFO]: OumaKazuya joined the game
+[00:22:43] [Server thread/INFO]: [Not Secure] <Afaz-Dev> schizophrenia experience
+[00:22:54] [Server thread/INFO]: Afaz-Dev has made the advancement [Not Today, Thank You]
+[00:24:56] [Server thread/INFO]: [Not Secure] <Storyseek3r> wwwwwwwww
+[00:25:20] [Server thread/INFO]: [Not Secure] <Afaz-Dev> los schlaffen
+[00:25:31] [Server thread/INFO]: [Not Secure] <Afaz-Dev> buto hg
+[00:25:44] [Server thread/INFO]: [Not Secure] <Afaz-Dev> ku masih ingat kedak
+[00:26:39] [Server thread/INFO]: [Not Secure] <OumaKazuya> ch
+[00:26:41] [Server thread/INFO]: [Not Secure] <Afaz-Dev> nwunecnwjcnw
+[00:28:09] [Server thread/INFO]: [Not Secure] <Afaz-Dev> anastasis???
+[00:41:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[00:43:41] [Server thread/INFO]: OumaKazuya lost connection: Disconnected
+[00:43:41] [Server thread/INFO]: OumaKazuya left the game
+[00:43:41] [Netty Server IO #5/WARN]: Failed to deliver packet, sending fallback clientbound/minecraft:system_chat
+io.netty.channel.StacklessClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(Object, ChannelPromise)(Unknown Source) ~[netty-transport-4.1.118.Final.jar:?]
+Caused by: java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.SocketDispatcher.writev0(Native Method) ~[?:?]
+	at java.base/sun.nio.ch.SocketDispatcher.writev(SocketDispatcher.java:58) ~[?:?]
+	at java.base/sun.nio.ch.IOUtil.write(IOUtil.java:227) ~[?:?]
+	at java.base/sun.nio.ch.IOUtil.write(IOUtil.java:158) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:574) ~[?:?]
+	at knot/io.netty.channel.socket.nio.NioSocketChannel.doWrite(NioSocketChannel.java:429) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannel$AbstractUnsafe.flush0(AbstractChannel.java:929) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.flush0(AbstractNioChannel.java:359) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannel$AbstractUnsafe.flush(AbstractChannel.java:893) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.DefaultChannelPipeline$HeadContext.flush(DefaultChannelPipeline.java:1319) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeFlush0(AbstractChannelHandlerContext.java:935) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeFlush(AbstractChannelHandlerContext.java:921) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.flush(AbstractChannelHandlerContext.java:907) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.ChannelOutboundHandlerAdapter.flush(ChannelOutboundHandlerAdapter.java:125) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeFlush0(AbstractChannelHandlerContext.java:939) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:957) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/net.minecraft.class_2535.method_36942(class_2535.java:351) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2535.method_52917(class_2535.java:345) ~[server-intermediary.jar:?]
+	at knot/io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:173) ~[netty-common-4.1.118.Final.jar:?]
+	at knot/io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:166) ~[netty-common-4.1.118.Final.jar:?]
+	at knot/io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:472) ~[netty-common-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:566) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:?]
+	at knot/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[00:43:41] [Netty Server IO #3/WARN]: Failed to deliver packet, sending fallback clientbound/minecraft:system_chat
+java.io.IOException: Connection reset by peer
+	at java.base/sun.nio.ch.SocketDispatcher.writev0(Native Method) ~[?:?]
+	at java.base/sun.nio.ch.SocketDispatcher.writev(SocketDispatcher.java:58) ~[?:?]
+	at java.base/sun.nio.ch.IOUtil.write(IOUtil.java:227) ~[?:?]
+	at java.base/sun.nio.ch.IOUtil.write(IOUtil.java:158) ~[?:?]
+	at java.base/sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:574) ~[?:?]
+	at knot/io.netty.channel.socket.nio.NioSocketChannel.doWrite(NioSocketChannel.java:429) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannel$AbstractUnsafe.flush0(AbstractChannel.java:929) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.flush0(AbstractNioChannel.java:359) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannel$AbstractUnsafe.flush(AbstractChannel.java:893) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.DefaultChannelPipeline$HeadContext.flush(DefaultChannelPipeline.java:1319) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeFlush0(AbstractChannelHandlerContext.java:935) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeFlush(AbstractChannelHandlerContext.java:921) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.flush(AbstractChannelHandlerContext.java:907) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.ChannelOutboundHandlerAdapter.flush(ChannelOutboundHandlerAdapter.java:125) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeFlush0(AbstractChannelHandlerContext.java:939) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:957) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/net.minecraft.class_2535.method_36942(class_2535.java:351) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2535.method_10764(class_2535.java:343) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2535.method_52906(class_2535.java:325) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2535.method_10752(class_2535.java:319) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_2535.exceptionCaught(class_2535.java:170) ~[server-intermediary.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.handleReadException(AbstractNioByteChannel.java:125) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:177) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:796) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:732) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:658) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.118.Final.jar:?]
+	at knot/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:998) ~[netty-common-4.1.118.Final.jar:?]
+	at knot/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.118.Final.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[00:43:41] [Server thread/INFO]: RayWolford79 lost connection: Disconnected
+[00:43:41] [Server thread/INFO]: RayWolford79 left the game
+[00:43:41] [Server thread/INFO]: Afaz-Dev lost connection: Disconnected
+[00:43:41] [Server thread/INFO]: Afaz-Dev left the game
+[00:44:21] [Server thread/INFO]: Storyseek3r lost connection: Disconnected
+[00:44:21] [Server thread/INFO]: Storyseek3r left the game
+[00:44:28] [Server thread/INFO]: OumaKazuya[/100.75.132.49:57124] logged in with entity id 59036 at (107.6982421875, 76.06138182093898, -1687.6982421875)
+[00:44:28] [Server thread/INFO]: Loading config from file...
+[00:44:28] [Server thread/INFO]: OumaKazuya joined the game
+[00:44:53] [Server thread/INFO]: OumaKazuya lost connection: Disconnected
+[00:44:53] [Server thread/INFO]: OumaKazuya left the game
+[00:45:18] [Server thread/INFO]: Storyseek3r[/100.121.112.67:22695] logged in with entity id 59625 at (384.69999998807907, 80.0, -1755.7243041910995)
+[00:45:18] [Server thread/INFO]: Loading config from file...
+[00:45:19] [Server thread/INFO]: Storyseek3r joined the game
+[00:45:52] [Server thread/INFO]: Afaz-Dev[/100.99.48.98:28616] logged in with entity id 60043 at (218.4696062264867, 70.0, -1629.770289151715)
+[00:45:52] [Server thread/INFO]: Loading config from file...
+[00:45:52] [Server thread/INFO]: Afaz-Dev joined the game
+[00:45:53] [Server thread/INFO]: Player Afaz-Dev joined with a matching carpet client
+[00:46:33] [Server thread/INFO]: mp (FileLoaded) Setting config file to version "6.0.0-beta.53": journeymap.server.mp.config
+[00:50:20] [Server thread/INFO]: Storyseek3r lost connection: Disconnected
+[00:50:20] [Server thread/INFO]: Storyseek3r left the game
+[00:50:32] [Server thread/INFO]: Afaz-Dev lost connection: Disconnected
+[00:50:32] [Server thread/INFO]: Afaz-Dev left the game
+[00:50:33] [Server thread/INFO]: Stopping server
+[00:50:33] [Server thread/INFO]: Saving players
+[00:50:33] [Server thread/INFO]: Saving worlds
+[00:50:33] [Server thread/INFO]: ServerLevel[world]/minecraft:overworld: waiting for 841 chunks to unload
+[00:50:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:50:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:50:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:50:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:50:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:50:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:50:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:50:34] [C2ME Storage #3/INFO]: Storage thread Thread[#115,C2ME Storage #3,8,main] stopped
+[00:50:34] [C2ME Storage #2/INFO]: Storage thread Thread[#114,C2ME Storage #2,8,main] stopped
+[00:50:34] [C2ME Storage #1/INFO]: Storage thread Thread[#113,C2ME Storage #1,8,main] stopped
+[00:50:34] [C2ME Storage #5/INFO]: Storage thread Thread[#126,C2ME Storage #5,8,main] stopped
+[00:50:34] [C2ME Storage #4/INFO]: Storage thread Thread[#125,C2ME Storage #4,8,main] stopped
+[00:50:34] [C2ME Storage #6/INFO]: Storage thread Thread[#127,C2ME Storage #6,8,main] stopped
+[00:50:34] [C2ME Storage #8/INFO]: Storage thread Thread[#129,C2ME Storage #8,8,main] stopped
+[00:50:34] [C2ME Storage #9/INFO]: Storage thread Thread[#130,C2ME Storage #9,8,main] stopped
+[00:50:34] [C2ME Storage #7/INFO]: Storage thread Thread[#128,C2ME Storage #7,8,main] stopped
+[00:50:34] [Server thread/INFO]: Thread RCON Listener stopped
+[00:50:34] [RCON Client /100.99.48.98 #2/INFO]: Thread RCON Client /100.99.48.98 shutting down
+[00:50:34] [Server thread/INFO]: Thread RCON Client /100.99.48.98 stopped

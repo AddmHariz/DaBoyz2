@@ -7,6 +7,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "hot_springs": "2025-10-10 23:44:15 +0800",
       "spider_nest": "2025-09-05 22:45:46 +0800",
       "muskeg": "2025-09-11 23:09:56 +0800",
       "woodland": "2025-09-26 23:02:06 +0800",
@@ -31,6 +32,7 @@
       "pasture": "2025-09-27 00:23:23 +0800",
       "jade_cliffs": "2025-09-05 23:24:45 +0800",
       "volcanic_plains": "2025-09-26 23:28:08 +0800",
+      "wetland": "2025-10-10 23:41:44 +0800",
       "mystic_grove": "2025-09-26 22:27:42 +0800",
       "cold_desert": "2025-09-05 21:49:08 +0800",
       "lavender_field": "2025-09-26 23:43:24 +0800",
@@ -4971,6 +4973,30 @@
   "minecraft:recipes/misc/purple_dye_from_lavender": {
     "criteria": {
       "has_lavender": "2025-09-26 23:43:37 +0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/willow_planks": {
+    "criteria": {
+      "has_logs": "2025-10-10 23:42:08 +0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/willow_wood": {
+    "criteria": {
+      "has_log": "2025-10-10 23:42:08 +0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mossy_cobblestone_from_willow_vine": {
+    "criteria": {
+      "has_willow_vine": "2025-10-10 23:43:07 +0800"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mossy_stone_bricks_from_willow_vine": {
+    "criteria": {
+      "has_willow_vine": "2025-10-10 23:43:07 +0800"
     },
     "done": true
   },
