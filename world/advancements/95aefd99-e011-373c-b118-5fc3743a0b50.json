@@ -362,10 +362,11 @@
   },
   "weaponmod:flail.diamond": {
     "criteria": {
+      "has_c_strings": "2025-11-22 00:14:56 +0800",
       "has_minecraft_diamond_tool_materials": "2025-09-27 00:19:14 +0800",
       "has_c_rods/wooden": "2025-09-27 00:09:51 +0800"
     },
-    "done": false
+    "done": true
   },
   "weaponmod:knife.wood": {
     "criteria": {
@@ -423,6 +424,7 @@
   },
   "weaponmod:flail.gold": {
     "criteria": {
+      "has_c_strings": "2025-11-22 00:14:56 +0800",
       "has_c_rods/wooden": "2025-09-27 00:09:51 +0800"
     },
     "done": false
@@ -532,9 +534,10 @@
   "weaponmod:flail.wood": {
     "criteria": {
       "has_minecraft_wooden_tool_materials": "2025-09-27 00:09:54 +0800",
+      "has_c_strings": "2025-11-22 00:14:56 +0800",
       "has_c_rods/wooden": "2025-09-27 00:09:51 +0800"
     },
-    "done": false
+    "done": true
   },
   "weaponmod:javelin": {
     "criteria": {
@@ -544,10 +547,11 @@
   },
   "weaponmod:flail.stone": {
     "criteria": {
+      "has_c_strings": "2025-11-22 00:14:56 +0800",
       "has_c_rods/wooden": "2025-09-27 00:09:51 +0800",
       "has_minecraft_stone_tool_materials": "2025-09-27 00:10:25 +0800"
     },
-    "done": false
+    "done": true
   },
   "weaponmod:warhammer.iron": {
     "criteria": {
@@ -655,10 +659,11 @@
   },
   "weaponmod:flail.iron": {
     "criteria": {
+      "has_c_strings": "2025-11-22 00:14:56 +0800",
       "has_c_rods/wooden": "2025-09-27 00:09:51 +0800",
       "has_minecraft_iron_tool_materials": "2025-09-27 00:11:54 +0800"
     },
-    "done": false
+    "done": true
   },
   "weaponmod:knife.gold.a": {
     "criteria": {
@@ -1399,9 +1404,10 @@
   },
   "weaponmod:dynamite": {
     "criteria": {
-      "has_minecraft_gunpowder": "2025-09-27 00:25:18 +0800"
+      "has_minecraft_gunpowder": "2025-09-27 00:25:18 +0800",
+      "has_c_strings": "2025-11-22 00:14:56 +0800"
     },
-    "done": false
+    "done": true
   },
   "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
     "criteria": {
@@ -1851,12 +1857,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-10-11 02:28:12 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-10-11 02:09:05 +0800"
@@ -1866,6 +1866,72 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-10-11 02:09:05 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-10-11 02:28:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-11-22 00:14:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-11-22 00:14:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-11-22 00:14:56 +0800"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2025-11-22 00:14:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-11-22 00:14:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_string": "2025-11-22 00:14:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-11-22 00:14:56 +0800"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/decorations/rain_collector": {
+    "criteria": {
+      "has_string": "2025-11-22 00:14:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-11-22 00:14:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/bundle": {
+    "criteria": {
+      "has_string": "2025-11-22 00:14:56 +0800"
     },
     "done": true
   },
